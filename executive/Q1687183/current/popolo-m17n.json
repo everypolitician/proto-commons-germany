@@ -1,0 +1,73 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:de": "Daniel Günther",
+        "lang:en": "Daniel Günther"
+      },
+      "id": "Q969340",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q969340"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:de": "Landesregierung von Schleswig-Holstein"
+      },
+      "id": "Q1687183",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1687183"
+        }
+      ],
+      "area_id": "Q1194"
+    },
+    {
+      "name": {
+        "lang:de": "Christlich Demokratische Union Deutschlands",
+        "lang:en": "Christian Democratic Union"
+      },
+      "id": "Q49762",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49762"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q969340-16fa8d52-484a-53c4-d2f7-9749560c0f85",
+      "person_id": "Q969340",
+      "on_behalf_of_id": "Q49762",
+      "organization_id": "Q1687183",
+      "area_id": "Q1194",
+      "start_date": "2017-06-28",
+      "role_superclass_code": "Q30263013",
+      "role_superclass": {
+        "lang:de": "Ministerpräsident Schleswig-Holsteins",
+        "lang:en": "Minister-President of Schleswig-Holstein"
+      },
+      "role_code": "Q30263013",
+      "role": {
+        "lang:de": "Ministerpräsident Schleswig-Holsteins",
+        "lang:en": "Minister-President of Schleswig-Holstein"
+      }
+    }
+  ]
+}

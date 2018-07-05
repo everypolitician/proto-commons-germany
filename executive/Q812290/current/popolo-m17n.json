@@ -1,0 +1,218 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:de": "Rudolf Hanauer",
+        "lang:en": "Rudolf Hanauer"
+      },
+      "id": "Q2172853",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2172853"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Alfons Goppel",
+        "lang:en": "Alfons Goppel"
+      },
+      "id": "Q481434",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q481434"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Hans Ehard",
+        "lang:en": "Hans Ehard"
+      },
+      "id": "Q67597",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q67597"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:de": "Bayerische Staatsregierung",
+        "lang:en": "Cabinet of Bavaria"
+      },
+      "id": "Q812290",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q812290"
+        }
+      ],
+      "area_id": "Q980"
+    },
+    {
+      "name": {
+        "lang:de": "Bayerische Volkspartei",
+        "lang:en": "Bavarian People's Party"
+      },
+      "id": "Q302884",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q302884"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Christlich-Soziale Union in Bayern",
+        "lang:en": "Christian Social Union of Bavaria"
+      },
+      "id": "Q49763",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49763"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Nationalsozialistische Deutsche Arbeiterpartei",
+        "lang:en": "NSDAP"
+      },
+      "id": "Q7320",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7320"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2172853-375d3df2-4836-a99d-2538-26612d71f7d7",
+      "person_id": "Q2172853",
+      "on_behalf_of_id": "Q49763",
+      "organization_id": "Q812290",
+      "area_id": "Q980",
+      "role_superclass_code": "Q15303555",
+      "role_superclass": {
+        "lang:de": "Ministerpräsident Bayerns",
+        "lang:en": "Minister-President of Bavaria"
+      },
+      "role_code": "Q15303555",
+      "role": {
+        "lang:de": "Ministerpräsident Bayerns",
+        "lang:en": "Minister-President of Bavaria"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q481434-831A8A9E-E04D-4254-9AF3-DACC394424EE",
+      "person_id": "Q481434",
+      "on_behalf_of_id": "Q302884",
+      "organization_id": "Q812290",
+      "area_id": "Q980",
+      "role_superclass_code": "Q15303555",
+      "role_superclass": {
+        "lang:de": "Ministerpräsident Bayerns",
+        "lang:en": "Minister-President of Bavaria"
+      },
+      "role_code": "Q15303555",
+      "role": {
+        "lang:de": "Ministerpräsident Bayerns",
+        "lang:en": "Minister-President of Bavaria"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q481434-831A8A9E-E04D-4254-9AF3-DACC394424EE",
+      "person_id": "Q481434",
+      "on_behalf_of_id": "Q49763",
+      "organization_id": "Q812290",
+      "area_id": "Q980",
+      "role_superclass_code": "Q15303555",
+      "role_superclass": {
+        "lang:de": "Ministerpräsident Bayerns",
+        "lang:en": "Minister-President of Bavaria"
+      },
+      "role_code": "Q15303555",
+      "role": {
+        "lang:de": "Ministerpräsident Bayerns",
+        "lang:en": "Minister-President of Bavaria"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q481434-831A8A9E-E04D-4254-9AF3-DACC394424EE",
+      "person_id": "Q481434",
+      "on_behalf_of_id": "Q7320",
+      "organization_id": "Q812290",
+      "area_id": "Q980",
+      "role_superclass_code": "Q15303555",
+      "role_superclass": {
+        "lang:de": "Ministerpräsident Bayerns",
+        "lang:en": "Minister-President of Bavaria"
+      },
+      "role_code": "Q15303555",
+      "role": {
+        "lang:de": "Ministerpräsident Bayerns",
+        "lang:en": "Minister-President of Bavaria"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q67597-bc29ffc8-4a51-ffd6-c7e5-f9f1cf3877b9",
+      "person_id": "Q67597",
+      "on_behalf_of_id": "Q302884",
+      "organization_id": "Q812290",
+      "area_id": "Q980",
+      "role_superclass_code": "Q15303555",
+      "role_superclass": {
+        "lang:de": "Ministerpräsident Bayerns",
+        "lang:en": "Minister-President of Bavaria"
+      },
+      "role_code": "Q15303555",
+      "role": {
+        "lang:de": "Ministerpräsident Bayerns",
+        "lang:en": "Minister-President of Bavaria"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q67597-bc29ffc8-4a51-ffd6-c7e5-f9f1cf3877b9",
+      "person_id": "Q67597",
+      "on_behalf_of_id": "Q49763",
+      "organization_id": "Q812290",
+      "area_id": "Q980",
+      "role_superclass_code": "Q15303555",
+      "role_superclass": {
+        "lang:de": "Ministerpräsident Bayerns",
+        "lang:en": "Minister-President of Bavaria"
+      },
+      "role_code": "Q15303555",
+      "role": {
+        "lang:de": "Ministerpräsident Bayerns",
+        "lang:en": "Minister-President of Bavaria"
+      }
+    }
+  ]
+}

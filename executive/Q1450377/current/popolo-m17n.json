@@ -1,0 +1,73 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:de": "Reiner Haseloff",
+        "lang:en": "Reiner Haseloff"
+      },
+      "id": "Q69355",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q69355"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:de": "Landesregierung von Sachsen-Anhalt"
+      },
+      "id": "Q1450377",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1450377"
+        }
+      ],
+      "area_id": "Q1206"
+    },
+    {
+      "name": {
+        "lang:de": "Christlich Demokratische Union Deutschlands",
+        "lang:en": "Christian Democratic Union"
+      },
+      "id": "Q49762",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49762"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q69355-4bb6de25-46df-ce22-5799-69401018eca7",
+      "person_id": "Q69355",
+      "on_behalf_of_id": "Q49762",
+      "organization_id": "Q1450377",
+      "area_id": "Q1206",
+      "start_date": "2011-04-19",
+      "role_superclass_code": "Q30968305",
+      "role_superclass": {
+        "lang:de": "Ministerpräsident Sachsen-Anhalts",
+        "lang:en": "Minister-President of Saxony-Anhalt"
+      },
+      "role_code": "Q30968305",
+      "role": {
+        "lang:de": "Ministerpräsident Sachsen-Anhalts",
+        "lang:en": "Minister-President of Saxony-Anhalt"
+      }
+    }
+  ]
+}

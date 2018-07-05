@@ -1,0 +1,105 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:de": "Bodo Ramelow",
+        "lang:en": "Bodo Ramelow"
+      },
+      "id": "Q104678",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q104678"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:de": "Thüringer Landesregierung"
+      },
+      "id": "Q15850888",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15850888"
+        }
+      ],
+      "area_id": "Q1205"
+    },
+    {
+      "name": {
+        "lang:de": "Partei des Demokratischen Sozialismus",
+        "lang:en": "The Left Party.PDS"
+      },
+      "id": "Q152554",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q152554"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Die Linke",
+        "lang:en": "The Left"
+      },
+      "id": "Q49764",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49764"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q104678-8a31b0c2-4232-400a-7228-b9ed685799cd",
+      "person_id": "Q104678",
+      "on_behalf_of_id": "Q152554",
+      "organization_id": "Q15850888",
+      "area_id": "Q1205",
+      "start_date": "2014-12-05",
+      "role_superclass_code": "Q30584228",
+      "role_superclass": {
+        "lang:de": "Ministerpräsident Thüringens",
+        "lang:en": "Minister-President of Thuringia"
+      },
+      "role_code": "Q30584228",
+      "role": {
+        "lang:de": "Ministerpräsident Thüringens",
+        "lang:en": "Minister-President of Thuringia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q104678-8a31b0c2-4232-400a-7228-b9ed685799cd",
+      "person_id": "Q104678",
+      "on_behalf_of_id": "Q49764",
+      "organization_id": "Q15850888",
+      "area_id": "Q1205",
+      "start_date": "2014-12-05",
+      "role_superclass_code": "Q30584228",
+      "role_superclass": {
+        "lang:de": "Ministerpräsident Thüringens",
+        "lang:en": "Minister-President of Thuringia"
+      },
+      "role_code": "Q30584228",
+      "role": {
+        "lang:de": "Ministerpräsident Thüringens",
+        "lang:en": "Minister-President of Thuringia"
+      }
+    }
+  ]
+}

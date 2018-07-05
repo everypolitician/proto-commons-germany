@@ -1,0 +1,80 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:de": "Michael Kretschmer",
+        "lang:en": "Michael Kretschmer"
+      },
+      "id": "Q1928299",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1928299"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/CDU.Michael.Kretschmer"
+        },
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/Michael.Kretschmer.CDU"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:de": "Sächsische Staatsregierung"
+      },
+      "id": "Q2378571",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2378571"
+        }
+      ],
+      "area_id": "Q1202"
+    },
+    {
+      "name": {
+        "lang:de": "Christlich Demokratische Union Deutschlands",
+        "lang:en": "Christian Democratic Union"
+      },
+      "id": "Q49762",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49762"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1928299-2a93be95-45a3-ecf8-1cb5-f4dd9e2d88f8",
+      "person_id": "Q1928299",
+      "on_behalf_of_id": "Q49762",
+      "organization_id": "Q2378571",
+      "area_id": "Q1202",
+      "start_date": "2017-12-13",
+      "role_superclass_code": "Q30569887",
+      "role_superclass": {
+        "lang:de": "Ministerpräsident Sachsens",
+        "lang:en": "Minister-President of Saxony"
+      },
+      "role_code": "Q30569887",
+      "role": {
+        "lang:de": "Ministerpräsident Sachsens",
+        "lang:en": "Minister-President of Saxony"
+      }
+    }
+  ]
+}

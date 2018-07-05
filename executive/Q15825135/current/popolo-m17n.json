@@ -1,0 +1,73 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:de": "Manuela Schwesig",
+        "lang:en": "Manuela Schwesig"
+      },
+      "id": "Q72845",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q72845"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:de": "Landesregierung von Mecklenburg-Vorpommern"
+      },
+      "id": "Q15825135",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15825135"
+        }
+      ],
+      "area_id": "Q1196"
+    },
+    {
+      "name": {
+        "lang:de": "Sozialdemokratische Partei Deutschlands",
+        "lang:en": "Social Democratic Party of Germany"
+      },
+      "id": "Q49768",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49768"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q72845-607da3c0-42b9-ebb7-408e-0899dca00793",
+      "person_id": "Q72845",
+      "on_behalf_of_id": "Q49768",
+      "organization_id": "Q15825135",
+      "area_id": "Q1196",
+      "start_date": "2017-07-04",
+      "role_superclass_code": "Q14917672",
+      "role_superclass": {
+        "lang:de": "Ministerpräsident Mecklenburg-Vorpommerns",
+        "lang:en": "Minister-President of Mecklenburg-Vorpommern"
+      },
+      "role_code": "Q14917672",
+      "role": {
+        "lang:de": "Ministerpräsident Mecklenburg-Vorpommerns",
+        "lang:en": "Minister-President of Mecklenburg-Vorpommern"
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:de": "Angela Merkel",
+        "lang:en": "Angela Merkel"
+      },
+      "id": "Q567",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q567"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/AngelaMerkel"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:de": "Bundeskabinett",
+        "lang:en": "Cabinet of the Federal Republic of Germany"
+      },
+      "id": "Q313827",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q313827"
+        }
+      ],
+      "area_id": "Q183"
+    },
+    {
+      "name": {
+        "lang:de": "Christlich Demokratische Union Deutschlands",
+        "lang:en": "Christian Democratic Union"
+      },
+      "id": "Q49762",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49762"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/q567-0ef809fd-476e-f0d0-bdcc-ee66b6e38c25",
+      "person_id": "Q567",
+      "on_behalf_of_id": "Q49762",
+      "organization_id": "Q313827",
+      "area_id": "Q183",
+      "start_date": "2005-11-22",
+      "role_superclass_code": "Q4970706",
+      "role_superclass": {
+        "lang:de": "Bundeskanzler",
+        "lang:en": "Federal Chancellor of Germany"
+      },
+      "role_code": "Q4970706",
+      "role": {
+        "lang:de": "Bundeskanzler",
+        "lang:en": "Federal Chancellor of Germany"
+      }
+    }
+  ]
+}

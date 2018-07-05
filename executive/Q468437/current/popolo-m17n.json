@@ -1,0 +1,77 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:de": "Carsten Sieling",
+        "lang:en": "Carsten Sieling"
+      },
+      "id": "Q1045675",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1045675"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/carsten.sieling"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:de": "Senat der Freien Hansestadt Bremen",
+        "lang:en": "Senate of Bremen"
+      },
+      "id": "Q468437",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q468437"
+        }
+      ],
+      "area_id": "Q1209"
+    },
+    {
+      "name": {
+        "lang:de": "Sozialdemokratische Partei Deutschlands",
+        "lang:en": "Social Democratic Party of Germany"
+      },
+      "id": "Q49768",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49768"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1045675-44dedf21-4b9d-1885-7eb6-03d1bc51e49c",
+      "person_id": "Q1045675",
+      "on_behalf_of_id": "Q49768",
+      "organization_id": "Q468437",
+      "area_id": "Q1209",
+      "start_date": "2015-07-15",
+      "role_superclass_code": "Q31388880",
+      "role_superclass": {
+        "lang:de": "Bremer Bürgermeister",
+        "lang:en": "mayor of Bremen"
+      },
+      "role_code": "Q31388880",
+      "role": {
+        "lang:de": "Bremer Bürgermeister",
+        "lang:en": "mayor of Bremen"
+      }
+    }
+  ]
+}

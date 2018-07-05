@@ -1,0 +1,73 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:de": "Stephan Weil",
+        "lang:en": "Stephan Weil"
+      },
+      "id": "Q2120880",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2120880"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:de": "niedersächsische Landesregierung"
+      },
+      "id": "Q1668823",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1668823"
+        }
+      ],
+      "area_id": "Q1197"
+    },
+    {
+      "name": {
+        "lang:de": "Sozialdemokratische Partei Deutschlands",
+        "lang:en": "Social Democratic Party of Germany"
+      },
+      "id": "Q49768",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49768"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/q2120880-f6c07ed8-4b19-afd9-a8e9-7d6bef873ff7",
+      "person_id": "Q2120880",
+      "on_behalf_of_id": "Q49768",
+      "organization_id": "Q1668823",
+      "area_id": "Q1197",
+      "start_date": "2013-02-19",
+      "role_superclass_code": "Q31524732",
+      "role_superclass": {
+        "lang:de": "Ministerpräsident Niedersachsens",
+        "lang:en": "Minister-President of Lower Saxony"
+      },
+      "role_code": "Q31524732",
+      "role": {
+        "lang:de": "Ministerpräsident Niedersachsens",
+        "lang:en": "Minister-President of Lower Saxony"
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:de": "Dietmar Woidke",
+        "lang:en": "Dietmar Woidke"
+      },
+      "id": "Q99660",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q99660"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:de": "Brandenburgische Landesregierung"
+      },
+      "id": "Q897924",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q897924"
+        }
+      ],
+      "area_id": "Q1208"
+    },
+    {
+      "name": {
+        "lang:de": "Sozialdemokratische Partei Deutschlands",
+        "lang:en": "Social Democratic Party of Germany"
+      },
+      "id": "Q49768",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49768"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q99660-f32069be-420c-2d41-a060-918bfceb5362",
+      "person_id": "Q99660",
+      "on_behalf_of_id": "Q49768",
+      "organization_id": "Q897924",
+      "area_id": "Q1208",
+      "start_date": "2013-08-28",
+      "role_superclass_code": "Q30562601",
+      "role_superclass": {
+        "lang:de": "Ministerpräsident Brandenburgs",
+        "lang:en": "Minister-President of Brandenburg"
+      },
+      "role_code": "Q30562601",
+      "role": {
+        "lang:de": "Ministerpräsident Brandenburgs",
+        "lang:en": "Minister-President of Brandenburg"
+      }
+    }
+  ]
+}

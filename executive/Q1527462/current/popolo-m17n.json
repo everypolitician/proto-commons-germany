@@ -1,0 +1,73 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:de": "Annegret Kramp-Karrenbauer",
+        "lang:en": "Annegret Kramp-Karrenbauer"
+      },
+      "id": "Q71359",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q71359"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:de": "Saarländische Landesregierung"
+      },
+      "id": "Q1527462",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1527462"
+        }
+      ],
+      "area_id": "Q1201"
+    },
+    {
+      "name": {
+        "lang:de": "Christlich Demokratische Union Deutschlands",
+        "lang:en": "Christian Democratic Union"
+      },
+      "id": "Q49762",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49762"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q71359-b828e288-4ca0-ff24-b135-6d8027cad998",
+      "person_id": "Q71359",
+      "on_behalf_of_id": "Q49762",
+      "organization_id": "Q1527462",
+      "area_id": "Q1201",
+      "start_date": "2011-08-10",
+      "role_superclass_code": "Q31068298",
+      "role_superclass": {
+        "lang:de": "Ministerpräsident des Saarlandes",
+        "lang:en": "Minister-President of the Saarland"
+      },
+      "role_code": "Q31068298",
+      "role": {
+        "lang:de": "Ministerpräsident des Saarlandes",
+        "lang:en": "Minister-President of the Saarland"
+      }
+    }
+  ]
+}

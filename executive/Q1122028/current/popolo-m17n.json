@@ -1,0 +1,73 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:de": "Malu Dreyer",
+        "lang:en": "Malu Dreyer"
+      },
+      "id": "Q84581",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q84581"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:de": "Landesregierung von Rheinland-Pfalz"
+      },
+      "id": "Q1122028",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1122028"
+        }
+      ],
+      "area_id": "Q1200"
+    },
+    {
+      "name": {
+        "lang:de": "Sozialdemokratische Partei Deutschlands",
+        "lang:en": "Social Democratic Party of Germany"
+      },
+      "id": "Q49768",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49768"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q84581-30ee28df-4b65-24cf-011f-bb9ae5a0a60f",
+      "person_id": "Q84581",
+      "on_behalf_of_id": "Q49768",
+      "organization_id": "Q1122028",
+      "area_id": "Q1200",
+      "start_date": "2013-01-16",
+      "role_superclass_code": "Q15720142",
+      "role_superclass": {
+        "lang:de": "Ministerpräsident von Rheinland-Pfalz",
+        "lang:en": "Minister-President of  Rhineland-Palatinate"
+      },
+      "role_code": "Q15720142",
+      "role": {
+        "lang:de": "Ministerpräsident von Rheinland-Pfalz",
+        "lang:en": "Minister-President of  Rhineland-Palatinate"
+      }
+    }
+  ]
+}

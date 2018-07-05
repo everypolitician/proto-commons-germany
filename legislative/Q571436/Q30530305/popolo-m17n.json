@@ -1,0 +1,198 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:de": "Sylvia Löhrmann",
+        "lang:en": "Sylvia Löhrmann"
+      },
+      "id": "Q87772",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q87772"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:de": "Landtag Nordrhein-Westfalen",
+        "lang:en": "Landtag of North Rhine-Westphalia"
+      },
+      "id": "Q571436",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q571436"
+        }
+      ],
+      "area_id": "Q1198",
+      "seat_counts": {
+        "Q17781726": null
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C",
+      "person_id": "Q87772",
+      "organization_id": "Q571436",
+      "start_date": "1995-10-05",
+      "end_date": "2012-03-14",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17781726",
+      "role": {
+        "lang:de": "Mitglied des Landtags von Nordrhein-Westfalen",
+        "lang:en": "member of the Landtag of North Rhine-Westphalia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C",
+      "person_id": "Q87772",
+      "organization_id": "Q571436",
+      "start_date": "1995-10-05",
+      "end_date": "2012-10-31",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17781726",
+      "role": {
+        "lang:de": "Mitglied des Landtags von Nordrhein-Westfalen",
+        "lang:en": "member of the Landtag of North Rhine-Westphalia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C",
+      "person_id": "Q87772",
+      "organization_id": "Q571436",
+      "start_date": "1995-10-05",
+      "end_date": "2017-07-14",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17781726",
+      "role": {
+        "lang:de": "Mitglied des Landtags von Nordrhein-Westfalen",
+        "lang:en": "member of the Landtag of North Rhine-Westphalia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C",
+      "person_id": "Q87772",
+      "organization_id": "Q571436",
+      "start_date": "2012-05-31",
+      "end_date": "2012-03-14",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17781726",
+      "role": {
+        "lang:de": "Mitglied des Landtags von Nordrhein-Westfalen",
+        "lang:en": "member of the Landtag of North Rhine-Westphalia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C",
+      "person_id": "Q87772",
+      "organization_id": "Q571436",
+      "start_date": "2012-05-31",
+      "end_date": "2012-10-31",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17781726",
+      "role": {
+        "lang:de": "Mitglied des Landtags von Nordrhein-Westfalen",
+        "lang:en": "member of the Landtag of North Rhine-Westphalia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C",
+      "person_id": "Q87772",
+      "organization_id": "Q571436",
+      "start_date": "2012-05-31",
+      "end_date": "2017-07-14",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17781726",
+      "role": {
+        "lang:de": "Mitglied des Landtags von Nordrhein-Westfalen",
+        "lang:en": "member of the Landtag of North Rhine-Westphalia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C",
+      "person_id": "Q87772",
+      "organization_id": "Q571436",
+      "start_date": "2017-06-01",
+      "end_date": "2012-03-14",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17781726",
+      "role": {
+        "lang:de": "Mitglied des Landtags von Nordrhein-Westfalen",
+        "lang:en": "member of the Landtag of North Rhine-Westphalia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C",
+      "person_id": "Q87772",
+      "organization_id": "Q571436",
+      "start_date": "2017-06-01",
+      "end_date": "2012-10-31",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17781726",
+      "role": {
+        "lang:de": "Mitglied des Landtags von Nordrhein-Westfalen",
+        "lang:en": "member of the Landtag of North Rhine-Westphalia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C",
+      "person_id": "Q87772",
+      "organization_id": "Q571436",
+      "start_date": "2017-06-01",
+      "end_date": "2017-07-14",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17781726",
+      "role": {
+        "lang:de": "Mitglied des Landtags von Nordrhein-Westfalen",
+        "lang:en": "member of the Landtag of North Rhine-Westphalia"
+      }
+    }
+  ]
+}

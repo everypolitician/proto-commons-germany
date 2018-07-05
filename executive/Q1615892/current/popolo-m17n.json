@@ -1,0 +1,106 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:de": "Roland Koch",
+        "lang:en": "Roland Koch"
+      },
+      "id": "Q60934",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q60934"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Volker Bouffier",
+        "lang:en": "Volker Bouffier"
+      },
+      "id": "Q69341",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q69341"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:de": "Hessische Landesregierung"
+      },
+      "id": "Q1615892",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1615892"
+        }
+      ],
+      "area_id": "Q1199"
+    },
+    {
+      "name": {
+        "lang:de": "Christlich Demokratische Union Deutschlands",
+        "lang:en": "Christian Democratic Union"
+      },
+      "id": "Q49762",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49762"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q60934-a484b3f2-4e59-5ccf-d4d5-e39690ae7aaf",
+      "person_id": "Q60934",
+      "on_behalf_of_id": "Q49762",
+      "organization_id": "Q1615892",
+      "area_id": "Q1199",
+      "role_superclass_code": "Q1615935",
+      "role_superclass": {
+        "lang:de": "Ministerpräsident Hessens",
+        "lang:en": "Minister-President of Hesse"
+      },
+      "role_code": "Q1615935",
+      "role": {
+        "lang:de": "Ministerpräsident Hessens",
+        "lang:en": "Minister-President of Hesse"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q69341-0C82FA11-2BA1-4899-91EA-195DF444E1CB",
+      "person_id": "Q69341",
+      "on_behalf_of_id": "Q49762",
+      "organization_id": "Q1615892",
+      "area_id": "Q1199",
+      "start_date": "2010-08-31",
+      "role_superclass_code": "Q1615935",
+      "role_superclass": {
+        "lang:de": "Ministerpräsident Hessens",
+        "lang:en": "Minister-President of Hesse"
+      },
+      "role_code": "Q1615935",
+      "role": {
+        "lang:de": "Ministerpräsident Hessens",
+        "lang:en": "Minister-President of Hesse"
+      }
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:de": "Winfried Kretschmann",
+        "lang:en": "Winfried Kretschmann"
+      },
+      "id": "Q61051",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q61051"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:de": "Landesregierung von Baden-Württemberg",
+        "lang:en": "Government of Baden-Württemberg"
+      },
+      "id": "Q896892",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q896892"
+        }
+      ],
+      "area_id": "Q985"
+    },
+    {
+      "name": {
+        "lang:de": "Kommunistischer Bund Westdeutschland",
+        "lang:en": "Communist League of West Germany"
+      },
+      "id": "Q1412555",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1412555"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Bündnis 90/Die Grünen",
+        "lang:en": "Alliance '90/The Greens"
+      },
+      "id": "Q49766",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49766"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q61051-c039c213-427d-adb3-0316-75a2ca10f673",
+      "person_id": "Q61051",
+      "on_behalf_of_id": "Q1412555",
+      "organization_id": "Q896892",
+      "area_id": "Q985",
+      "start_date": "2011-05-12",
+      "role_superclass_code": "Q31096505",
+      "role_superclass": {
+        "lang:de": "Ministerpräsident Baden-Württembergs",
+        "lang:en": "Minister-President of Baden-Württemberg"
+      },
+      "role_code": "Q31096505",
+      "role": {
+        "lang:de": "Ministerpräsident Baden-Württembergs",
+        "lang:en": "Minister-President of Baden-Württemberg"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q61051-c039c213-427d-adb3-0316-75a2ca10f673",
+      "person_id": "Q61051",
+      "on_behalf_of_id": "Q49766",
+      "organization_id": "Q896892",
+      "area_id": "Q985",
+      "start_date": "2011-05-12",
+      "role_superclass_code": "Q31096505",
+      "role_superclass": {
+        "lang:de": "Ministerpräsident Baden-Württembergs",
+        "lang:en": "Minister-President of Baden-Württemberg"
+      },
+      "role_code": "Q31096505",
+      "role": {
+        "lang:de": "Ministerpräsident Baden-Württembergs",
+        "lang:en": "Minister-President of Baden-Württemberg"
+      }
+    }
+  ]
+}
