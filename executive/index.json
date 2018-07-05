@@ -1,3 +1,162 @@
 [
-
+  {
+    "comment": "Cabinet of the Federal Republic of Germany",
+    "executive_item_id": "Q313827",
+    "positions": [
+      {
+        "comment": "Federal Chancellor of Germany",
+        "position_item_id": "Q4970706"
+      }
+    ]
+  },
+  {
+    "comment": "Landesregierung von Rheinland-Pfalz",
+    "executive_item_id": "Q1122028",
+    "positions": [
+      {
+        "comment": "Minister-President of  Rhineland-Palatinate",
+        "position_item_id": "Q15720142"
+      }
+    ]
+  },
+  {
+    "comment": "Landesregierung von Sachsen-Anhalt",
+    "executive_item_id": "Q1450377",
+    "positions": [
+      {
+        "comment": "Minister-President of Saxony-Anhalt",
+        "position_item_id": "Q30968305"
+      }
+    ]
+  },
+  {
+    "comment": "Saarländische Landesregierung",
+    "executive_item_id": "Q1527462",
+    "positions": [
+      {
+        "comment": "Minister-President of the Saarland",
+        "position_item_id": "Q31068298"
+      }
+    ]
+  },
+  {
+    "comment": "Landesregierung von Mecklenburg-Vorpommern",
+    "executive_item_id": "Q15825135",
+    "positions": [
+      {
+        "comment": "Minister-President of Mecklenburg-Vorpommern",
+        "position_item_id": "Q14917672"
+      }
+    ]
+  },
+  {
+    "comment": "Thüringer Landesregierung",
+    "executive_item_id": "Q15850888",
+    "positions": [
+      {
+        "comment": "Minister-President of Thuringia",
+        "position_item_id": "Q30584228"
+      }
+    ]
+  },
+  {
+    "comment": "Hessische Landesregierung",
+    "executive_item_id": "Q1615892",
+    "positions": [
+      {
+        "comment": "Minister-President of Hesse",
+        "position_item_id": "Q1615935"
+      }
+    ]
+  },
+  {
+    "comment": "niedersächsische Landesregierung",
+    "executive_item_id": "Q1668823",
+    "positions": [
+      {
+        "comment": "Minister-President of Lower Saxony",
+        "position_item_id": "Q31524732"
+      }
+    ]
+  },
+  {
+    "comment": "Landesregierung von Schleswig-Holstein",
+    "executive_item_id": "Q1687183",
+    "positions": [
+      {
+        "comment": "Minister-President of Schleswig-Holstein",
+        "position_item_id": "Q30263013"
+      }
+    ]
+  },
+  {
+    "comment": "Landesregierung von Nordrhein-Westfalen",
+    "executive_item_id": "Q1761666",
+    "positions": [
+      {
+        "comment": "Minister-President of North Rhine-Westphalia",
+        "position_item_id": "Q30534793"
+      }
+    ]
+  },
+  {
+    "comment": "Sächsische Staatsregierung",
+    "executive_item_id": "Q2378571",
+    "positions": [
+      {
+        "comment": "Minister-President of Saxony",
+        "position_item_id": "Q30569887"
+      }
+    ]
+  },
+  {
+    "comment": "Senate of Bremen",
+    "executive_item_id": "Q468437",
+    "positions": [
+      {
+        "comment": "mayor of Bremen",
+        "position_item_id": "Q31388880"
+      }
+    ]
+  },
+  {
+    "comment": "Senate of Berlin",
+    "executive_item_id": "Q540130",
+    "positions": [
+      {
+        "comment": "Governing Mayor of Berlin",
+        "position_item_id": "Q641159"
+      }
+    ]
+  },
+  {
+    "comment": "Cabinet of Bavaria",
+    "executive_item_id": "Q812290",
+    "positions": [
+      {
+        "comment": "Minister-President of Bavaria",
+        "position_item_id": "Q15303555"
+      }
+    ]
+  },
+  {
+    "comment": "Government of Baden-Württemberg",
+    "executive_item_id": "Q896892",
+    "positions": [
+      {
+        "comment": "Minister-President of Baden-Württemberg",
+        "position_item_id": "Q31096505"
+      }
+    ]
+  },
+  {
+    "comment": "Brandenburgische Landesregierung",
+    "executive_item_id": "Q897924",
+    "positions": [
+      {
+        "comment": "Minister-President of Brandenburg",
+        "position_item_id": "Q30562601"
+      }
+    ]
+  }
 ]
