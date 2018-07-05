@@ -1,3 +1,324 @@
 [
-
+  {
+    "comment": "Bundesrat",
+    "house_item_id": "Q146138",
+    "position_item_id": "Q15835370",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Bundestag of Germany",
+    "house_item_id": "Q154797",
+    "position_item_id": "Q1939555",
+    "terms": [
+      {
+        "comment": "20th German Bundestag",
+        "term_item_id": "Q33091469"
+      },
+      {
+        "comment": "19th German Bundestag",
+        "position_item_id": "Q46214873",
+        "term_item_id": "Q30579723"
+      }
+    ]
+  },
+  {
+    "comment": "Landtag of Saarland",
+    "house_item_id": "Q260372",
+    "position_item_id": "Q18130478",
+    "terms": [
+      {
+        "comment": "16. Wahlperiode des Landtags des Saarlandes",
+        "term_item_id": "Q30548671"
+      }
+    ]
+  },
+  {
+    "comment": "Landtag of Rhineland-Palatinate",
+    "house_item_id": "Q314690",
+    "position_item_id": "Q18618563",
+    "terms": [
+      {
+        "comment": "17. Wahlperiode des Rheinland-Pfälzischen Landtages",
+        "term_item_id": "Q27949940"
+      }
+    ]
+  },
+  {
+    "comment": "Bürgerschaft of Bremen",
+    "house_item_id": "Q317147",
+    "position_item_id": "Q17441472",
+    "terms": [
+      {
+        "comment": "3. Wahlperiode der Bremischen Bürgerschaft",
+        "term_item_id": "Q30538878"
+      },
+      {
+        "comment": "4. Wahlperiode der Bremischen Bürgerschaft",
+        "term_item_id": "Q30538879"
+      },
+      {
+        "comment": "5. Wahlperiode der Bremischen Bürgerschaft",
+        "term_item_id": "Q30538880"
+      },
+      {
+        "comment": "6. Wahlperiode der Bremischen Bürgerschaft",
+        "term_item_id": "Q30538881"
+      },
+      {
+        "comment": "2. Wahlperiode der Bremischen Bürgerschaft",
+        "term_item_id": "Q30538877"
+      },
+      {
+        "comment": "14. Wahlperiode der Bremischen Bürgerschaft",
+        "term_item_id": "Q30538981"
+      },
+      {
+        "comment": "19. Wahlperiode der Bremischen Bürgerschaft",
+        "term_item_id": "Q27950204"
+      }
+    ]
+  },
+  {
+    "comment": "Landtag of Lower Saxony",
+    "house_item_id": "Q319994",
+    "position_item_id": "Q17521638",
+    "terms": [
+      {
+        "comment": "18. Wahlperiode des Niedersächsischen Landtages",
+        "term_item_id": "Q41079386"
+      },
+      {
+        "comment": "17. Wahlperiode des Niedersächsischen Landtages",
+        "term_item_id": "Q27950015"
+      }
+    ]
+  },
+  {
+    "comment": "Landtag of Schleswig-Holstein",
+    "house_item_id": "Q449304",
+    "position_item_id": "Q18130496",
+    "terms": [
+      {
+        "comment": "1. Wahlperiode des Schleswig-Holsteinischen Landtags",
+        "term_item_id": "Q30545042"
+      },
+      {
+        "comment": "2. Wahlperiode des Schleswig-Holsteinischen Landtags",
+        "term_item_id": "Q30545043"
+      },
+      {
+        "comment": "3. Wahlperiode des Schleswig-Holsteinischen Landtags",
+        "term_item_id": "Q30545044"
+      },
+      {
+        "comment": "4. Wahlperiode des Schleswig-Holsteinischen Landtags",
+        "term_item_id": "Q30545045"
+      },
+      {
+        "comment": "5. Wahlperiode des Schleswig-Holsteinischen Landtags",
+        "term_item_id": "Q30545046"
+      },
+      {
+        "comment": "6. Wahlperiode des Schleswig-Holsteinischen Landtags",
+        "term_item_id": "Q30545047"
+      },
+      {
+        "comment": "7. Wahlperiode des Schleswig-Holsteinischen Landtags",
+        "term_item_id": "Q30545048"
+      },
+      {
+        "comment": "8. Wahlperiode des Schleswig-Holsteinischen Landtags",
+        "term_item_id": "Q30545049"
+      },
+      {
+        "comment": "9. Wahlperiode des Schleswig-Holsteinischen Landtags",
+        "term_item_id": "Q30545052"
+      },
+      {
+        "comment": "10. Wahlperiode des Schleswig-Holsteinischen Landtags",
+        "term_item_id": "Q30545053"
+      },
+      {
+        "comment": "11. Wahlperiode des Schleswig-Holsteinischen Landtags",
+        "term_item_id": "Q30545054"
+      },
+      {
+        "comment": "12. Wahlperiode des Schleswig-Holsteinischen Landtags",
+        "term_item_id": "Q30545055"
+      },
+      {
+        "comment": "13. Wahlperiode des Schleswig-Holsteinischen Landtags",
+        "term_item_id": "Q30545056"
+      },
+      {
+        "comment": "14. Wahlperiode des Schleswig-Holsteinischen Landtags",
+        "term_item_id": "Q30545057"
+      },
+      {
+        "comment": "15. Wahlperiode des Schleswig-Holsteinischen Landtags",
+        "term_item_id": "Q30545058"
+      },
+      {
+        "comment": "16. Wahlperiode des Schleswig-Holsteinischen Landtags",
+        "term_item_id": "Q30545059"
+      },
+      {
+        "comment": "17. Wahlperiode des Schleswig-Holsteinischen Landtags",
+        "term_item_id": "Q30545029"
+      },
+      {
+        "comment": "18. Wahlperiode des Schleswig-Holsteinischen Landtags",
+        "term_item_id": "Q27949676"
+      }
+    ]
+  },
+  {
+    "comment": "Landtag of Baden-Württemberg",
+    "house_item_id": "Q455697",
+    "position_item_id": "Q17481175",
+    "terms": [
+      {
+        "comment": "16. Wahlperiode des Landtags von Baden-Württemberg",
+        "term_item_id": "Q27950041"
+      }
+    ]
+  },
+  {
+    "comment": "Landtag of Hesse",
+    "house_item_id": "Q510511",
+    "position_item_id": "Q17519166",
+    "terms": [
+      {
+        "comment": "19. Wahlperiode des Hessischen Landtags",
+        "term_item_id": "Q27950220"
+      }
+    ]
+  },
+  {
+    "comment": "Landtag of Brandenburg",
+    "house_item_id": "Q521764",
+    "position_item_id": "Q18556824",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Landtag of North Rhine-Westphalia",
+    "house_item_id": "Q571436",
+    "position_item_id": "Q17781726",
+    "terms": [
+      {
+        "comment": "13. Wahlperiode des Landtags Nordrhein-Westfalen",
+        "term_item_id": "Q30530305"
+      },
+      {
+        "comment": "17. Wahlperiode des Landtags Nordrhein-Westfalen",
+        "term_item_id": "Q30321703"
+      }
+    ]
+  },
+  {
+    "comment": "Abgeordnetenhaus of Berlin",
+    "house_item_id": "Q640859",
+    "position_item_id": "Q18327335",
+    "terms": [
+      {
+        "comment": "18. Wahlperiode des Berliner Abgeordnetenhaus",
+        "term_item_id": "Q27950076"
+      }
+    ]
+  },
+  {
+    "comment": "Landtag of Bavaria",
+    "house_item_id": "Q641439",
+    "position_item_id": "Q17586301",
+    "terms": [
+      {
+        "comment": "17. Wahlperiode des Bayerischen Landtags",
+        "term_item_id": "Q27950052"
+      }
+    ]
+  },
+  {
+    "comment": "Landtag of Mecklenburg-Vorpommern",
+    "house_item_id": "Q882738",
+    "position_item_id": "Q18327349",
+    "terms": [
+      {
+        "comment": "7. Wahlperiode Landtag Mecklenburg-Vorpommern",
+        "term_item_id": "Q42792297"
+      },
+      {
+        "comment": "7. Wahlperiode des Landtags von Mecklenburg-Vorpommern",
+        "term_item_id": "Q27950157"
+      },
+      {
+        "comment": "7. Wahlperiode Landtag Mecklenburg-Vorpommern",
+        "term_item_id": "Q42792297"
+      }
+    ]
+  },
+  {
+    "comment": "Landtag of Saxony",
+    "house_item_id": "Q884824",
+    "position_item_id": "Q17334379",
+    "terms": [
+      {
+        "comment": "6. Wahlperiode des Sächsischen Landtags",
+        "term_item_id": "Q27949858"
+      }
+    ]
+  },
+  {
+    "comment": "Landtag of Saxony-Anhalt",
+    "house_item_id": "Q884829",
+    "position_item_id": "Q18559580",
+    "terms": [
+      {
+        "comment": "7. Wahlperiode des Landtags von Sachsen-Anhalt",
+        "term_item_id": "Q27949869"
+      }
+    ]
+  },
+  {
+    "comment": "Landtag of Thuringia",
+    "house_item_id": "Q896075",
+    "position_item_id": null,
+    "terms": [
+      {
+        "comment": "6. Wahlperiode des Landtages von Thüringen",
+        "term_item_id": "Q27949879"
+      }
+    ]
+  },
+  {
+    "comment": "city council of Cologne",
+    "house_item_id": "Q17484711",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Dresden City Council",
+    "house_item_id": "Q5123134",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  }
 ]
