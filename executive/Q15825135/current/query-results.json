@@ -1,0 +1,101 @@
+{
+  "head" : {
+    "vars" : [ "statement", "item", "name_de", "name_en", "party", "party_name_de", "party_name_en", "district", "district_name_de", "district_name_en", "role", "role_de", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_de", "role_superclass_en", "org", "org_de", "org_en", "org_jurisdiction" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49768"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Social Democratic Party of Germany"
+      },
+      "party_name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Sozialdemokratische Partei Deutschlands"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q72845"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1196"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mecklenburg–Western Pomerania"
+      },
+      "district_name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mecklenburg-Vorpommern"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14917672"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14917672"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Minister-President of Mecklenburg-Vorpommern"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Ministerpräsident Mecklenburg-Vorpommerns"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Minister-President of Mecklenburg-Vorpommern"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Ministerpräsident Mecklenburg-Vorpommerns"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Manuela Schwesig"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Manuela Schwesig"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15825135"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Landesregierung von Mecklenburg-Vorpommern"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q72845-607da3c0-42b9-ebb7-408e-0899dca00793"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1196"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-07-04T00:00:00Z"
+      }
+    } ]
+  }
+}

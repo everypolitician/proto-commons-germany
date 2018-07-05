@@ -1,0 +1,101 @@
+{
+  "head" : {
+    "vars" : [ "statement", "item", "name_de", "name_en", "party", "party_name_de", "party_name_en", "district", "district_name_de", "district_name_en", "role", "role_de", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_de", "role_superclass_en", "org", "org_de", "org_en", "org_jurisdiction" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49762"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Christian Democratic Union"
+      },
+      "party_name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Christlich Demokratische Union Deutschlands"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q71359"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1201"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Saarland"
+      },
+      "district_name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Saarland"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31068298"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31068298"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Minister-President of the Saarland"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Ministerpräsident des Saarlandes"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Minister-President of the Saarland"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Ministerpräsident des Saarlandes"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Annegret Kramp-Karrenbauer"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Annegret Kramp-Karrenbauer"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1527462"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Saarländische Landesregierung"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q71359-b828e288-4ca0-ff24-b135-6d8027cad998"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1201"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2011-08-10T00:00:00Z"
+      }
+    } ]
+  }
+}
