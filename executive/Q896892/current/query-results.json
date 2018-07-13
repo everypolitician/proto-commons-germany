@@ -6,17 +6,17 @@
     "bindings" : [ {
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1412555"
+        "value" : "http://www.wikidata.org/entity/Q49766"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Communist League of West Germany"
+        "value" : "Alliance '90/The Greens"
       },
       "party_name_de" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Kommunistischer Bund Westdeutschland"
+        "value" : "Bündnis 90/Die Grünen"
       },
       "item" : {
         "type" : "uri",
@@ -104,17 +104,17 @@
     }, {
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q49766"
+        "value" : "http://www.wikidata.org/entity/Q1412555"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Alliance '90/The Greens"
+        "value" : "Communist League of West Germany"
       },
       "party_name_de" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Bündnis 90/Die Grünen"
+        "value" : "Kommunistischer Bund Westdeutschland"
       },
       "item" : {
         "type" : "uri",
