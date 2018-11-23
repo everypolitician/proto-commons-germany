@@ -1,0 +1,6 @@
+WARNING: no seat count found for the legislature Landtag of Hesse
+WARNING: no seat count found for the legislature Landtag of Saxony
+WARNING: no seat count found for the legislature city council of Cologne
+WARNING: no position found for the legislature city council of Cologne
+WARNING: no seat count found for the legislature Dresden City Council
+WARNING: no position found for the legislature Dresden City Council
