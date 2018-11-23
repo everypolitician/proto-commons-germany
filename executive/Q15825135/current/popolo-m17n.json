@@ -58,10 +58,10 @@
       "organization_id": "Q15825135",
       "area_id": "Q1196",
       "start_date": "2017-07-04",
-      "role_superclass_code": "Q14917672",
+      "role_superclass_code": "Q23833126",
       "role_superclass": {
-        "lang:de": "Ministerpräsident Mecklenburg-Vorpommerns",
-        "lang:en": "Minister-President of Mecklenburg-Vorpommern"
+        "lang:de": "Ministerpräsident",
+        "lang:en": "Minister-President"
       },
       "role_code": "Q14917672",
       "role": {

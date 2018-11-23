@@ -1,14 +1,61 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:de": "Matthias Höhn",
+        "lang:en": "Matthias Höhn"
+      },
+      "id": "Q1723783",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1723783"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:de": "Landtag Sachsen-Anhalt",
+        "lang:en": "Landtag of Saxony-Anhalt"
+      },
+      "id": "Q884829",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q884829"
+        }
+      ],
+      "area_id": "Q1206",
+      "seat_counts": {
+        "Q18559580": "87"
+      }
+    }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1723783-05F7A33B-36FF-495D-A9A5-7E99C6C4E8D8",
+      "person_id": "Q1723783",
+      "organization_id": "Q884829",
+      "start_date": "2002-05-16",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18559580",
+      "role": {
+        "lang:de": "Mitglied des Landtag Sachsen-Anhalt",
+        "lang:en": "member of the Landtag of Saxony-Anhalt"
+      }
+    }
   ]
 }

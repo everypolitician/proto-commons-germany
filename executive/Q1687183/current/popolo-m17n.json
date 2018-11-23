@@ -58,10 +58,10 @@
       "organization_id": "Q1687183",
       "area_id": "Q1194",
       "start_date": "2017-06-28",
-      "role_superclass_code": "Q30263013",
+      "role_superclass_code": "Q23833126",
       "role_superclass": {
-        "lang:de": "Ministerpräsident Schleswig-Holsteins",
-        "lang:en": "Minister-President of Schleswig-Holstein"
+        "lang:de": "Ministerpräsident",
+        "lang:en": "Minister-President"
       },
       "role_code": "Q30263013",
       "role": {

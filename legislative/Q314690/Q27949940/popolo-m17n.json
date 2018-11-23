@@ -1,14 +1,550 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:de": "Manfred Geis",
+        "lang:en": "Manfred Geis"
+      },
+      "id": "Q104414",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q104414"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Doris Ahnen",
+        "lang:en": "Doris Ahnen"
+      },
+      "id": "Q109433",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q109433"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Christian Baldauf",
+        "lang:en": "Christian Baldauf"
+      },
+      "id": "Q115400",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q115400"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/100000466573715"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Marlies Kohnle-Gros",
+        "lang:en": "Marlies Kohnle-Gros"
+      },
+      "id": "Q1304319",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1304319"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Elisabeth Bröskamp",
+        "lang:en": "Elisabeth Bröskamp"
+      },
+      "id": "Q1329821",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1329821"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Hans-Josef Bracht",
+        "lang:en": "Hans-Josef Bracht"
+      },
+      "id": "Q1577551",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1577551"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Hedi Thelen",
+        "lang:en": "Hedi Thelen"
+      },
+      "id": "Q1593268",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1593268"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Ulla Brede-Hoffmann",
+        "lang:en": "Ulla Brede-Hoffmann"
+      },
+      "id": "Q1639724",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1639724"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Katharina Raue",
+        "lang:en": "Katharina Raue"
+      },
+      "id": "Q1670987",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1670987"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Kathrin Anklam-Trapp",
+        "lang:en": "Kathrin Anklam-Trapp"
+      },
+      "id": "Q1736479",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1736479"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Martin Brandl",
+        "lang:en": "Martin Brandl"
+      },
+      "id": "Q1903485",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1903485"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Michael Billen",
+        "lang:en": "Michael Billen"
+      },
+      "id": "Q1926974",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1926974"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/michael.billen.5"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Christof Reichert",
+        "lang:en": "Christof Reichert"
+      },
+      "id": "Q47009446",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47009446"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Helmut Martin",
+        "lang:en": "Helmut Martin"
+      },
+      "id": "Q51954617",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51954617"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Kurt Beck",
+        "lang:en": "Kurt Beck"
+      },
+      "id": "Q65109",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q65109"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Julia Klöckner",
+        "lang:en": "Julia Klöckner"
+      },
+      "id": "Q88158",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q88158"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/juliakloeckner"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:de": "Landtag Rheinland-Pfalz",
+        "lang:en": "Landtag of Rhineland-Palatinate"
+      },
+      "id": "Q314690",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q314690"
+        }
+      ],
+      "area_id": "Q1200",
+      "seat_counts": {
+        "Q18618563": "101"
+      }
+    }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q104414-B609177E-622C-4043-A705-08F9D1B60E5D",
+      "person_id": "Q104414",
+      "organization_id": "Q314690",
+      "start_date": "1998-12-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18618563",
+      "role": {
+        "lang:de": "Mitglied des Landtag Rheinland-Pfalz",
+        "lang:en": "Member of Landtag of Rhineland-Palatinate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q109433-E30D31F8-720D-414F-B044-9A009474D29A",
+      "person_id": "Q109433",
+      "organization_id": "Q314690",
+      "start_date": "2006-05-18",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18618563",
+      "role": {
+        "lang:de": "Mitglied des Landtag Rheinland-Pfalz",
+        "lang:en": "Member of Landtag of Rhineland-Palatinate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q115400-E0EC9F24-40FB-4AC9-B638-4F426C9FF6E4",
+      "person_id": "Q115400",
+      "organization_id": "Q314690",
+      "start_date": "2001-01-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18618563",
+      "role": {
+        "lang:de": "Mitglied des Landtag Rheinland-Pfalz",
+        "lang:en": "Member of Landtag of Rhineland-Palatinate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1304319-F980DDF4-947D-48CD-A9CA-3D1284BD26BE",
+      "person_id": "Q1304319",
+      "organization_id": "Q314690",
+      "start_date": "1991-05-18",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18618563",
+      "role": {
+        "lang:de": "Mitglied des Landtag Rheinland-Pfalz",
+        "lang:en": "Member of Landtag of Rhineland-Palatinate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1329821-532842D2-4FAD-49DC-B892-805FB25A0E9E",
+      "person_id": "Q1329821",
+      "organization_id": "Q314690",
+      "start_date": "2011-03-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18618563",
+      "role": {
+        "lang:de": "Mitglied des Landtag Rheinland-Pfalz",
+        "lang:en": "Member of Landtag of Rhineland-Palatinate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1577551-CF80AB58-D24A-4ED4-8B2B-F6C6C15972F6",
+      "person_id": "Q1577551",
+      "organization_id": "Q314690",
+      "start_date": "1996-01-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18618563",
+      "role": {
+        "lang:de": "Mitglied des Landtag Rheinland-Pfalz",
+        "lang:en": "Member of Landtag of Rhineland-Palatinate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1593268-33C3ED1B-B157-4486-BC94-9A9ACE122870",
+      "person_id": "Q1593268",
+      "organization_id": "Q314690",
+      "start_date": "1996-05-20",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18618563",
+      "role": {
+        "lang:de": "Mitglied des Landtag Rheinland-Pfalz",
+        "lang:en": "Member of Landtag of Rhineland-Palatinate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1639724-68FE4EB2-321C-427C-888B-1413A8FA2E6F",
+      "person_id": "Q1639724",
+      "organization_id": "Q314690",
+      "start_date": "1995-01-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18618563",
+      "role": {
+        "lang:de": "Mitglied des Landtag Rheinland-Pfalz",
+        "lang:en": "Member of Landtag of Rhineland-Palatinate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1670987-FFA14DAD-22CF-4A14-91D7-67329830876D",
+      "person_id": "Q1670987",
+      "organization_id": "Q314690",
+      "start_date": "2011-05-18",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18618563",
+      "role": {
+        "lang:de": "Mitglied des Landtag Rheinland-Pfalz",
+        "lang:en": "Member of Landtag of Rhineland-Palatinate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1736479-8CF9EC07-A0FF-41EB-942B-CA6F8B837F74",
+      "person_id": "Q1736479",
+      "organization_id": "Q314690",
+      "start_date": "2006-05-18",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18618563",
+      "role": {
+        "lang:de": "Mitglied des Landtag Rheinland-Pfalz",
+        "lang:en": "Member of Landtag of Rhineland-Palatinate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1903485-E1B9AF3F-6D11-4B7A-8E8D-D4374DC6EBCB",
+      "person_id": "Q1903485",
+      "organization_id": "Q314690",
+      "start_date": "2009-10-28",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18618563",
+      "role": {
+        "lang:de": "Mitglied des Landtag Rheinland-Pfalz",
+        "lang:en": "Member of Landtag of Rhineland-Palatinate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1926974-5F45838F-FDE9-4C28-95A1-7F1C217B5771",
+      "person_id": "Q1926974",
+      "organization_id": "Q314690",
+      "start_date": "1996-05-20",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18618563",
+      "role": {
+        "lang:de": "Mitglied des Landtag Rheinland-Pfalz",
+        "lang:en": "Member of Landtag of Rhineland-Palatinate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47009446-0ac41ac6-4a48-5d07-8e45-268f4a5e1882",
+      "person_id": "Q47009446",
+      "organization_id": "Q314690",
+      "start_date": "2017-10-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18618563",
+      "role": {
+        "lang:de": "Mitglied des Landtag Rheinland-Pfalz",
+        "lang:en": "Member of Landtag of Rhineland-Palatinate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51954617-43055112-4221-6f25-37bb-3c7118d65874",
+      "person_id": "Q51954617",
+      "organization_id": "Q314690",
+      "start_date": "2018-04-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18618563",
+      "role": {
+        "lang:de": "Mitglied des Landtag Rheinland-Pfalz",
+        "lang:en": "Member of Landtag of Rhineland-Palatinate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q65109-AACEF0C1-A44F-46F0-92CC-A9AB7DB70E90",
+      "person_id": "Q65109",
+      "organization_id": "Q314690",
+      "start_date": "1979-01-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18618563",
+      "role": {
+        "lang:de": "Mitglied des Landtag Rheinland-Pfalz",
+        "lang:en": "Member of Landtag of Rhineland-Palatinate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q88158-C5F5E6E7-6517-434A-8877-B1DE2B00C744",
+      "person_id": "Q88158",
+      "organization_id": "Q314690",
+      "start_date": "2011-05-18",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18618563",
+      "role": {
+        "lang:de": "Mitglied des Landtag Rheinland-Pfalz",
+        "lang:en": "Member of Landtag of Rhineland-Palatinate"
+      }
+    }
   ]
 }

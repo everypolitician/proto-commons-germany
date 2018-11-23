@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:de": "Bundesrat",
+        "lang:en": "Bundesrat"
+      },
+      "id": "Q146138",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q146138"
+        }
+      ],
+      "area_id": "Q183",
+      "seat_counts": {
+        "Q15835370": "69"
+      }
+    }
   ],
   "areas": [
 

@@ -73,10 +73,10 @@
       "on_behalf_of_id": "Q49762",
       "organization_id": "Q1615892",
       "area_id": "Q1199",
-      "role_superclass_code": "Q1615935",
+      "role_superclass_code": "Q23833126",
       "role_superclass": {
-        "lang:de": "Ministerpräsident Hessens",
-        "lang:en": "Minister-President of Hesse"
+        "lang:de": "Ministerpräsident",
+        "lang:en": "Minister-President"
       },
       "role_code": "Q1615935",
       "role": {
@@ -91,10 +91,10 @@
       "organization_id": "Q1615892",
       "area_id": "Q1199",
       "start_date": "2010-08-31",
-      "role_superclass_code": "Q1615935",
+      "role_superclass_code": "Q23833126",
       "role_superclass": {
-        "lang:de": "Ministerpräsident Hessens",
-        "lang:en": "Minister-President of Hesse"
+        "lang:de": "Ministerpräsident",
+        "lang:en": "Minister-President"
       },
       "role_code": "Q1615935",
       "role": {

@@ -73,10 +73,10 @@
       "organization_id": "Q896892",
       "area_id": "Q985",
       "start_date": "2011-05-12",
-      "role_superclass_code": "Q31096505",
+      "role_superclass_code": "Q23833126",
       "role_superclass": {
-        "lang:de": "Ministerpräsident Baden-Württembergs",
-        "lang:en": "Minister-President of Baden-Württemberg"
+        "lang:de": "Ministerpräsident",
+        "lang:en": "Minister-President"
       },
       "role_code": "Q31096505",
       "role": {
@@ -91,10 +91,10 @@
       "organization_id": "Q896892",
       "area_id": "Q985",
       "start_date": "2011-05-12",
-      "role_superclass_code": "Q31096505",
+      "role_superclass_code": "Q23833126",
       "role_superclass": {
-        "lang:de": "Ministerpräsident Baden-Württembergs",
-        "lang:en": "Minister-President of Baden-Württemberg"
+        "lang:de": "Ministerpräsident",
+        "lang:en": "Minister-President"
       },
       "role_code": "Q31096505",
       "role": {

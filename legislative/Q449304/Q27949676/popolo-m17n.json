@@ -15,6 +15,38 @@
       "links": [
 
       ]
+    },
+    {
+      "name": {
+        "lang:de": "Stephan Holowaty",
+        "lang:en": "Stephan Holowaty"
+      },
+      "id": "Q30150130",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30150130"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Daniel Günther",
+        "lang:en": "Daniel Günther"
+      },
+      "id": "Q969340",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q969340"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -61,7 +93,39 @@
       "organization_id": "Q449304",
       "area_id": "Q1030010",
       "start_date": "2012-06-05",
-      "end_date": "t1228068282",
+      "end_date": "t1228210385",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18130496",
+      "role": {
+        "lang:de": "Mitglied des Schleswig-Holsteinischen Landtages",
+        "lang:en": "Member of the Landtag of Schleswig-Holstein"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q30150130-06b41295-4adb-565b-ea2c-02df5aa23505",
+      "person_id": "Q30150130",
+      "organization_id": "Q449304",
+      "start_date": "2017-06-06",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18130496",
+      "role": {
+        "lang:de": "Mitglied des Schleswig-Holsteinischen Landtages",
+        "lang:en": "Member of the Landtag of Schleswig-Holstein"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q969340-A26EAC24-00F5-4EC7-8BFD-3DDB85248369",
+      "person_id": "Q969340",
+      "organization_id": "Q449304",
+      "start_date": "2009-01-01",
       "role_superclass_code": "Q1939559",
       "role_superclass": {
         "lang:de": "Mitglied des Landtages",

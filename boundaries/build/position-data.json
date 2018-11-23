@@ -1,0 +1,675 @@
+[
+  {
+    "role_id": "Q14917672",
+    "role_name": {
+      "lang:de": "Ministerpräsident Mecklenburg-Vorpommerns",
+      "lang:en": "Minister-President of Mecklenburg-Vorpommern"
+    },
+    "generic_role_id": "Q23833126",
+    "generic_role_name": {
+      "lang:de": "Ministerpräsident",
+      "lang:en": "Minister-President"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q15825135",
+    "organization_name": {
+      "lang:de": "Landesregierung von Mecklenburg-Vorpommern"
+    }
+  },
+  {
+    "role_id": "Q15303400",
+    "role_name": {
+      "lang:de": "Präsident des Bayerischen Landtags",
+      "lang:en": "President of the Landtag of Bavaria"
+    },
+    "generic_role_id": "Q1758037",
+    "generic_role_name": {
+      "lang:de": "Parlamentspräsident",
+      "lang:en": "speaker"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q641439",
+    "organization_name": {
+      "lang:de": "Bayerischer Landtag",
+      "lang:en": "Landtag of Bavaria"
+    }
+  },
+  {
+    "role_id": "Q15303555",
+    "role_name": {
+      "lang:de": "Ministerpräsident Bayerns",
+      "lang:en": "Minister-President of Bavaria"
+    },
+    "generic_role_id": "Q23833126",
+    "generic_role_name": {
+      "lang:de": "Ministerpräsident",
+      "lang:en": "Minister-President"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q812290",
+    "organization_name": {
+      "lang:de": "Bayerische Staatsregierung",
+      "lang:en": "Cabinet of Bavaria"
+    }
+  },
+  {
+    "role_id": "Q15720142",
+    "role_name": {
+      "lang:de": "Ministerpräsident von Rheinland-Pfalz",
+      "lang:en": "Minister-President of  Rhineland-Palatinate"
+    },
+    "generic_role_id": "Q23833126",
+    "generic_role_name": {
+      "lang:de": "Ministerpräsident",
+      "lang:en": "Minister-President"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q1122028",
+    "organization_name": {
+      "lang:de": "Landesregierung von Rheinland-Pfalz"
+    }
+  },
+  {
+    "role_id": "Q15835370",
+    "role_name": {
+      "lang:de": "Mitglied des Bundesrates in Deutschland",
+      "lang:en": "Member of the Bundesrat of Germany"
+    },
+    "generic_role_id": "Q486839",
+    "generic_role_name": {
+      "lang:de": "Abgeordneter",
+      "lang:en": "member of parliament"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q146138",
+    "organization_name": {
+      "lang:de": "Bundesrat",
+      "lang:en": "Bundesrat"
+    }
+  },
+  {
+    "role_id": "Q1615935",
+    "role_name": {
+      "lang:de": "Ministerpräsident Hessens",
+      "lang:en": "Minister-President of Hesse"
+    },
+    "generic_role_id": "Q23833126",
+    "generic_role_name": {
+      "lang:de": "Ministerpräsident",
+      "lang:en": "Minister-President"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q1615892",
+    "organization_name": {
+      "lang:de": "Hessische Landesregierung"
+    }
+  },
+  {
+    "role_id": "Q17334379",
+    "role_name": {
+      "lang:de": "Mitglied des Sächsischen Landtages",
+      "lang:en": "Member of the Landtag of Saxony"
+    },
+    "generic_role_id": "Q1939559",
+    "generic_role_name": {
+      "lang:de": "Mitglied des Landtages",
+      "lang:en": "Member of Landtag"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q884824",
+    "organization_name": {
+      "lang:de": "Sächsischer Landtag",
+      "lang:en": "Landtag of Saxony"
+    }
+  },
+  {
+    "role_id": "Q17344251",
+    "role_name": {
+      "lang:de": "Mitglied des Thüringer Landtags",
+      "lang:en": "Member of the Landtag of Thuringia"
+    },
+    "generic_role_id": "Q1939559",
+    "generic_role_name": {
+      "lang:de": "Mitglied des Landtages",
+      "lang:en": "Member of Landtag"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q896075",
+    "organization_name": {
+      "lang:de": "Thüringer Landtag",
+      "lang:en": "Landtag of Thuringia"
+    }
+  },
+  {
+    "role_id": "Q17441472",
+    "role_name": {
+      "lang:de": "Mitglied der Bremischen Bürgerschaft",
+      "lang:en": "Member of the Bürgerschaft of Bremen"
+    },
+    "generic_role_id": "Q1939559",
+    "generic_role_name": {
+      "lang:de": "Mitglied des Landtages",
+      "lang:en": "Member of Landtag"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q317147",
+    "organization_name": {
+      "lang:de": "Bremische Bürgerschaft",
+      "lang:en": "Bürgerschaft of Bremen"
+    }
+  },
+  {
+    "role_id": "Q17481175",
+    "role_name": {
+      "lang:de": "Mitglied des Landtages von Baden-Württemberg",
+      "lang:en": "Member of the Landtag of Baden-Württemberg"
+    },
+    "generic_role_id": "Q1939559",
+    "generic_role_name": {
+      "lang:de": "Mitglied des Landtages",
+      "lang:en": "Member of Landtag"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q455697",
+    "organization_name": {
+      "lang:de": "Landtag von Baden-Württemberg",
+      "lang:en": "Landtag of Baden-Württemberg"
+    }
+  },
+  {
+    "role_id": "Q17519166",
+    "role_name": {
+      "lang:de": "Mitglied des Hessischen Landtags",
+      "lang:en": "Member of the Hessian Parliament"
+    },
+    "generic_role_id": "Q1939559",
+    "generic_role_name": {
+      "lang:de": "Mitglied des Landtages",
+      "lang:en": "Member of Landtag"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q510511",
+    "organization_name": {
+      "lang:de": "Hessischer Landtag",
+      "lang:en": "Landtag of Hesse"
+    }
+  },
+  {
+    "role_id": "Q17521638",
+    "role_name": {
+      "lang:de": "Mitglied des Niedersächsischen Landtags",
+      "lang:en": "Member of the Landtag of Lower Saxony"
+    },
+    "generic_role_id": "Q1939559",
+    "generic_role_name": {
+      "lang:de": "Mitglied des Landtages",
+      "lang:en": "Member of Landtag"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q319994",
+    "organization_name": {
+      "lang:de": "Niedersächsischer Landtag",
+      "lang:en": "Landtag of Lower Saxony"
+    }
+  },
+  {
+    "role_id": "Q17586301",
+    "role_name": {
+      "lang:de": "Mitglied des Bayerischen Landtags",
+      "lang:en": "Member of the Landtag of Bavaria"
+    },
+    "generic_role_id": "Q1939559",
+    "generic_role_name": {
+      "lang:de": "Mitglied des Landtages",
+      "lang:en": "Member of Landtag"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q641439",
+    "organization_name": {
+      "lang:de": "Bayerischer Landtag",
+      "lang:en": "Landtag of Bavaria"
+    }
+  },
+  {
+    "role_id": "Q17781726",
+    "role_name": {
+      "lang:de": "Mitglied des Landtag Nordrhein-Westfalen",
+      "lang:en": "member of the Landtag of North Rhine-Westphalia"
+    },
+    "generic_role_id": "Q1939559",
+    "generic_role_name": {
+      "lang:de": "Mitglied des Landtages",
+      "lang:en": "Member of Landtag"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q571436",
+    "organization_name": {
+      "lang:de": "Landtag Nordrhein-Westfalen",
+      "lang:en": "Landtag of North Rhine-Westphalia"
+    }
+  },
+  {
+    "role_id": "Q18130478",
+    "role_name": {
+      "lang:de": "Mitglied des Landtages des Saarlands",
+      "lang:en": "Member of the Landtag of Saarland"
+    },
+    "generic_role_id": "Q1939559",
+    "generic_role_name": {
+      "lang:de": "Mitglied des Landtages",
+      "lang:en": "Member of Landtag"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q260372",
+    "organization_name": {
+      "lang:de": "Landtag des Saarlandes",
+      "lang:en": "Landtag of Saarland"
+    }
+  },
+  {
+    "role_id": "Q18130496",
+    "role_name": {
+      "lang:de": "Mitglied des Schleswig-Holsteinischen Landtages",
+      "lang:en": "Member of the Landtag of Schleswig-Holstein"
+    },
+    "generic_role_id": "Q1939559",
+    "generic_role_name": {
+      "lang:de": "Mitglied des Landtages",
+      "lang:en": "Member of Landtag"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q449304",
+    "organization_name": {
+      "lang:de": "Schleswig-Holsteinischer Landtag",
+      "lang:en": "Landtag of Schleswig-Holstein"
+    }
+  },
+  {
+    "role_id": "Q18327335",
+    "role_name": {
+      "lang:de": "Mitglied des Abgeordnetenhaus von Berlin",
+      "lang:en": "Member of the Abgeordnetenhaus of Berlin"
+    },
+    "generic_role_id": "Q1939559",
+    "generic_role_name": {
+      "lang:de": "Mitglied des Landtages",
+      "lang:en": "Member of Landtag"
+    },
+    "role_level": "Q10864048 Q515 Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q640859",
+    "organization_name": {
+      "lang:de": "Abgeordnetenhaus von Berlin",
+      "lang:en": "Abgeordnetenhaus of Berlin"
+    }
+  },
+  {
+    "role_id": "Q18327349",
+    "role_name": {
+      "lang:de": "Mitglied des Landtag Mecklenburg-Vorpommern",
+      "lang:en": "Member of the Landtag of Mecklenburg-Vorpommern"
+    },
+    "generic_role_id": "Q1939559",
+    "generic_role_name": {
+      "lang:de": "Mitglied des Landtages",
+      "lang:en": "Member of Landtag"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q882738",
+    "organization_name": {
+      "lang:de": "Landtag Mecklenburg-Vorpommern",
+      "lang:en": "Landtag of Mecklenburg-Vorpommern"
+    }
+  },
+  {
+    "role_id": "Q18556824",
+    "role_name": {
+      "lang:de": "Mitglied des Brandenburgischen Landtags",
+      "lang:en": "member of the Landtag of Brandenburg"
+    },
+    "generic_role_id": "Q1939559",
+    "generic_role_name": {
+      "lang:de": "Mitglied des Landtages",
+      "lang:en": "Member of Landtag"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q521764",
+    "organization_name": {
+      "lang:de": "Landtag Brandenburg",
+      "lang:en": "Landtag of Brandenburg"
+    }
+  },
+  {
+    "role_id": "Q18559580",
+    "role_name": {
+      "lang:de": "Mitglied des Landtag Sachsen-Anhalt",
+      "lang:en": "member of the Landtag of Saxony-Anhalt"
+    },
+    "generic_role_id": "Q1939559",
+    "generic_role_name": {
+      "lang:de": "Mitglied des Landtages",
+      "lang:en": "Member of Landtag"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q884829",
+    "organization_name": {
+      "lang:de": "Landtag Sachsen-Anhalt",
+      "lang:en": "Landtag of Saxony-Anhalt"
+    }
+  },
+  {
+    "role_id": "Q18618563",
+    "role_name": {
+      "lang:de": "Mitglied des Landtag Rheinland-Pfalz",
+      "lang:en": "Member of Landtag of Rhineland-Palatinate"
+    },
+    "generic_role_id": "Q1939559",
+    "generic_role_name": {
+      "lang:de": "Mitglied des Landtages",
+      "lang:en": "Member of Landtag"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q314690",
+    "organization_name": {
+      "lang:de": "Landtag Rheinland-Pfalz",
+      "lang:en": "Landtag of Rhineland-Palatinate"
+    }
+  },
+  {
+    "role_id": "Q19360355",
+    "role_name": {
+      "lang:de": "Mitglied der Hamburgischen Bürgerschaft",
+      "lang:en": "Member of the Hamburg Bürgerschaft"
+    },
+    "generic_role_id": "Q1939559",
+    "generic_role_name": {
+      "lang:de": "Mitglied des Landtages",
+      "lang:en": "Member of Landtag"
+    },
+    "role_level": "Q10864048 Q515 Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q636377",
+    "organization_name": {
+      "lang:de": "Hamburgische Bürgerschaft",
+      "lang:en": "Hamburg Parliament"
+    }
+  },
+  {
+    "role_id": "Q1939555",
+    "role_name": {
+      "lang:de": "Mitglied des Deutschen Bundestages",
+      "lang:en": "member of the German Bundestag"
+    },
+    "generic_role_id": "Q486839",
+    "generic_role_name": {
+      "lang:de": "Abgeordneter",
+      "lang:en": "member of parliament"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q154797",
+    "organization_name": {
+      "lang:de": "Deutscher Bundestag",
+      "lang:en": "Bundestag of Germany"
+    }
+  },
+  {
+    "role_id": "Q30263013",
+    "role_name": {
+      "lang:de": "Ministerpräsident Schleswig-Holsteins",
+      "lang:en": "Minister-President of Schleswig-Holstein"
+    },
+    "generic_role_id": "Q23833126",
+    "generic_role_name": {
+      "lang:de": "Ministerpräsident",
+      "lang:en": "Minister-President"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q1687183",
+    "organization_name": {
+      "lang:de": "Landesregierung von Schleswig-Holstein"
+    }
+  },
+  {
+    "role_id": "Q30534793",
+    "role_name": {
+      "lang:de": "Ministerpräsident Nordrhein-Westfalens",
+      "lang:en": "Minister-President of North Rhine-Westphalia"
+    },
+    "generic_role_id": "Q23833126",
+    "generic_role_name": {
+      "lang:de": "Ministerpräsident",
+      "lang:en": "Minister-President"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q1761666",
+    "organization_name": {
+      "lang:de": "Landesregierung von Nordrhein-Westfalen"
+    }
+  },
+  {
+    "role_id": "Q30562601",
+    "role_name": {
+      "lang:de": "Ministerpräsident Brandenburgs",
+      "lang:en": "Minister-President of Brandenburg"
+    },
+    "generic_role_id": "Q23833126",
+    "generic_role_name": {
+      "lang:de": "Ministerpräsident",
+      "lang:en": "Minister-President"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q897924",
+    "organization_name": {
+      "lang:de": "Brandenburgische Landesregierung"
+    }
+  },
+  {
+    "role_id": "Q30569887",
+    "role_name": {
+      "lang:de": "Ministerpräsident Sachsens",
+      "lang:en": "Minister-President of Saxony"
+    },
+    "generic_role_id": "Q23833126",
+    "generic_role_name": {
+      "lang:de": "Ministerpräsident",
+      "lang:en": "Minister-President"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q2378571",
+    "organization_name": {
+      "lang:de": "Sächsische Staatsregierung"
+    }
+  },
+  {
+    "role_id": "Q30584228",
+    "role_name": {
+      "lang:de": "Ministerpräsident Thüringens",
+      "lang:en": "Minister-President of Thuringia"
+    },
+    "generic_role_id": "Q23833126",
+    "generic_role_name": {
+      "lang:de": "Ministerpräsident",
+      "lang:en": "Minister-President"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q15850888",
+    "organization_name": {
+      "lang:de": "Thüringer Landesregierung"
+    }
+  },
+  {
+    "role_id": "Q30968305",
+    "role_name": {
+      "lang:de": "Ministerpräsident Sachsen-Anhalts",
+      "lang:en": "Minister-President of Saxony-Anhalt"
+    },
+    "generic_role_id": "Q23833126",
+    "generic_role_name": {
+      "lang:de": "Ministerpräsident",
+      "lang:en": "Minister-President"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q1450377",
+    "organization_name": {
+      "lang:de": "Landesregierung von Sachsen-Anhalt"
+    }
+  },
+  {
+    "role_id": "Q31068298",
+    "role_name": {
+      "lang:de": "Ministerpräsident des Saarlandes",
+      "lang:en": "Minister-President of the Saarland"
+    },
+    "generic_role_id": "Q23833126",
+    "generic_role_name": {
+      "lang:de": "Ministerpräsident",
+      "lang:en": "Minister-President"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q1527462",
+    "organization_name": {
+      "lang:de": "Saarländische Landesregierung"
+    }
+  },
+  {
+    "role_id": "Q31096505",
+    "role_name": {
+      "lang:de": "Ministerpräsident Baden-Württembergs",
+      "lang:en": "Minister-President of Baden-Württemberg"
+    },
+    "generic_role_id": "Q23833126",
+    "generic_role_name": {
+      "lang:de": "Ministerpräsident",
+      "lang:en": "Minister-President"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q896892",
+    "organization_name": {
+      "lang:de": "Landesregierung von Baden-Württemberg",
+      "lang:en": "Government of Baden-Württemberg"
+    }
+  },
+  {
+    "role_id": "Q31388880",
+    "role_name": {
+      "lang:de": "Bremer Bürgermeister",
+      "lang:en": "mayor of Bremen"
+    },
+    "generic_role_id": "Q17175157",
+    "generic_role_name": {
+      "lang:de": "Bürgermeister (Deutschland)",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q468437",
+    "organization_name": {
+      "lang:de": "Senat der Freien Hansestadt Bremen",
+      "lang:en": "Senate of Bremen"
+    }
+  },
+  {
+    "role_id": "Q31524732",
+    "role_name": {
+      "lang:de": "Ministerpräsident Niedersachsens",
+      "lang:en": "Minister-President of Lower Saxony"
+    },
+    "generic_role_id": "Q23833126",
+    "generic_role_name": {
+      "lang:de": "Ministerpräsident",
+      "lang:en": "Minister-President"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q1668823",
+    "organization_name": {
+      "lang:de": "niedersächsische Landesregierung"
+    }
+  },
+  {
+    "role_id": "Q641159",
+    "role_name": {
+      "lang:de": "Regierender Bürgermeister von Berlin",
+      "lang:en": "Governing Mayor of Berlin"
+    },
+    "generic_role_id": "Q11902879",
+    "generic_role_name": {
+      "lang:de": "Oberbürgermeister",
+      "lang:en": "Lord Mayor"
+    },
+    "role_level": "Q10864048 Q515 Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q540130",
+    "organization_name": {
+      "lang:de": "Senat von Berlin",
+      "lang:en": "Senate of Berlin"
+    }
+  },
+  {
+    "role_id": "Q56022",
+    "role_name": {
+      "lang:de": "Kanzler",
+      "lang:en": "Chancellor of Germany"
+    },
+    "generic_role_id": "Q2285706",
+    "generic_role_name": {
+      "lang:de": "Regierungschef",
+      "lang:en": "head of government"
+    },
+    "role_level": "Q6256",
+    "role_type": null,
+    "organization_id": "Q313827",
+    "organization_name": {
+      "lang:de": "Bundeskabinett",
+      "lang:en": "Cabinet of the Federal Republic of Germany"
+    }
+  },
+  {
+    "role_id": "Q56024",
+    "role_name": {
+      "lang:de": "Präsident des Deutschen Bundestages",
+      "lang:en": "President of the Bundestag"
+    },
+    "generic_role_id": "Q1758037",
+    "generic_role_name": {
+      "lang:de": "Parlamentspräsident",
+      "lang:en": "speaker"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q154797",
+    "organization_name": {
+      "lang:de": "Deutscher Bundestag",
+      "lang:en": "Bundestag of Germany"
+    }
+  }
+]

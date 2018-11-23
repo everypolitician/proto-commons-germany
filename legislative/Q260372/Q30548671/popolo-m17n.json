@@ -1,14 +1,62 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:de": "Annegret Kramp-Karrenbauer",
+        "lang:en": "Annegret Kramp-Karrenbauer"
+      },
+      "id": "Q71359",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q71359"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:de": "Landtag des Saarlandes",
+        "lang:en": "Landtag of Saarland"
+      },
+      "id": "Q260372",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q260372"
+        }
+      ],
+      "area_id": "Q1201",
+      "seat_counts": {
+        "Q18130478": "51"
+      }
+    }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q71359-6a362b1b-4c91-fff5-b635-ed15b76b1d29",
+      "person_id": "Q71359",
+      "organization_id": "Q260372",
+      "start_date": "1999-01-01",
+      "end_date": "2018-01-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18130478",
+      "role": {
+        "lang:de": "Mitglied des Landtages des Saarlands",
+        "lang:en": "Member of the Landtag of Saarland"
+      }
+    }
   ]
 }

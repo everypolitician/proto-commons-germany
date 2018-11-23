@@ -75,10 +75,46 @@
       "organization_id": "Q540130",
       "area_id": "Q64",
       "start_date": "2014-12-11",
-      "role_superclass_code": "Q641159",
+      "role_superclass_code": "Q11902879",
       "role_superclass": {
+        "lang:de": "Oberbürgermeister",
+        "lang:en": "Lord Mayor"
+      },
+      "role_code": "Q641159",
+      "role": {
         "lang:de": "Regierender Bürgermeister von Berlin",
         "lang:en": "Governing Mayor of Berlin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q102844-25c96ffb-412f-82dd-4e37-f467b21e7345",
+      "person_id": "Q102844",
+      "on_behalf_of_id": "Q49768",
+      "organization_id": "Q540130",
+      "area_id": "Q64",
+      "start_date": "2014-12-11",
+      "role_superclass_code": "Q17175157",
+      "role_superclass": {
+        "lang:de": "Bürgermeister (Deutschland)",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q641159",
+      "role": {
+        "lang:de": "Regierender Bürgermeister von Berlin",
+        "lang:en": "Governing Mayor of Berlin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q102844-25c96ffb-412f-82dd-4e37-f467b21e7345",
+      "person_id": "Q102844",
+      "on_behalf_of_id": "Q49768",
+      "organization_id": "Q540130",
+      "area_id": "Q64",
+      "start_date": "2014-12-11",
+      "role_superclass_code": "Q23833126",
+      "role_superclass": {
+        "lang:de": "Ministerpräsident",
+        "lang:en": "Minister-President"
       },
       "role_code": "Q641159",
       "role": {
@@ -92,10 +128,44 @@
       "on_behalf_of_id": "Q49768",
       "organization_id": "Q540130",
       "area_id": "Q64",
-      "role_superclass_code": "Q641159",
+      "role_superclass_code": "Q11902879",
       "role_superclass": {
+        "lang:de": "Oberbürgermeister",
+        "lang:en": "Lord Mayor"
+      },
+      "role_code": "Q641159",
+      "role": {
         "lang:de": "Regierender Bürgermeister von Berlin",
         "lang:en": "Governing Mayor of Berlin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q104581-CAC0306C-6970-4BAE-82A2-63C6095D4FE4",
+      "person_id": "Q104581",
+      "on_behalf_of_id": "Q49768",
+      "organization_id": "Q540130",
+      "area_id": "Q64",
+      "role_superclass_code": "Q17175157",
+      "role_superclass": {
+        "lang:de": "Bürgermeister (Deutschland)",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q641159",
+      "role": {
+        "lang:de": "Regierender Bürgermeister von Berlin",
+        "lang:en": "Governing Mayor of Berlin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q104581-CAC0306C-6970-4BAE-82A2-63C6095D4FE4",
+      "person_id": "Q104581",
+      "on_behalf_of_id": "Q49768",
+      "organization_id": "Q540130",
+      "area_id": "Q64",
+      "role_superclass_code": "Q23833126",
+      "role_superclass": {
+        "lang:de": "Ministerpräsident",
+        "lang:en": "Minister-President"
       },
       "role_code": "Q641159",
       "role": {

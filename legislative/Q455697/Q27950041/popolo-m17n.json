@@ -1,14 +1,157 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:de": "Muhterem Aras",
+        "lang:en": "Muhterem Aras"
+      },
+      "id": "Q1728542",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1728542"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Manfred Lucha",
+        "lang:en": "Manfred Lucha"
+      },
+      "id": "Q1889671",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1889671"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "August Schuler",
+        "lang:en": "August Schuler"
+      },
+      "id": "Q21014981",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21014981"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Walter Krause",
+        "lang:en": "Walter Krause"
+      },
+      "id": "Q2545158",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2545158"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:de": "Landtag von Baden-Württemberg",
+        "lang:en": "Landtag of Baden-Württemberg"
+      },
+      "id": "Q455697",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q455697"
+        }
+      ],
+      "area_id": "Q985",
+      "seat_counts": {
+        "Q17481175": "143"
+      }
+    }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1728542-795573DA-01E7-445A-80B1-8245580B3972",
+      "person_id": "Q1728542",
+      "organization_id": "Q455697",
+      "start_date": "2011-01-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17481175",
+      "role": {
+        "lang:de": "Mitglied des Landtages von Baden-Württemberg",
+        "lang:en": "Member of the Landtag of Baden-Württemberg"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1889671-C5C07F93-CDF8-49B6-9670-8731E0B817FB",
+      "person_id": "Q1889671",
+      "organization_id": "Q455697",
+      "start_date": "2011-01-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17481175",
+      "role": {
+        "lang:de": "Mitglied des Landtages von Baden-Württemberg",
+        "lang:en": "Member of the Landtag of Baden-Württemberg"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21014981-436e0285-485d-8e8e-abad-98ee84dac2e7",
+      "person_id": "Q21014981",
+      "organization_id": "Q455697",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17481175",
+      "role": {
+        "lang:de": "Mitglied des Landtages von Baden-Württemberg",
+        "lang:en": "Member of the Landtag of Baden-Württemberg"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2545158-63C1A889-129A-4A50-B3D5-D2399C447A13",
+      "person_id": "Q2545158",
+      "organization_id": "Q455697",
+      "start_date": "1952-01-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17481175",
+      "role": {
+        "lang:de": "Mitglied des Landtages von Baden-Württemberg",
+        "lang:en": "Member of the Landtag of Baden-Württemberg"
+      }
+    }
   ]
 }

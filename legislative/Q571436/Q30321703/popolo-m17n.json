@@ -2,6 +2,25 @@
   "persons": [
     {
       "name": {
+        "lang:de": "Wolfgang Jörg",
+        "lang:en": "Wolfgang Jörg"
+      },
+      "id": "Q100521",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q100521"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/WolfgangJoergFuerHagen"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Dietmar Bell",
         "lang:en": "Dietmar Bell"
       },
@@ -66,6 +85,38 @@
     },
     {
       "name": {
+        "lang:de": "Jochen Ott",
+        "lang:en": "Jochen Ott"
+      },
+      "id": "Q1691142",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1691142"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Josef Rickfelder",
+        "lang:en": "Josef Rickfelder"
+      },
+      "id": "Q1705554",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1705554"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Jürgen Berghahn",
         "lang:en": "Jürgen Berghahn"
       },
@@ -74,6 +125,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q1717016"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Rainer Schmeltzer",
+        "lang:en": "Rainer Schmeltzer"
+      },
+      "id": "Q1740559",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1740559"
         }
       ],
       "links": [
@@ -130,6 +197,22 @@
     },
     {
       "name": {
+        "lang:de": "Frank Neppe",
+        "lang:en": "Frank Neppe"
+      },
+      "id": "Q29951616",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q29951616"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Roger Beckamp",
         "lang:en": "Roger Beckamp"
       },
@@ -146,6 +229,54 @@
     },
     {
       "name": {
+        "lang:de": "Christian Loose",
+        "lang:en": "Christian Loose"
+      },
+      "id": "Q29958272",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q29958272"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Herbert Strotebeck",
+        "lang:en": "Herbert Strotebeck"
+      },
+      "id": "Q29958280",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q29958280"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Martin Vincentz",
+        "lang:en": "Martin Vincentz"
+      },
+      "id": "Q29959870",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q29959870"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Berivan Aymaz",
         "lang:en": "Berivan Aymaz"
       },
@@ -154,6 +285,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q29961583"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Christian Blex",
+        "lang:en": "Christian Blex"
+      },
+      "id": "Q30001851",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30001851"
         }
       ],
       "links": [
@@ -190,6 +337,41 @@
       ],
       "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Armin Laschet",
+        "lang:en": "Armin Laschet"
+      },
+      "id": "Q78205",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q78205"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Christian Lindner",
+        "lang:en": "Christian Lindner"
+      },
+      "id": "Q85806",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q85806"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/lindner.christian"
+        }
       ]
     },
     {
@@ -243,12 +425,42 @@
       "seat_counts": {
         "Q17781726": "199"
       }
+    },
+    {
+      "name": {
+        "lang:de": "Freie Demokratische Partei",
+        "lang:en": "Free Democratic Party"
+      },
+      "id": "Q13124",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13124"
+        }
+      ]
     }
   ],
   "areas": [
 
   ],
   "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q100521-85469F2E-4EA8-4DD4-B9B4-3A577A637387",
+      "person_id": "Q100521",
+      "organization_id": "Q571436",
+      "start_date": "2005-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17781726",
+      "role": {
+        "lang:de": "Mitglied des Landtag Nordrhein-Westfalen",
+        "lang:en": "member of the Landtag of North Rhine-Westphalia"
+      }
+    },
     {
       "id": "http://www.wikidata.org/entity/statement/Q1223339-B0BF17FA-18FF-490F-BD1F-357E9D227E53",
       "person_id": "Q1223339",
@@ -310,9 +522,57 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q1691142-753AC608-1DCF-49CE-B20D-404BA8EBADE4",
+      "person_id": "Q1691142",
+      "organization_id": "Q571436",
+      "start_date": "2010-06-09",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17781726",
+      "role": {
+        "lang:de": "Mitglied des Landtag Nordrhein-Westfalen",
+        "lang:en": "member of the Landtag of North Rhine-Westphalia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1705554-f8064793-413c-d22e-f10a-2c7bf15a0e36",
+      "person_id": "Q1705554",
+      "organization_id": "Q571436",
+      "start_date": "2017-01-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17781726",
+      "role": {
+        "lang:de": "Mitglied des Landtag Nordrhein-Westfalen",
+        "lang:en": "member of the Landtag of North Rhine-Westphalia"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q1717016-513C2EDF-DFC8-46CB-8CF7-A09865B05692",
       "person_id": "Q1717016",
       "organization_id": "Q571436",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17781726",
+      "role": {
+        "lang:de": "Mitglied des Landtag Nordrhein-Westfalen",
+        "lang:en": "member of the Landtag of North Rhine-Westphalia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1740559-4F4DA4AB-FDB7-4BF5-9B8C-F4FDD89ACE3D",
+      "person_id": "Q1740559",
+      "organization_id": "Q571436",
+      "start_date": "2000-01-01",
       "role_superclass_code": "Q1939559",
       "role_superclass": {
         "lang:de": "Mitglied des Landtages",
@@ -370,6 +630,22 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q29951616-AA5D246C-2381-49E7-BEA5-A0C097DE512B",
+      "person_id": "Q29951616",
+      "organization_id": "Q571436",
+      "start_date": "2017-06-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17781726",
+      "role": {
+        "lang:de": "Mitglied des Landtag Nordrhein-Westfalen",
+        "lang:en": "member of the Landtag of North Rhine-Westphalia"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q29958266-880b7872-4028-f9c5-33a7-dca6e8973f18",
       "person_id": "Q29958266",
       "organization_id": "Q571436",
@@ -385,8 +661,72 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q29958272-AC4C468D-96D8-4706-9A6E-1A4160F60EE0",
+      "person_id": "Q29958272",
+      "organization_id": "Q571436",
+      "start_date": "2017-06-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17781726",
+      "role": {
+        "lang:de": "Mitglied des Landtag Nordrhein-Westfalen",
+        "lang:en": "member of the Landtag of North Rhine-Westphalia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q29958280-D862CA12-35ED-4639-8E84-013C3CCF626C",
+      "person_id": "Q29958280",
+      "organization_id": "Q571436",
+      "start_date": "2017-06-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17781726",
+      "role": {
+        "lang:de": "Mitglied des Landtag Nordrhein-Westfalen",
+        "lang:en": "member of the Landtag of North Rhine-Westphalia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q29959870-B4D23BC0-7DF2-4385-BE5B-C1DB37CE9078",
+      "person_id": "Q29959870",
+      "organization_id": "Q571436",
+      "start_date": "2017-06-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17781726",
+      "role": {
+        "lang:de": "Mitglied des Landtag Nordrhein-Westfalen",
+        "lang:en": "member of the Landtag of North Rhine-Westphalia"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q29961583-D049DD67-22EC-4E41-8A21-D151946F9DB4",
       "person_id": "Q29961583",
+      "organization_id": "Q571436",
+      "start_date": "2017-06-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17781726",
+      "role": {
+        "lang:de": "Mitglied des Landtag Nordrhein-Westfalen",
+        "lang:en": "member of the Landtag of North Rhine-Westphalia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q30001851-b910cf0b-4970-853a-81e3-f849314c76d0",
+      "person_id": "Q30001851",
       "organization_id": "Q571436",
       "start_date": "2017-06-01",
       "role_superclass_code": "Q1939559",
@@ -419,6 +759,40 @@
       "id": "http://www.wikidata.org/entity/statement/Q496127-F1432063-0DE9-45D9-8D2A-FBF98D41E451",
       "person_id": "Q496127",
       "organization_id": "Q571436",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17781726",
+      "role": {
+        "lang:de": "Mitglied des Landtag Nordrhein-Westfalen",
+        "lang:en": "member of the Landtag of North Rhine-Westphalia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q78205-1BA599C9-198C-4DD7-B6C2-CA6024384286",
+      "person_id": "Q78205",
+      "organization_id": "Q571436",
+      "start_date": "2010-06-09",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17781726",
+      "role": {
+        "lang:de": "Mitglied des Landtag Nordrhein-Westfalen",
+        "lang:en": "member of the Landtag of North Rhine-Westphalia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q85806-356c33d9-4df6-133b-c34f-9fc4d45d2cba",
+      "person_id": "Q85806",
+      "on_behalf_of_id": "Q13124",
+      "organization_id": "Q571436",
+      "start_date": "2012-05-31",
+      "end_date": "2017-10-10",
       "role_superclass_code": "Q1939559",
       "role_superclass": {
         "lang:de": "Mitglied des Landtages",

@@ -62,10 +62,28 @@
       "organization_id": "Q313827",
       "area_id": "Q183",
       "start_date": "2005-11-22",
-      "role_superclass_code": "Q4970706",
+      "role_superclass_code": "Q14212",
       "role_superclass": {
+        "lang:de": "Premierminister",
+        "lang:en": "prime minister"
+      },
+      "role_code": "Q4970706",
+      "role": {
         "lang:de": "Bundeskanzler",
         "lang:en": "Federal Chancellor of Germany"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q567-0ef809fd-476e-f0d0-bdcc-ee66b6e38c25",
+      "person_id": "Q567",
+      "on_behalf_of_id": "Q49762",
+      "organization_id": "Q313827",
+      "area_id": "Q183",
+      "start_date": "2005-11-22",
+      "role_superclass_code": "Q56022",
+      "role_superclass": {
+        "lang:de": "Kanzler",
+        "lang:en": "Chancellor of Germany"
       },
       "role_code": "Q4970706",
       "role": {

@@ -1,14 +1,157 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:de": "Thomas Ackermann",
+        "lang:en": "Thomas Ackermann"
+      },
+      "id": "Q15850715",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15850715"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Ulrike Alex",
+        "lang:en": "Ulrike Alex"
+      },
+      "id": "Q15852018",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15852018"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/AlexWK45"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Walter Fisch",
+        "lang:en": "Walter Fisch"
+      },
+      "id": "Q2544208",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2544208"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Andreas Lichert",
+        "lang:en": "Andreas Lichert"
+      },
+      "id": "Q58038368",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58038368"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:de": "Hessischer Landtag",
+        "lang:en": "Landtag of Hesse"
+      },
+      "id": "Q510511",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q510511"
+        }
+      ],
+      "area_id": "Q1199"
+    }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15850715-53E8DAD8-8A73-40B4-88E7-890267373731",
+      "person_id": "Q15850715",
+      "organization_id": "Q510511",
+      "start_date": "2013-10-23",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17519166",
+      "role": {
+        "lang:de": "Mitglied des Hessischen Landtags",
+        "lang:en": "Member of the Hessian Parliament"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15852018-5CFE212B-5448-4154-88AB-83C2213C7B48",
+      "person_id": "Q15852018",
+      "organization_id": "Q510511",
+      "start_date": "2014-01-18",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17519166",
+      "role": {
+        "lang:de": "Mitglied des Hessischen Landtags",
+        "lang:en": "Member of the Hessian Parliament"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2544208-96FDE194-BF98-4A93-9721-4846FB8F8407",
+      "person_id": "Q2544208",
+      "organization_id": "Q510511",
+      "start_date": "1947-01-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17519166",
+      "role": {
+        "lang:de": "Mitglied des Hessischen Landtags",
+        "lang:en": "Member of the Hessian Parliament"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58038368-456d348c-40f5-ca33-9e0a-4da78d28ec49",
+      "person_id": "Q58038368",
+      "organization_id": "Q510511",
+      "start_date": "2018-01-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17519166",
+      "role": {
+        "lang:de": "Mitglied des Hessischen Landtags",
+        "lang:en": "Member of the Hessian Parliament"
+      }
+    }
   ]
 }

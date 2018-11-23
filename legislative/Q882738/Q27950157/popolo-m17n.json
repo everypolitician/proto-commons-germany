@@ -1,14 +1,193 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:de": "Sylvia Bretschneider",
+        "lang:en": "Sylvia Bretschneider"
+      },
+      "id": "Q109168",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q109168"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Regine Lück",
+        "lang:en": "Regine Lück"
+      },
+      "id": "Q1399984",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1399984"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Jochen Schulte",
+        "lang:en": "Jochen Schulte"
+      },
+      "id": "Q1691179",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1691179"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Stefanie Drese",
+        "lang:en": "Stefanie Drese"
+      },
+      "id": "Q1772095",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1772095"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/stefanie.drese"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Erwin Sellering",
+        "lang:en": "Erwin Sellering"
+      },
+      "id": "Q69301",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q69301"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:de": "Landtag Mecklenburg-Vorpommern",
+        "lang:en": "Landtag of Mecklenburg-Vorpommern"
+      },
+      "id": "Q882738",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q882738"
+        }
+      ],
+      "area_id": "Q1196",
+      "seat_counts": {
+        "Q18327349": "71"
+      }
+    }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q109168-93A8C014-BA05-4F19-AD16-3D5ABFA2E93A",
+      "person_id": "Q109168",
+      "organization_id": "Q882738",
+      "start_date": "1994-01-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18327349",
+      "role": {
+        "lang:de": "Mitglied des Landtag Mecklenburg-Vorpommern",
+        "lang:en": "Member of the Landtag of Mecklenburg-Vorpommern"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1399984-EF65C1FA-1CA5-43E6-8382-EAE34BD3682B",
+      "person_id": "Q1399984",
+      "organization_id": "Q882738",
+      "start_date": "2002-10-22",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18327349",
+      "role": {
+        "lang:de": "Mitglied des Landtag Mecklenburg-Vorpommern",
+        "lang:en": "Member of the Landtag of Mecklenburg-Vorpommern"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1691179-BC7E5255-617C-43B5-AA7A-96EC8337D27F",
+      "person_id": "Q1691179",
+      "organization_id": "Q882738",
+      "start_date": "2002-01-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18327349",
+      "role": {
+        "lang:de": "Mitglied des Landtag Mecklenburg-Vorpommern",
+        "lang:en": "Member of the Landtag of Mecklenburg-Vorpommern"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1772095-1D62342E-0A04-4048-8E58-5CD6EA7D76EA",
+      "person_id": "Q1772095",
+      "organization_id": "Q882738",
+      "area_id": "Q1628959",
+      "start_date": "2011-10-04",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18327349",
+      "role": {
+        "lang:de": "Mitglied des Landtag Mecklenburg-Vorpommern",
+        "lang:en": "Member of the Landtag of Mecklenburg-Vorpommern"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q69301-06369582-B7F9-4F72-A786-2D4EE180DBD8",
+      "person_id": "Q69301",
+      "organization_id": "Q882738",
+      "start_date": "2002-10-22",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18327349",
+      "role": {
+        "lang:de": "Mitglied des Landtag Mecklenburg-Vorpommern",
+        "lang:en": "Member of the Landtag of Mecklenburg-Vorpommern"
+      }
+    }
   ]
 }

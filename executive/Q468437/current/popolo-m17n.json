@@ -62,10 +62,28 @@
       "organization_id": "Q468437",
       "area_id": "Q1209",
       "start_date": "2015-07-15",
-      "role_superclass_code": "Q31388880",
+      "role_superclass_code": "Q17175157",
       "role_superclass": {
+        "lang:de": "Bürgermeister (Deutschland)",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q31388880",
+      "role": {
         "lang:de": "Bremer Bürgermeister",
         "lang:en": "mayor of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1045675-44dedf21-4b9d-1885-7eb6-03d1bc51e49c",
+      "person_id": "Q1045675",
+      "on_behalf_of_id": "Q49768",
+      "organization_id": "Q468437",
+      "area_id": "Q1209",
+      "start_date": "2015-07-15",
+      "role_superclass_code": "Q23833126",
+      "role_superclass": {
+        "lang:de": "Ministerpräsident",
+        "lang:en": "Minister-President"
       },
       "role_code": "Q31388880",
       "role": {
