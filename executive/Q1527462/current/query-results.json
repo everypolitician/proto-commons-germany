@@ -20,7 +20,7 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q71359"
+        "value" : "http://www.wikidata.org/entity/Q2437804"
       },
       "district" : {
         "type" : "uri",
@@ -67,12 +67,12 @@
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Annegret Kramp-Karrenbauer"
+        "value" : "Tobias Hans"
       },
       "name_de" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Annegret Kramp-Karrenbauer"
+        "value" : "Tobias Hans"
       },
       "org" : {
         "type" : "uri",
@@ -85,7 +85,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q71359-b828e288-4ca0-ff24-b135-6d8027cad998"
+        "value" : "http://www.wikidata.org/entity/statement/Q2437804-ee4c455a-4e7b-1063-ee46-d0aacdd0d931"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -94,7 +94,7 @@
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2011-08-10T00:00:00Z"
+        "value" : "2018-03-01T00:00:00Z"
       }
     } ]
   }
