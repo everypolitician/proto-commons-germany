@@ -4,52 +4,57 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q78205-03727e98-4d07-75dc-2990-8c95deb062cb"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q78205"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Armin Laschet"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Armin Laschet"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49762"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Christian Democratic Union"
       },
       "party_name_de" : {
         "xml:lang" : "de",
         "type" : "literal",
         "value" : "Christlich Demokratische Union Deutschlands"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q78205"
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Christian Democratic Union"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1198"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "North Rhine-Westphalia"
       },
       "district_name_de" : {
         "xml:lang" : "de",
         "type" : "literal",
         "value" : "Nordrhein-Westfalen"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "North Rhine-Westphalia"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q30534793"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30534793"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Minister-President of North Rhine-Westphalia"
-      },
-      "role_superclass_de" : {
+      "role_de" : {
         "xml:lang" : "de",
         "type" : "literal",
         "value" : "Ministerpräsident Nordrhein-Westfalens"
@@ -59,20 +64,24 @@
         "type" : "literal",
         "value" : "Minister-President of North Rhine-Westphalia"
       },
-      "role_de" : {
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-06-27T00:00:00Z"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23833126"
+      },
+      "role_superclass_de" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Ministerpräsident Nordrhein-Westfalens"
+        "value" : "Ministerpräsident"
       },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Armin Laschet"
-      },
-      "name_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Armin Laschet"
+        "value" : "Minister-President"
       },
       "org" : {
         "type" : "uri",
@@ -83,18 +92,9 @@
         "type" : "literal",
         "value" : "Landesregierung von Nordrhein-Westfalen"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q78205-03727e98-4d07-75dc-2990-8c95deb062cb"
-      },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1198"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-06-27T00:00:00Z"
       }
     } ]
   }

@@ -4,6 +4,10 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
+      },
       "role_superclass" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1939559"
@@ -59,10 +63,6 @@
         "xml:lang" : "de",
         "type" : "literal",
         "value" : "Landtag Nordrhein-Westfalen"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -84,6 +84,10 @@
         "value" : "2012-03-14T00:00:00Z"
       }
     }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
+      },
       "role_superclass" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1939559"
@@ -139,10 +143,6 @@
         "xml:lang" : "de",
         "type" : "literal",
         "value" : "Landtag Nordrhein-Westfalen"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -164,6 +164,10 @@
         "value" : "2012-10-31T00:00:00Z"
       }
     }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
+      },
       "role_superclass" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1939559"
@@ -219,10 +223,6 @@
         "xml:lang" : "de",
         "type" : "literal",
         "value" : "Landtag Nordrhein-Westfalen"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -244,6 +244,10 @@
         "value" : "2017-07-14T00:00:00Z"
       }
     }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
+      },
       "role_superclass" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1939559"
@@ -299,10 +303,6 @@
         "xml:lang" : "de",
         "type" : "literal",
         "value" : "Landtag Nordrhein-Westfalen"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -324,6 +324,10 @@
         "value" : "2012-03-14T00:00:00Z"
       }
     }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
+      },
       "role_superclass" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1939559"
@@ -379,10 +383,6 @@
         "xml:lang" : "de",
         "type" : "literal",
         "value" : "Landtag Nordrhein-Westfalen"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -404,6 +404,10 @@
         "value" : "2012-10-31T00:00:00Z"
       }
     }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
+      },
       "role_superclass" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1939559"
@@ -459,10 +463,6 @@
         "xml:lang" : "de",
         "type" : "literal",
         "value" : "Landtag Nordrhein-Westfalen"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -484,6 +484,10 @@
         "value" : "2017-07-14T00:00:00Z"
       }
     }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
+      },
       "role_superclass" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1939559"
@@ -539,10 +543,6 @@
         "xml:lang" : "de",
         "type" : "literal",
         "value" : "Landtag Nordrhein-Westfalen"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -564,6 +564,10 @@
         "value" : "2012-03-14T00:00:00Z"
       }
     }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
+      },
       "role_superclass" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1939559"
@@ -619,10 +623,6 @@
         "xml:lang" : "de",
         "type" : "literal",
         "value" : "Landtag Nordrhein-Westfalen"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -644,6 +644,10 @@
         "value" : "2012-10-31T00:00:00Z"
       }
     }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
+      },
       "role_superclass" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1939559"
@@ -699,10 +703,6 @@
         "xml:lang" : "de",
         "type" : "literal",
         "value" : "Landtag Nordrhein-Westfalen"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
       },
       "org_jurisdiction" : {
         "type" : "uri",

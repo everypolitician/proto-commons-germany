@@ -4,52 +4,57 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q104678-8a31b0c2-4232-400a-7228-b9ed685799cd"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q104678"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Bodo Ramelow"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bodo Ramelow"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q152554"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "The Left Party.PDS"
       },
       "party_name_de" : {
         "xml:lang" : "de",
         "type" : "literal",
         "value" : "Partei des Demokratischen Sozialismus"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q104678"
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Left Party.PDS"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1205"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Thuringia"
       },
       "district_name_de" : {
         "xml:lang" : "de",
         "type" : "literal",
         "value" : "Thüringen"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Thuringia"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q30584228"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30584228"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Minister-President of Thuringia"
-      },
-      "role_superclass_de" : {
+      "role_de" : {
         "xml:lang" : "de",
         "type" : "literal",
         "value" : "Ministerpräsident Thüringens"
@@ -59,20 +64,24 @@
         "type" : "literal",
         "value" : "Minister-President of Thuringia"
       },
-      "role_de" : {
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-05T00:00:00Z"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23833126"
+      },
+      "role_superclass_de" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Ministerpräsident Thüringens"
+        "value" : "Ministerpräsident"
       },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Bodo Ramelow"
-      },
-      "name_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Bodo Ramelow"
+        "value" : "Minister-President"
       },
       "org" : {
         "type" : "uri",
@@ -83,66 +92,62 @@
         "type" : "literal",
         "value" : "Thüringer Landesregierung"
       },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q104678-8a31b0c2-4232-400a-7228-b9ed685799cd"
       },
-      "org_jurisdiction" : {
+      "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1205"
+        "value" : "http://www.wikidata.org/entity/Q104678"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "name_de" : {
+        "xml:lang" : "de",
         "type" : "literal",
-        "value" : "2014-12-05T00:00:00Z"
-      }
-    }, {
+        "value" : "Bodo Ramelow"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bodo Ramelow"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49764"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "The Left"
       },
       "party_name_de" : {
         "xml:lang" : "de",
         "type" : "literal",
         "value" : "Die Linke"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q104678"
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Left"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1205"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Thuringia"
       },
       "district_name_de" : {
         "xml:lang" : "de",
         "type" : "literal",
         "value" : "Thüringen"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Thuringia"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q30584228"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30584228"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Minister-President of Thuringia"
-      },
-      "role_superclass_de" : {
+      "role_de" : {
         "xml:lang" : "de",
         "type" : "literal",
         "value" : "Ministerpräsident Thüringens"
@@ -152,20 +157,24 @@
         "type" : "literal",
         "value" : "Minister-President of Thuringia"
       },
-      "role_de" : {
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-12-05T00:00:00Z"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23833126"
+      },
+      "role_superclass_de" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Ministerpräsident Thüringens"
+        "value" : "Ministerpräsident"
       },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Bodo Ramelow"
-      },
-      "name_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Bodo Ramelow"
+        "value" : "Minister-President"
       },
       "org" : {
         "type" : "uri",
@@ -176,18 +185,9 @@
         "type" : "literal",
         "value" : "Thüringer Landesregierung"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q104678-8a31b0c2-4232-400a-7228-b9ed685799cd"
-      },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1205"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2014-12-05T00:00:00Z"
       }
     } ]
   }

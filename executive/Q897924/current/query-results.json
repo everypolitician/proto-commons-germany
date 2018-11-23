@@ -4,35 +4,49 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q99660-f32069be-420c-2d41-a060-918bfceb5362"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q99660"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Dietmar Woidke"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dietmar Woidke"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q49768"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Social Democratic Party of Germany"
       },
       "party_name_de" : {
         "xml:lang" : "de",
         "type" : "literal",
         "value" : "Sozialdemokratische Partei Deutschlands"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q99660"
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Social Democratic Party of Germany"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1208"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_de" : {
+        "xml:lang" : "de",
         "type" : "literal",
         "value" : "Brandenburg"
       },
-      "district_name_de" : {
-        "xml:lang" : "de",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Brandenburg"
       },
@@ -40,16 +54,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q30562601"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30562601"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Minister-President of Brandenburg"
-      },
-      "role_superclass_de" : {
+      "role_de" : {
         "xml:lang" : "de",
         "type" : "literal",
         "value" : "Ministerpräsident Brandenburgs"
@@ -59,20 +64,24 @@
         "type" : "literal",
         "value" : "Minister-President of Brandenburg"
       },
-      "role_de" : {
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-08-28T00:00:00Z"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23833126"
+      },
+      "role_superclass_de" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Ministerpräsident Brandenburgs"
+        "value" : "Ministerpräsident"
       },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Dietmar Woidke"
-      },
-      "name_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Dietmar Woidke"
+        "value" : "Minister-President"
       },
       "org" : {
         "type" : "uri",
@@ -83,18 +92,9 @@
         "type" : "literal",
         "value" : "Brandenburgische Landesregierung"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q99660-f32069be-420c-2d41-a060-918bfceb5362"
-      },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1208"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2013-08-28T00:00:00Z"
       }
     } ]
   }
