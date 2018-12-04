@@ -30,7 +30,7 @@
       "role_de" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Mitglied des Landtags von Nordrhein-Westfalen"
+        "value" : "Mitglied des Landtag Nordrhein-Westfalen"
       },
       "item" : {
         "type" : "uri",
@@ -67,6 +67,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1198"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "199"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -105,7 +110,7 @@
       "role_de" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Mitglied des Landtags von Nordrhein-Westfalen"
+        "value" : "Mitglied des Landtag Nordrhein-Westfalen"
       },
       "item" : {
         "type" : "uri",
@@ -142,6 +147,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1198"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "199"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -180,7 +190,7 @@
       "role_de" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Mitglied des Landtags von Nordrhein-Westfalen"
+        "value" : "Mitglied des Landtag Nordrhein-Westfalen"
       },
       "item" : {
         "type" : "uri",
@@ -217,6 +227,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1198"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "199"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -255,7 +270,7 @@
       "role_de" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Mitglied des Landtags von Nordrhein-Westfalen"
+        "value" : "Mitglied des Landtag Nordrhein-Westfalen"
       },
       "item" : {
         "type" : "uri",
@@ -292,6 +307,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1198"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "199"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -330,7 +350,7 @@
       "role_de" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Mitglied des Landtags von Nordrhein-Westfalen"
+        "value" : "Mitglied des Landtag Nordrhein-Westfalen"
       },
       "item" : {
         "type" : "uri",
@@ -367,6 +387,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1198"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "199"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -405,7 +430,7 @@
       "role_de" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Mitglied des Landtags von Nordrhein-Westfalen"
+        "value" : "Mitglied des Landtag Nordrhein-Westfalen"
       },
       "item" : {
         "type" : "uri",
@@ -442,6 +467,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1198"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "199"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -480,7 +510,7 @@
       "role_de" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Mitglied des Landtags von Nordrhein-Westfalen"
+        "value" : "Mitglied des Landtag Nordrhein-Westfalen"
       },
       "item" : {
         "type" : "uri",
@@ -517,6 +547,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1198"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "199"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -555,7 +590,7 @@
       "role_de" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Mitglied des Landtags von Nordrhein-Westfalen"
+        "value" : "Mitglied des Landtag Nordrhein-Westfalen"
       },
       "item" : {
         "type" : "uri",
@@ -592,6 +627,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1198"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "199"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -630,7 +670,7 @@
       "role_de" : {
         "xml:lang" : "de",
         "type" : "literal",
-        "value" : "Mitglied des Landtags von Nordrhein-Westfalen"
+        "value" : "Mitglied des Landtag Nordrhein-Westfalen"
       },
       "item" : {
         "type" : "uri",
@@ -667,6 +707,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1198"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "199"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",

@@ -3,6 +3,6334 @@
     "vars" : [ "statement", "item", "name_de", "name_en", "party", "party_name_de", "party_name_en", "district", "district_name_de", "district_name_en", "role", "role_de", "role_en", "role_superclass", "role_superclass_de", "role_superclass_en", "start", "end", "facebook", "org", "org_de", "org_en", "org_jurisdiction", "org_seat_count" ]
   },
   "results" : {
-    "bindings" : [ ]
+    "bindings" : [ {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q101599"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Christian Carius"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Christian Carius"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q101599-CAA19A91-1FDA-4206-922A-F45E6DFD3969"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1999-01-01T00:00:00Z"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1022392"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Egon Primas"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Egon Primas"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1022392-32DD05C1-DDDF-4D5A-8C97-707C7370098A"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q104678"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bodo Ramelow"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Bodo Ramelow"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q104678-A943BD83-1131-4896-A3E3-B69C8F01EF1E"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2001-01-01T00:00:00Z"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2005-01-01T00:00:00Z"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1083300"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Christina Tasch"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Christina Tasch"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1083300-E7C35359-40E8-484B-B44C-1225C1592559"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1157243"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dagmar Becker"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Dagmar Becker"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1157243-12BDDF47-238E-45D9-B430-67D1498842CD"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q120220"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Christoph Matschie"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Christoph Matschie"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q120220-274125D6-6079-4D7A-9001-FFF7E5C9FFD1"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1208888"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Diana Skibbe"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Diana Skibbe"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1208888-9FB02BD7-123E-4EBE-8EB1-6E8DD4CC0A56"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1222082"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dieter Hausold"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Dieter Hausold"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1222082-043AD0B9-AB61-4878-9D49-2324D242E121"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1227729"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dirk Adams"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Dirk Adams"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1227729-B3CB2CAE-CB62-43AA-B92D-004E4178F2F0"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1246241"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dorothea Marx"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Dorothea Marx"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1246241-6B3171DF-8553-4626-A8A9-B58D260F1440"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1268020"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Manfred Scherer"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Manfred Scherer"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1268020-6EF61E54-6D19-4BA5-9972-BD0D63A8727D"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1271101"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sabine Berninger"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Sabine Berninger"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1271101-89D9705A-F5FD-48E3-A417-29A633E9CE7E"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1328076"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eleonore Mühlbauer"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Eleonore Mühlbauer"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1328076-4A643357-2171-468E-8915-3A17F58886DF"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1331504"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Elke Holzapfel"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Elke Holzapfel"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1331504-BAEE67CA-4125-40BF-A99A-5E552610975E"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1443614"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Frank Kuschel"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Frank Kuschel"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1443614-E543B430-66BE-4B29-8D97-DADD763A5162"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1501182"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gerold Wucherpfennig"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Gerold Wucherpfennig"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1501182-D9D8FB33-11E1-43CC-837C-8426034BD789"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1501858"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ina Leukefeld"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Ina Leukefeld"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1501858-F0FA3001-A2C0-44D3-BEFC-781A0921EFFE"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1553096"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gudrun Holbe"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Gudrun Holbe"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1553096-19BCD454-C75D-4788-BCD3-16969927B1E0"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1553115"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gudrun Lukin"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Gudrun Lukin"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1553115-1B69BFB3-7A1A-4ECA-94BA-0A1F790B410A"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1570140"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Matthias Hey"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Matthias Hey"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1570140-E5EA55DF-04B8-49B9-9BA9-EEF862E5C9D3"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15852278"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ute Lukasch"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Ute Lukasch"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q15852278-337F53A1-2728-47ED-AE3D-8F4F368F6A19"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1594585"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Heike Taubert"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Heike Taubert"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1594585-54AAC667-6088-4436-A551-8ED2AEB231A9"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1607438"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Henry Worm"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Henry Worm"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1607438-B7B120FA-5CA8-48DA-9542-553BE1873BD4"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1622388"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jörg Geibert"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Jörg Geibert"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1622388-C4C8BFDD-A9B3-4133-A714-3F25B2210AC0"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1697005"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Johanna Scheringer"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Johanna Scheringer-Wright"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1697005-2DA25B5D-3C74-46C7-85E1-0689FA58F7BD"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1715395"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jörg Kellner"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Jörg Kellner"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1715395-1E9990C9-E78F-4F6F-A0A3-2E9C21135277"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1715411"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jörg Kubitzki"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Jörg Kubitzki"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1715411-9080D354-4C28-4D1D-BBAB-72B71EA49618"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1717581"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jürgen Reinholz"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Jürgen Reinholz"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1717581-E0EF02F5-1BAC-4DB3-B3D1-0C1ACA7778E4"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1734196"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karola Stange"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Karola Stange"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1734196-395DC519-A06E-4477-8DC8-099596C59C12"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1735939"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Katharina König-Preuss"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Katharina König-Preuss"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1735939-94EAC0A8-124E-45DA-8D03-93C03C2D10EE"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1777640"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Knut Korschewsky"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Knut Korschewsky"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1777640-CD246DAF-6761-48E7-ACB0-3083D7FEE91C"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18028145"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Steffen Dittes"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Steffen Dittes"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18028145-ECD6A618-4FE7-4FA5-87B2-F0FC99580909"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18169638"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Frank Warnecke"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Frank Warnecke"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18169638-6E07D864-3571-4B6E-9E6B-B66461827279"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18169653"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marion Rosin"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Marion Rosin"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18169653-68586115-4398-42E7-8987-7A810175B144"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18169672"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Torsten Wolf"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Torsten Wolf"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18169672-C289D90C-ED3E-4026-A0A0-E9D7E377909A"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18169673"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rainer Kräuter"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Rainer Kräuter"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18169673-89EA98F7-D1AE-401A-9E50-885276EFAC31"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18176740"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Stephan Brandner"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Stephan Brandner"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18176740-A3FEBE1B-3A1C-4D21-8D82-A34445265DD3"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18176747"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Siegfried Gentele"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Siegfried Gentele"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18176747-B0AF0A4C-8EF6-4AE5-B922-8BB2BCB49B3C"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18176750"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Oskar Helmerich"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Oskar Helmerich"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18176750-F8DA33F2-81CA-4731-AA4D-032D409C6F8E"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18176753"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jörg Henke"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Jörg Henke"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18176753-2A0B7442-6565-453C-A353-B4232FC1E587"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18176755"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Corinna Herold"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Corinna Herold"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18176755-27715086-339A-472F-A5D6-55B9CE381E45"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18176756"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Björn Höcke"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Björn Höcke"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18176756-11CEA944-6600-4654-83DF-FAD227177C69"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "Bjoern.Hoecke.AfD"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18176758"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Olaf Kießling"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Olaf Kießling"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18176758-B5C196DB-D561-406F-AA93-CD995F756E53"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18176760"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jens Krumpe"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Jens Krumpe"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18176760-B344473A-6DD7-402C-8534-2EA9263886DD"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18176763"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Wiebke Muhsal"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Wiebke Muhsal"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18176763-306FDC73-FF9E-4045-8198-4BC413269D01"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18176782"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Stefan Möller"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Stefan Möller"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18176782-5CEC2703-E918-40EE-90A1-FB2E8E93E31F"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18176784"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Thomas Rudy"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thomas Rudy"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18176784-561F7B1A-A29D-4146-869D-497557CDD6E0"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18176793"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Roberto Kobelt"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Roberto Kobelt"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18176793-8195F040-F6E4-42B3-BF51-3614763FB8D2"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18176860"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kristin Floßmann"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Kristin Floßmann"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18176860-F27DBCA0-9CD0-434B-9FA5-A36ADE2DE967"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18176880"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kati Engel"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Kati Engel"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18176880-3F984CD4-BBDC-499A-8583-B2CBFF483CE6"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18176897"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Steffen Harzer"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Steffen Harzer"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18176897-E0A1F0B1-5DA5-4785-A2C7-F0AB6A7F8127"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18176902"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Diana Lehmann"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Diana Lehmann"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18176902-CA313481-D53C-4C78-9A04-897EC8A07EA2"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18222103"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Stefan Gruhner"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Stefan Gruhner"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18222103-BD494479-C188-464C-94E1-C905F395C725"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18222253"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Christian Herrgott"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Christian Herrgott"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18222253-1AD38E0C-924D-4F15-8F02-FD9978183E17"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18222863"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marcus Malsch"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Marcus Malsch"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18222863-A01567E9-5F8D-4EB6-A855-F996F4F9E120"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18223080"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Katja Mitteldorf"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Katja Mitteldorf"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18223080-73FA4437-54DE-434D-B753-A8BBA7F9D9CE"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18334468"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jörg Thamm"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Jörg Thamm"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18334468-249F5C46-D69B-4063-858D-E8A53A8EB604"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18334500"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Christian Tischner"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Christian Tischner"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18334500-D64087A0-6D7E-4F6D-B3AB-7A72F8580E73"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18334805"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Raymond Walk"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Raymond Walk"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18334805-B87F8741-B926-4A8B-A833-7CB7F79DE6F5"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18615566"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Christoph Zippel"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Christoph Zippel"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18615566-BC2F38B7-3F85-451A-95DC-2AD21DB25A10"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18616287"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Andreas Bühl"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Andreas Bühl"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18616287-2A9B1FED-6558-44E2-8643-A1C437499030"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18616318"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Anja Müller"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Anja Müller"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18616318-3B0C7F03-BEBF-443E-AA01-ABEEAFC08910"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1883265"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Madeleine Henfling"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Madeleine Henfling"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1883265-72BFD408-8D8A-4BB0-84F8-AA1F9BC7351D"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1885353"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maik Kowalleck"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Maik Kowalleck"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1885353-BA05D0C0-E96F-47B0-9B64-1AB5475FCEFD"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1889404"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Manfred Grob"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Manfred Grob"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1889404-3A5EC0CB-B832-4BD7-920F-9156B35AFA7F"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1895298"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Margit Jung"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Margit Jung"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1895298-20951842-4BF0-4680-8DF1-C01B425F3BA0"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1899065"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mario Voigt"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mario Voigt"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1899065-165B2F2C-DA02-4723-A5DC-A9954E917A17"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19274424"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Babett Pfefferlein"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Babett Pfefferlein"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q19274424-B8CC986F-A675-49D0-BB9B-02B46D66E41F"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19277363"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Christian Schaft"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Christian Schaft"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q19277363-AF2B1EDF-3008-4BB8-8130-6E686286F361"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1927823"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Michael Heym"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Michael Heym"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1927823-BF48DF9D-93E8-4F55-973A-6BEEAB5D26EC"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1933211"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mike Huster"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mike Huster"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1933211-63A534D9-B5CA-4922-A35B-7A7FD338E9BF"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1933349"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mike Mohring"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mike Mohring"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1933349-7F9D77CC-6C3B-4359-B854-C2E3E8AC9A5D"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1999-01-01T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "mike.mohring.7"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19959751"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ronald Hande"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Ronald Hande"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q19959751-9A5FFCFE-8F3D-4CCD-BD17-AFE1C01EDAA6"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2129268"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ralf Kalich"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Ralf Kalich"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q2129268-0C403869-1EA8-48A2-931F-8552C1DA787E"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21502153"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Olaf Müller"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Olaf Müller"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q21502153-1CB4C0FC-6DA6-459A-B375-D6EB5544C873"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21502168"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Iris Martin-Gehl"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Iris Martin-Gehl"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q21502168-409E836F-5204-4891-9B8B-5EC94BE42BEA"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21502234"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Simone Schulze"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Simone Schulze"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q21502234-B5A98C36-9B14-4E5D-9E08-C83A0C905F94"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21502249"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Herbert Wirkner"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Herbert Wirkner"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q21502249-6ED7831B-CE6B-44C7-A3BB-682C360A6D13"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2369250"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Susanne Hennig"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Susanne Hennig"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q2369250-20A793F3-8CBD-49C5-8D9D-D213678C05C6"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2433697"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tilo Kummer"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Tilo Kummer"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q2433697-AA5E9625-9A41-4F49-9C51-D388D0518FF7"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2504312"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Uwe Höhn"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Uwe Höhn"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q2504312-9F5EA7DA-F0D5-4C8D-807E-20A23740C85A"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2530968"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Volker Emde"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Volker Emde"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q2530968-703E78D3-D43E-45AC-B2D6-D4446AD16A1F"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2589583"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Wolfgang Fiedler"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Wolfgang Fiedler"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q2589583-9B80A889-2F8A-4DAA-A822-4ECBBA42FE56"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q517121"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "André Blechschmidt"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "André Blechschmidt"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q517121-8FFF861E-06ED-402D-A6BB-B43648D2D2F6"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q551283"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Anja Siegesmund"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Anja Siegesmund"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q551283-18543B81-37C9-4907-B55B-F9DA5DF2932B"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q566633"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Annette Lehmann"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Annette Lehmann"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q566633-10FDC051-E5FC-4A1B-81D0-3993020E7F57"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q750756"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Astrid Rothe-Beinlich"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Astrid Rothe-Beinlich"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q750756-F7040157-BA90-4C6A-A2F2-ADF705812F23"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q77387"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Christine Lieberknecht"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Christine Lieberknecht"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q77387-7455B81B-D1ED-43B7-AF5E-4A09E04F0598"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q813163"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Beate Meißner"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Beate Meißner"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q813163-A8C6C60C-535C-4CE5-95A5-3479F9A5FC66"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1939559"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Landtag"
+      },
+      "role_superclass_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Landtages"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17344251"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Landtag of Thuringia"
+      },
+      "role_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mitglied des Thüringer Landtags"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q97573"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marion Walsmann"
+      },
+      "name_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Marion Walsmann"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q896075"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Landtag of Thuringia"
+      },
+      "org_de" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thüringer Landtag"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q97573-679C27AA-6D2C-462C-9808-10B57338A658"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1205"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    } ]
   }
 }
