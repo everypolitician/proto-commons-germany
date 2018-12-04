@@ -1,728 +1,763 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_de", "name_en", "party", "party_name_de", "party_name_en", "district", "district_name_de", "district_name_en", "role", "role_de", "role_en", "role_superclass", "role_superclass_de", "role_superclass_en", "start", "end", "facebook", "org", "org_de", "org_en", "org_jurisdiction", "org_seat_count" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_de",
+      "name_en",
+      "party",
+      "party_name_de",
+      "party_name_en",
+      "district",
+      "district_name_de",
+      "district_name_en",
+      "role",
+      "role_de",
+      "role_en",
+      "role_superclass",
+      "role_superclass_de",
+      "role_superclass_en",
+      "start",
+      "end",
+      "facebook",
+      "org",
+      "org_de",
+      "org_en",
+      "org_jurisdiction",
+      "org_seat_count"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1939559"
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q87772"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Sylvia Löhrmann"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sylvia Löhrmann"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17781726"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtag Nordrhein-Westfalen"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Landtag of North Rhine-Westphalia"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1995-10-05T00:00:00Z"
+        },
+        "end": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-03-14T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q571436"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Landtag Nordrhein-Westfalen"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Landtag of North Rhine-Westphalia"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1198"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "199"
+        }
       },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of Landtag"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q87772"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Sylvia Löhrmann"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sylvia Löhrmann"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17781726"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtag Nordrhein-Westfalen"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Landtag of North Rhine-Westphalia"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1995-10-05T00:00:00Z"
+        },
+        "end": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-10-31T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q571436"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Landtag Nordrhein-Westfalen"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Landtag of North Rhine-Westphalia"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1198"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "199"
+        }
       },
-      "role_superclass_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Mitglied des Landtages"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q87772"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Sylvia Löhrmann"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sylvia Löhrmann"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17781726"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtag Nordrhein-Westfalen"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Landtag of North Rhine-Westphalia"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1995-10-05T00:00:00Z"
+        },
+        "end": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2017-07-14T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q571436"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Landtag Nordrhein-Westfalen"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Landtag of North Rhine-Westphalia"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1198"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "199"
+        }
       },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17781726"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q87772"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Sylvia Löhrmann"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sylvia Löhrmann"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17781726"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtag Nordrhein-Westfalen"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Landtag of North Rhine-Westphalia"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-05-31T00:00:00Z"
+        },
+        "end": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-03-14T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q571436"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Landtag Nordrhein-Westfalen"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Landtag of North Rhine-Westphalia"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1198"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "199"
+        }
       },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of the Landtag of North Rhine-Westphalia"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q87772"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Sylvia Löhrmann"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sylvia Löhrmann"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17781726"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtag Nordrhein-Westfalen"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Landtag of North Rhine-Westphalia"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-05-31T00:00:00Z"
+        },
+        "end": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-10-31T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q571436"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Landtag Nordrhein-Westfalen"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Landtag of North Rhine-Westphalia"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1198"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "199"
+        }
       },
-      "role_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Mitglied des Landtag Nordrhein-Westfalen"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q87772"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Sylvia Löhrmann"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sylvia Löhrmann"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17781726"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtag Nordrhein-Westfalen"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Landtag of North Rhine-Westphalia"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-05-31T00:00:00Z"
+        },
+        "end": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2017-07-14T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q571436"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Landtag Nordrhein-Westfalen"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Landtag of North Rhine-Westphalia"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1198"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "199"
+        }
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q87772"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q87772"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Sylvia Löhrmann"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sylvia Löhrmann"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17781726"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtag Nordrhein-Westfalen"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Landtag of North Rhine-Westphalia"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2017-06-01T00:00:00Z"
+        },
+        "end": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-03-14T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q571436"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Landtag Nordrhein-Westfalen"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Landtag of North Rhine-Westphalia"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1198"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "199"
+        }
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sylvia Löhrmann"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q87772"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Sylvia Löhrmann"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sylvia Löhrmann"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17781726"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtag Nordrhein-Westfalen"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Landtag of North Rhine-Westphalia"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2017-06-01T00:00:00Z"
+        },
+        "end": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-10-31T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q571436"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Landtag Nordrhein-Westfalen"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Landtag of North Rhine-Westphalia"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1198"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "199"
+        }
       },
-      "name_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Sylvia Löhrmann"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q571436"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Landtag of North Rhine-Westphalia"
-      },
-      "org_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Landtag Nordrhein-Westfalen"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1198"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "199"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1995-10-05T00:00:00Z"
-      },
-      "end" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2012-03-14T00:00:00Z"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q87772"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Sylvia Löhrmann"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sylvia Löhrmann"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17781726"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtag Nordrhein-Westfalen"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Landtag of North Rhine-Westphalia"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2017-06-01T00:00:00Z"
+        },
+        "end": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2017-07-14T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q571436"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Landtag Nordrhein-Westfalen"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Landtag of North Rhine-Westphalia"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1198"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "199"
+        }
       }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1939559"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of Landtag"
-      },
-      "role_superclass_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Mitglied des Landtages"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17781726"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of the Landtag of North Rhine-Westphalia"
-      },
-      "role_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Mitglied des Landtag Nordrhein-Westfalen"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q87772"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sylvia Löhrmann"
-      },
-      "name_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Sylvia Löhrmann"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q571436"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Landtag of North Rhine-Westphalia"
-      },
-      "org_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Landtag Nordrhein-Westfalen"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1198"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "199"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1995-10-05T00:00:00Z"
-      },
-      "end" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2012-10-31T00:00:00Z"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1939559"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of Landtag"
-      },
-      "role_superclass_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Mitglied des Landtages"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17781726"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of the Landtag of North Rhine-Westphalia"
-      },
-      "role_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Mitglied des Landtag Nordrhein-Westfalen"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q87772"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sylvia Löhrmann"
-      },
-      "name_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Sylvia Löhrmann"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q571436"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Landtag of North Rhine-Westphalia"
-      },
-      "org_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Landtag Nordrhein-Westfalen"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1198"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "199"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1995-10-05T00:00:00Z"
-      },
-      "end" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-07-14T00:00:00Z"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1939559"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of Landtag"
-      },
-      "role_superclass_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Mitglied des Landtages"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17781726"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of the Landtag of North Rhine-Westphalia"
-      },
-      "role_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Mitglied des Landtag Nordrhein-Westfalen"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q87772"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sylvia Löhrmann"
-      },
-      "name_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Sylvia Löhrmann"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q571436"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Landtag of North Rhine-Westphalia"
-      },
-      "org_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Landtag Nordrhein-Westfalen"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1198"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "199"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2012-05-31T00:00:00Z"
-      },
-      "end" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2012-03-14T00:00:00Z"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1939559"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of Landtag"
-      },
-      "role_superclass_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Mitglied des Landtages"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17781726"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of the Landtag of North Rhine-Westphalia"
-      },
-      "role_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Mitglied des Landtag Nordrhein-Westfalen"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q87772"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sylvia Löhrmann"
-      },
-      "name_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Sylvia Löhrmann"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q571436"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Landtag of North Rhine-Westphalia"
-      },
-      "org_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Landtag Nordrhein-Westfalen"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1198"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "199"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2012-05-31T00:00:00Z"
-      },
-      "end" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2012-10-31T00:00:00Z"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1939559"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of Landtag"
-      },
-      "role_superclass_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Mitglied des Landtages"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17781726"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of the Landtag of North Rhine-Westphalia"
-      },
-      "role_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Mitglied des Landtag Nordrhein-Westfalen"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q87772"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sylvia Löhrmann"
-      },
-      "name_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Sylvia Löhrmann"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q571436"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Landtag of North Rhine-Westphalia"
-      },
-      "org_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Landtag Nordrhein-Westfalen"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1198"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "199"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2012-05-31T00:00:00Z"
-      },
-      "end" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-07-14T00:00:00Z"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1939559"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of Landtag"
-      },
-      "role_superclass_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Mitglied des Landtages"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17781726"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of the Landtag of North Rhine-Westphalia"
-      },
-      "role_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Mitglied des Landtag Nordrhein-Westfalen"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q87772"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sylvia Löhrmann"
-      },
-      "name_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Sylvia Löhrmann"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q571436"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Landtag of North Rhine-Westphalia"
-      },
-      "org_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Landtag Nordrhein-Westfalen"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1198"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "199"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-06-01T00:00:00Z"
-      },
-      "end" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2012-03-14T00:00:00Z"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1939559"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of Landtag"
-      },
-      "role_superclass_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Mitglied des Landtages"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17781726"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of the Landtag of North Rhine-Westphalia"
-      },
-      "role_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Mitglied des Landtag Nordrhein-Westfalen"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q87772"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sylvia Löhrmann"
-      },
-      "name_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Sylvia Löhrmann"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q571436"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Landtag of North Rhine-Westphalia"
-      },
-      "org_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Landtag Nordrhein-Westfalen"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1198"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "199"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-06-01T00:00:00Z"
-      },
-      "end" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2012-10-31T00:00:00Z"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1939559"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of Landtag"
-      },
-      "role_superclass_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Mitglied des Landtages"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17781726"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of the Landtag of North Rhine-Westphalia"
-      },
-      "role_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Mitglied des Landtag Nordrhein-Westfalen"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q87772"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sylvia Löhrmann"
-      },
-      "name_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Sylvia Löhrmann"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q571436"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Landtag of North Rhine-Westphalia"
-      },
-      "org_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Landtag Nordrhein-Westfalen"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q87772-A610E344-E66E-4AE1-9533-A80148BA903C"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1198"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "199"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-06-01T00:00:00Z"
-      },
-      "end" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-07-14T00:00:00Z"
-      }
-    } ]
+    ]
   }
 }

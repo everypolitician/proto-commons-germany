@@ -1,199 +1,612 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_de", "name_en", "party", "party_name_de", "party_name_en", "district", "district_name_de", "district_name_en", "role", "role_de", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_de", "role_superclass_en", "org", "org_de", "org_en", "org_jurisdiction" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_de",
+      "name_en",
+      "party",
+      "party_name_de",
+      "party_name_en",
+      "district",
+      "district_name_de",
+      "district_name_en",
+      "role",
+      "role_de",
+      "role_en",
+      "start",
+      "end",
+      "facebook",
+      "role_superclass",
+      "role_superclass_de",
+      "role_superclass_en",
+      "org",
+      "org_de",
+      "org_en",
+      "org_jurisdiction"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q49768"
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q102844-25c96ffb-412f-82dd-4e37-f467b21e7345"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102844"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Michael Müller"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Michael Müller"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49768"
+        },
+        "party_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Sozialdemokratische Partei Deutschlands"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Social Democratic Party of Germany"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q64"
+        },
+        "district_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Berlin"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Berlin"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q641159"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Regierender Bürgermeister von Berlin"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governing Mayor of Berlin"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2014-12-11T00:00:00Z"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11902879"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Oberbürgermeister"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lord Mayor"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q540130"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Senat von Berlin"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Senate of Berlin"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q64"
+        }
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Social Democratic Party of Germany"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q102844-25c96ffb-412f-82dd-4e37-f467b21e7345"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102844"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Michael Müller"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Michael Müller"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49768"
+        },
+        "party_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Sozialdemokratische Partei Deutschlands"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Social Democratic Party of Germany"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q64"
+        },
+        "district_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Berlin"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Berlin"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q641159"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Regierender Bürgermeister von Berlin"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governing Mayor of Berlin"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2014-12-11T00:00:00Z"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17175157"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bürgermeister (Deutschland)"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q540130"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Senat von Berlin"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Senate of Berlin"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q64"
+        }
       },
-      "party_name_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Sozialdemokratische Partei Deutschlands"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q102844-25c96ffb-412f-82dd-4e37-f467b21e7345"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102844"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Michael Müller"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Michael Müller"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49768"
+        },
+        "party_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Sozialdemokratische Partei Deutschlands"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Social Democratic Party of Germany"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q64"
+        },
+        "district_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Berlin"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Berlin"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q641159"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Regierender Bürgermeister von Berlin"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governing Mayor of Berlin"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2014-12-11T00:00:00Z"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23833126"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q540130"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Senat von Berlin"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Senate of Berlin"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q64"
+        }
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q102844"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q104581-CAC0306C-6970-4BAE-82A2-63C6095D4FE4"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104581"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Louise Schroeder"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Louise Schroeder"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49768"
+        },
+        "party_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Sozialdemokratische Partei Deutschlands"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Social Democratic Party of Germany"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q64"
+        },
+        "district_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Berlin"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Berlin"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q641159"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Regierender Bürgermeister von Berlin"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governing Mayor of Berlin"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11902879"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Oberbürgermeister"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lord Mayor"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q540130"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Senat von Berlin"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Senate of Berlin"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q64"
+        }
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q64"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q104581-CAC0306C-6970-4BAE-82A2-63C6095D4FE4"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104581"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Louise Schroeder"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Louise Schroeder"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49768"
+        },
+        "party_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Sozialdemokratische Partei Deutschlands"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Social Democratic Party of Germany"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q64"
+        },
+        "district_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Berlin"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Berlin"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q641159"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Regierender Bürgermeister von Berlin"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governing Mayor of Berlin"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17175157"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bürgermeister (Deutschland)"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q540130"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Senat von Berlin"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Senate of Berlin"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q64"
+        }
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Berlin"
-      },
-      "district_name_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Berlin"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q641159"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q641159"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governing Mayor of Berlin"
-      },
-      "role_superclass_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Regierender Bürgermeister von Berlin"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governing Mayor of Berlin"
-      },
-      "role_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Regierender Bürgermeister von Berlin"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Michael Müller"
-      },
-      "name_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Michael Müller"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q540130"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate of Berlin"
-      },
-      "org_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Senat von Berlin"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q102844-25c96ffb-412f-82dd-4e37-f467b21e7345"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q64"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2014-12-11T00:00:00Z"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q104581-CAC0306C-6970-4BAE-82A2-63C6095D4FE4"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104581"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Louise Schroeder"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Louise Schroeder"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49768"
+        },
+        "party_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Sozialdemokratische Partei Deutschlands"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Social Democratic Party of Germany"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q64"
+        },
+        "district_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Berlin"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Berlin"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q641159"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Regierender Bürgermeister von Berlin"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governing Mayor of Berlin"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23833126"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q540130"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Senat von Berlin"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Senate of Berlin"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q64"
+        }
       }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q49768"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Social Democratic Party of Germany"
-      },
-      "party_name_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Sozialdemokratische Partei Deutschlands"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q104581"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q64"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Berlin"
-      },
-      "district_name_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Berlin"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q641159"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q641159"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governing Mayor of Berlin"
-      },
-      "role_superclass_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Regierender Bürgermeister von Berlin"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governing Mayor of Berlin"
-      },
-      "role_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Regierender Bürgermeister von Berlin"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Louise Schroeder"
-      },
-      "name_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Louise Schroeder"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q540130"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Senate of Berlin"
-      },
-      "org_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Senat von Berlin"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q104581-CAC0306C-6970-4BAE-82A2-63C6095D4FE4"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q64"
-      }
-    } ]
+    ]
   }
 }

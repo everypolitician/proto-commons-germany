@@ -1,8 +1,6354 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_de", "name_en", "party", "party_name_de", "party_name_en", "district", "district_name_de", "district_name_en", "role", "role_de", "role_en", "role_superclass", "role_superclass_de", "role_superclass_en", "start", "end", "facebook", "org", "org_de", "org_en", "org_jurisdiction", "org_seat_count" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_de",
+      "name_en",
+      "party",
+      "party_name_de",
+      "party_name_en",
+      "district",
+      "district_name_de",
+      "district_name_en",
+      "role",
+      "role_de",
+      "role_en",
+      "role_superclass",
+      "role_superclass_de",
+      "role_superclass_en",
+      "start",
+      "end",
+      "facebook",
+      "org",
+      "org_de",
+      "org_en",
+      "org_jurisdiction",
+      "org_seat_count"
+    ]
   },
-  "results" : {
-    "bindings" : [ ]
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q101101-B468B115-3E23-4625-9215-786618D6A4D3"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q101101"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ingelore Rosenkötter"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ingelore Rosenkötter"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1082234-208825a8-43e1-2f6a-3bf2-bb5b25154ce8"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1082234"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Christian Weber"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Christian Weber"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1092291-3709c322-480d-9d64-32eb-3f973d1f06f8"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1092291"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Cindi Tuncel"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cindi Tuncel"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1094590-F0009E17-7199-4551-BD6A-E8068C167D02"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1094590"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Claas Rohmeyer"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Claas Rohmeyer"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1097340-8b31f36c-4a64-bc7c-d5ab-062162f0af7f"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1097340"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Claudia Bernhard"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Claudia Bernhard"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1222672-DF863AD3-32B3-4A2E-BC06-8206F7D947FE"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1222672"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Dieter Reinken"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Dieter Reinken"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1263794-3AE5E1EC-E883-4912-946F-F9F4053A64CF"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1263794"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Thomas Röwekamp"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Thomas Röwekamp"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1283515-7E007667-05A0-476E-9459-1B90FA6A505D"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1283515"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Sigrid Grönert"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sigrid Grönert"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1302894-1C25DB92-8823-4D72-B610-68EC2A37A3EC"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1302894"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Jens Eckhoff"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jens Eckhoff"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1307335-52f2ca75-4fa7-2bce-7978-a260bdbe7d4e"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1307335"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Elombo Bolayela"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Elombo Bolayela"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1329157-E02EDEC0-A745-4EE5-98E0-6B40C1FBBD67"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1329157"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Elias Tsartilidis"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Elias Tsartilidis"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1337672-2D50D195-9867-4BB4-B13D-E6C6EB132AE9"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1337672"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Emin Sükrü Senkal"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Emin Sükrü Senkal"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1406076-D24D2809-4C56-4E47-AA98-2063533ABD29"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1406076"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Rainer Bensch"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rainer Bensch"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1411788-C6C2F47B-C33F-459E-8F12-F3661508AC5D"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1411788"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Rainer Hamann"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rainer Hamann"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1419740-C20AEDAD-2803-4522-9034-CB74386A9D5C"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1419740"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Petra Krümpfer"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Petra Krümpfer"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1433489-E31DA045-D2F2-4350-9B0B-5A52A3465B00"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1433489"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Thomas vom Bruch"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Thomas vom Bruch"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1443481-68061369-524C-428B-994F-6012B77E3301"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1443481"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Frank Imhoff"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Frank Imhoff"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1445296-FA592A76-BA5D-4FF3-8A11-2C3D85633129"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1445296"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Silvia Neumeyer"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Silvia Neumeyer"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1464323-FABBF3B1-CA29-49FC-8FC1-B5710FC13FDD"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1464323"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Sülmez Dogan"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sülmez Dogan"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1515873-89417F1B-0A1B-4FFE-9515-E4D64CBEA4CC"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1515873"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Jan Timke"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jan Timke"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q15431533-49B5A04F-1DF6-460D-83BE-6A7CE21662A4"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15431533"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Oğuzhan Yazıcı"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Oğuzhan Yazıcı"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1589292-9C4CC173-ED2B-401F-87E8-9C33554925FE"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1589292"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Hauke Hilz"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hauke Hilz"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "hhilz"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1594723-7CFB17F0-4EB0-4163-B1C6-C2292E37F0D1"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1594723"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Heiko Strohmann"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Heiko Strohmann"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q15972042-D0E9F9BA-4520-492C-B41E-F31A5C13E358"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15972042"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Wilko Zicht"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Wilko Zicht"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1604304-63ECDD19-FA0A-4C1F-B74F-F896F1A5865D"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1604304"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Helmut Weigelt"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Helmut Weigelt"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1606347-D7199376-8CFD-4F34-9A91-C3BC0BEC495A"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1606347"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Henrike Müller"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Henrike Müller"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1650784-446F782D-6EEF-4D35-80CC-324B1AC23BBA"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1650784"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Wilhelm Hinners"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Wilhelm Hinners"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1664355-714C1A6B-C33D-4058-AC8E-F7F0A7965BC2"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1664355"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Insa Peters-Rehwinkel"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Insa Peters-Rehwinkel"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1682184-88AE779D-31EB-49BB-9BAC-3A7165D15E8D"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1682184"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Jan Saffe"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jan Saffe"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1687146-9AE206A6-F770-4C80-B4F3-CA44A4035FF7"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1687146"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Jens Crueger"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jens Crueger"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1715392-64AB8177-A942-474C-8FEB-AF5464A4DDBC"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1715392"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Jörg Kastendiek"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jörg Kastendiek"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1717559-F69C26D9-0F5D-4D49-B675-22F47564B497"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1717559"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Jürgen Pohlmann"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jürgen Pohlmann"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1734201-AE764F41-2422-4D3E-8FFD-E5E9E880AC12"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1734201"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Peter Erlanson"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Peter Erlanson"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1743637-dc3fbe03-42fd-0b23-196a-de202c9adf8c"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1743637"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Kirsten Kappert-Gonther"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kirsten Kappert-Gonther"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1744836-B9ED3AF5-AB28-443B-95D6-864F00D509D7"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1744836"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Klaus-Rainer Rupp"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Klaus-Rainer Rupp"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1745479-114C30E4-94CF-4BDA-BBFA-788506F412E6"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1745479"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Klaus Möhle"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Klaus Möhle"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1747830-208BE3B3-F643-4AFF-AAE3-DD805808354C"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1747830"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mehmet Ali Seyrek"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mehmet Ali Seyrek"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q17577309-0CD89436-315A-4B32-A68E-D17ACFEF1D8B"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17577309"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Lencke Steiner"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lencke Steiner"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "lencke.steiner"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1779123-5e5b7d9f-4ea3-d838-afb9-fbeb201c2f1e"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1779123"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ralph Saxe"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ralph Saxe"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1781231-94EF09CD-8275-41A8-B372-D8EBF6A2D6EF"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1781231"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Kristina Vogt"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kristina Vogt"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1794379-A54EC322-7C9C-4AEB-AC38-75D59BDB81D1"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1794379"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Matthias Güldner"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Matthias Güldner"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1884523-DDE43491-DA52-41F9-91CE-C6D109EF4A2A"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1884523"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Magnus Buhlert"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Magnus Buhlert"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1891820-FAA1F6D3-6301-4AAC-BC4A-DA9D6D7FD362"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1891820"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Manuela Mahnke"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Manuela Mahnke"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1912960-3024DEAA-B3D5-4F2C-9592-0E22BE4C167F"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1912960"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Max Liess"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Max Liess"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1955530-A5206A25-31B9-4008-A067-E821C88ABBA2"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1955530"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mustafa Güngör"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mustafa Güngör"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1955581-E06270F8-AAC8-4D1B-AFE8-0D80C9475F00"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1955581"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mustafa Öztürk"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mustafa Öztürk"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q19868520-1B215ABF-D895-44E7-B715-0ED7A1AAB9A4"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19868520"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Christian Schäfer"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Christian Schäfer"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q19959091-A5EA882C-0BC8-47A8-9005-B7DA2AABB88D"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19959091"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Rainer Buchholz"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rainer Buchholz"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q19959096-9C87641B-AA12-4795-965B-28DEDEC796DE"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19959096"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Robert Bücking"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Robert Bücking"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q19959965-38E0B3F9-F8ED-4490-9773-5C5507A24143"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19959965"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Nelson Janßen"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nelson Janßen"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q19960291-3AD873B4-2871-4949-AC4D-C8A2B75CAECD"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19960291"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Piet Leidreiter"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Piet Leidreiter"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q19960321-1A3216BD-7976-430C-9C60-FA857989BF7C"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19960321"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Julie Kohlrausch"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Julie Kohlrausch"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q19963978-384AEBCF-DD69-4C42-85A7-60C1C2E05E4C"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19963978"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Miriam Strunge"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Miriam Strunge"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q19963983-12673099-6F94-49DA-9C73-CE97BE6E284B"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19963983"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Alexander Tassis"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Alexander Tassis"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "alexander.tassis"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q19964022-C1A5BAE9-70C6-4D51-BB72-DE6CA95F03BF"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19964022"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Peter Zenner"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Peter Zenner"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q19969723-D0CE0BD8-BDCE-4EE8-A030-1BCFA486718C"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19969723"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Klaus Remkes"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Klaus Remkes"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q19972785-A0AA9D6C-E011-467C-84AA-2BD329FEC669"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19972785"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Marco Lübke"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Marco Lübke"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q20170922-ABFED71C-A063-42C1-AFAA-CB1B1C4D1A19"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20170922"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mehmet Sirri Acar"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mehmet Sirri Acar"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q20171176-AFA194AA-887A-4440-A3F6-29986DD0A440"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20171176"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Birgit Bergmann"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Birgit Bergmann"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q20184539-0547668D-5849-4F64-A2DA-2963E167919A"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20184539"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Sophia Leonidakis"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sophia Leonidakis"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q20242856-C867AF9C-AA13-4E34-A157-A616B95C17F5"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20242856"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Turhal Özdal"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Turhal Özdal"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q20243187-B4B91F00-F0B3-4BF9-B905-25891A43E7C5"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20243187"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Uwe Schmidt"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Uwe Schmidt"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q20243206-DA04A2FE-D3B8-4278-883A-AB0F79A6BB92"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20243206"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Christine Schnittker"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Christine Schnittker"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q20243276-B223B627-3753-4F99-84A2-9493978644A2"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20243276"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Heike Sprehe"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Heike Sprehe"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q20243372-C910DBBB-65B3-4A4D-BB9B-E0D87299276F"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20243372"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Holger Welt"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Holger Welt"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q2058072-ABCF6E2E-3F94-4609-BE55-D2AEEE550BD4"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2058072"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Patrick Öztürk"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Patrick Öztürk"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q2059070-8A6BB896-F3E7-4C34-9D7B-BA1E262F2055"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2059070"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Paul Bödeker"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Paul Bödeker"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q20638665-E9D4CEBB-4972-4C15-90EE-17B03A4CF453"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20638665"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Stephanie Dehne"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Stephanie Dehne"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q20653338-70330B03-440B-4B65-9DA8-3F8548AB6006"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20653338"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Sascha Lucht"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sascha Lucht"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q20724990-2C83FE2C-22DC-406E-94B6-FAD15601DE5F"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20724990"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Sascha Karolin Aulepp"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sascha Karolin Aulepp"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q21013348-9A1AC7FC-4059-4308-93A5-D130C1913FB7"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21013348"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Petra Jäschke"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Petra Jäschke"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q2220948-B50257C5-22BD-42EC-B25A-AF7C09E00F9A"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2220948"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Sandra Ahrens"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sandra Ahrens"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q2369231-D61E27B5-F410-47F2-8410-1861AA2FD2B4"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2369231"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Susanne Grobien"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Susanne Grobien"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q2369570-13B33859-436B-432E-837F-3EB20B57D46E"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2369570"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Susanne Wendland"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Susanne Wendland"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q2373529-CAD1E1CE-C1AF-4483-BC14-C5642402DBAB"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2373529"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Sybille Böschen"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sybille Böschen"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q2508605-3EFF461D-81B0-47DC-82EB-9B3F21DA7A2A"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2508605"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Valentina Tuchel"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Valentina Tuchel"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q498955-ce5aa439-4f45-208c-73b7-2a6ed448fd06"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q498955"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Andreas Kottisch"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Andreas Kottisch"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q565766-7648cc7a-4b47-fb44-139c-b42facaf84da"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q565766"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Anne Schierenbeck"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Anne Schierenbeck"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q584698-abf1fa04-4055-c69f-affe-0c87d4dc36f1"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q584698"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Antje Grotheer"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Antje Grotheer"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q694279-12095d02-449f-04ef-31c6-6b14e7b32dfa"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q694279"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Arno Gottschalk"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Arno Gottschalk"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q824027-336a7259-4a20-ad0e-f687-ac53b4ccdb6c"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q824027"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bernd Ravens"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bernd Ravens"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q879599-faf33e65-4191-f63f-b45a-7813b0c33f68"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q879599"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Björn Fecker"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Björn Fecker"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q879744-cd327e0f-4406-2e0f-2845-6d321c1bf833"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q879744"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Björn Tschöpe"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Björn Tschöpe"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2015-06-08T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "83"
+        }
+      }
+    ]
   }
 }

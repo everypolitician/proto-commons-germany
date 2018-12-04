@@ -1,0 +1,2738 @@
+{
+  "head": {
+    "vars": [
+      "position",
+      "position_name_de",
+      "position_name_en",
+      "positionType",
+      "adminAreaTypes",
+      "adminArea",
+      "admin_area_de",
+      "admin_area_en",
+      "positionSuperclass",
+      "position_superclass_de",
+      "position_superclass_en",
+      "body",
+      "body_de",
+      "body_en"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14917672"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident Mecklenburg-Vorpommerns"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President of Mecklenburg-Vorpommern"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1196"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mecklenburg-Vorpommern"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mecklenburg-Vorpommern"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23833126"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15825135"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Landesregierung von Mecklenburg-Vorpommern"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15303400"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Präsident des Bayerischen Landtags"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "President of the Landtag of Bavaria"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q980"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bayern"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bavaria"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1758037"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Parlamentspräsident"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "speaker"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q641439"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bayerischer Landtag"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Landtag of Bavaria"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15303400"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Präsident des Bayerischen Landtags"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "President of the Landtag of Bavaria"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q980"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bayern"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bavaria"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17586301"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Bayerischen Landtags"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Landtag of Bavaria"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q641439"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bayerischer Landtag"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Landtag of Bavaria"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15303400"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Präsident des Bayerischen Landtags"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "President of the Landtag of Bavaria"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q980"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bayern"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bavaria"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1804002"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Landtagspräsident"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q641439"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bayerischer Landtag"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Landtag of Bavaria"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15303555"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident Bayerns"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President of Bavaria"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q980"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bayern"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bavaria"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23833126"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q812290"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bayerische Staatsregierung"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cabinet of Bavaria"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15720142"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident von Rheinland-Pfalz"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President of  Rhineland-Palatinate"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1200"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Rheinland-Pfalz"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rhineland-Palatinate"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23833126"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1122028"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Landesregierung von Rheinland-Pfalz"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15835370"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Bundesrates in Deutschland"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bundesrat of Germany"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q6256"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q183"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Deutschland"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Germany"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Abgeordneter"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q146138"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bundesrat"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bundesrat"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1615935"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident Hessens"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President of Hesse"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1199"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Hessen"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hesse"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23833126"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1615892"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Hessische Landesregierung"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17334379"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Sächsischen Landtages"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Landtag of Saxony"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1202"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Sachsen"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Saxony"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q884824"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Sächsischer Landtag"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Landtag of Saxony"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17344251"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Thüringer Landtags"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Landtag of Thuringia"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1205"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Thüringen"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Thuringia"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q896075"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Thüringer Landtag"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Landtag of Thuringia"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17441472"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Bremischen Bürgerschaft"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Bürgerschaft of Bremen"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Freie Hansestadt Bremen"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bremen"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q317147"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremische Bürgerschaft"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bürgerschaft of Bremen"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17481175"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages von Baden-Württemberg"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Landtag of Baden-Württemberg"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q985"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Baden-Württemberg"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Baden-Württemberg"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q455697"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Landtag von Baden-Württemberg"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Landtag of Baden-Württemberg"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17519166"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Hessischen Landtags"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Hessian Parliament"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1199"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Hessen"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hesse"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q510511"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Hessischer Landtag"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Landtag of Hesse"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17521638"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Niedersächsischen Landtags"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Landtag of Lower Saxony"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1197"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Niedersachsen"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lower Saxony"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q319994"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Niedersächsischer Landtag"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Landtag of Lower Saxony"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17586301"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Bayerischen Landtags"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Landtag of Bavaria"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q980"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bayern"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bavaria"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q641439"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bayerischer Landtag"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Landtag of Bavaria"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17781726"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtag Nordrhein-Westfalen"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Landtag of North Rhine-Westphalia"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1198"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Nordrhein-Westfalen"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "North Rhine-Westphalia"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q571436"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Landtag Nordrhein-Westfalen"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Landtag of North Rhine-Westphalia"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18130478"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages des Saarlands"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Landtag of Saarland"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1201"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Saarland"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Saarland"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q260372"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Landtag des Saarlandes"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Landtag of Saarland"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18130496"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Schleswig-Holsteinischen Landtages"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Landtag of Schleswig-Holstein"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1194"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Schleswig-Holstein"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Schleswig-Holstein"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q449304"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Schleswig-Holsteinischer Landtag"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Landtag of Schleswig-Holstein"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18327335"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Abgeordnetenhaus von Berlin"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Abgeordnetenhaus of Berlin"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q515 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q64"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Berlin"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Berlin"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q640859"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Abgeordnetenhaus von Berlin"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Abgeordnetenhaus of Berlin"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18327349"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtag Mecklenburg-Vorpommern"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Landtag of Mecklenburg-Vorpommern"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1196"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mecklenburg-Vorpommern"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mecklenburg-Vorpommern"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q882738"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Landtag Mecklenburg-Vorpommern"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Landtag of Mecklenburg-Vorpommern"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18556824"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Brandenburgischen Landtags"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Landtag of Brandenburg"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1208"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Brandenburg"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Brandenburg"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q521764"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Landtag Brandenburg"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Landtag of Brandenburg"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18559580"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtag Sachsen-Anhalt"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Landtag of Saxony-Anhalt"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1206"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Sachsen-Anhalt"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Saxony-Anhalt"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q884829"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Landtag Sachsen-Anhalt"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Landtag of Saxony-Anhalt"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18618563"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtag Rheinland-Pfalz"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag of Rhineland-Palatinate"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1200"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Rheinland-Pfalz"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rhineland-Palatinate"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q314690"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Landtag Rheinland-Pfalz"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Landtag of Rhineland-Palatinate"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19360355"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied der Hamburgischen Bürgerschaft"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Hamburg Bürgerschaft"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q515 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Hamburg"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hamburg"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939559"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Landtages"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Landtag"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q636377"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Hamburgische Bürgerschaft"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hamburg Parliament"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939555"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Deutschen Bundestages"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the German Bundestag"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q6256"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q183"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Deutschland"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Germany"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Abgeordneter"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q154797"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Deutscher Bundestag"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bundestag of Germany"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30263013"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident Schleswig-Holsteins"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President of Schleswig-Holstein"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1194"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Schleswig-Holstein"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Schleswig-Holstein"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23833126"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1687183"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Landesregierung von Schleswig-Holstein"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30534793"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident Nordrhein-Westfalens"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President of North Rhine-Westphalia"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1198"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Nordrhein-Westfalen"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "North Rhine-Westphalia"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23833126"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1761666"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Landesregierung von Nordrhein-Westfalen"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30562601"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident Brandenburgs"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President of Brandenburg"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1208"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Brandenburg"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Brandenburg"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23833126"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q897924"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Brandenburgische Landesregierung"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30569887"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident Sachsens"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President of Saxony"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1202"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Sachsen"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Saxony"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23833126"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2378571"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Sächsische Staatsregierung"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30584228"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident Thüringens"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President of Thuringia"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1205"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Thüringen"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Thuringia"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23833126"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15850888"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Thüringer Landesregierung"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30968305"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident Sachsen-Anhalts"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President of Saxony-Anhalt"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1206"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Sachsen-Anhalt"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Saxony-Anhalt"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23833126"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1450377"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Landesregierung von Sachsen-Anhalt"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q31068298"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident des Saarlandes"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President of the Saarland"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1201"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Saarland"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Saarland"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23833126"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1527462"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Saarländische Landesregierung"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q31096505"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident Baden-Württembergs"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President of Baden-Württemberg"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q985"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Baden-Württemberg"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Baden-Württemberg"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23833126"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q896892"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Landesregierung von Baden-Württemberg"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Government of Baden-Württemberg"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q31388880"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremer Bürgermeister"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor of Bremen"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Freie Hansestadt Bremen"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bremen"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17175157"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bürgermeister (Deutschland)"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q468437"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Senat der Freien Hansestadt Bremen"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Senate of Bremen"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q31388880"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bremer Bürgermeister"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor of Bremen"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1209"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Freie Hansestadt Bremen"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bremen"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23833126"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q468437"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Senat der Freien Hansestadt Bremen"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Senate of Bremen"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q31524732"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident Niedersachsens"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President of Lower Saxony"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1197"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Niedersachsen"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lower Saxony"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23833126"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1668823"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "niedersächsische Landesregierung"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q641159"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Regierender Bürgermeister von Berlin"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governing Mayor of Berlin"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q515 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q64"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Berlin"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Berlin"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2269913"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Senatspräsident"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "president of the Senate"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q540130"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Senat von Berlin"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Senate of Berlin"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q641159"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Regierender Bürgermeister von Berlin"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governing Mayor of Berlin"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q515 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q64"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Berlin"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Berlin"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11902879"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Oberbürgermeister"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lord Mayor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q540130"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Senat von Berlin"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Senate of Berlin"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q641159"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Regierender Bürgermeister von Berlin"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governing Mayor of Berlin"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q515 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q64"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Berlin"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Berlin"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17175157"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bürgermeister (Deutschland)"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q540130"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Senat von Berlin"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Senate of Berlin"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q641159"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Regierender Bürgermeister von Berlin"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Governing Mayor of Berlin"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q515 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q64"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Berlin"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Berlin"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23833126"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q540130"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Senat von Berlin"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Senate of Berlin"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56022"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Kanzler"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chancellor of Germany"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q6256"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q183"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Deutschland"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Germany"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2285706"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Regierungschef"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "head of government"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q313827"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Bundeskabinett"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cabinet of the Federal Republic of Germany"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56024"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Präsident des Deutschen Bundestages"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "President of the Bundestag"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q6256"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q183"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Deutschland"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Germany"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1758037"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Parlamentspräsident"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "speaker"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q154797"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Deutscher Bundestag"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bundestag of Germany"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56024"
+        },
+        "position_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Präsident des Deutschen Bundestages"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "President of the Bundestag"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q6256"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q183"
+        },
+        "admin_area_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Deutschland"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Germany"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1939555"
+        },
+        "position_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Mitglied des Deutschen Bundestages"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the German Bundestag"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q154797"
+        },
+        "body_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Deutscher Bundestag"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bundestag of Germany"
+        }
+      }
+    ]
+  }
+}

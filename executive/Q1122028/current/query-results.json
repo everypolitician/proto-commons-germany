@@ -1,101 +1,127 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_de", "name_en", "party", "party_name_de", "party_name_en", "district", "district_name_de", "district_name_en", "role", "role_de", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_de", "role_superclass_en", "org", "org_de", "org_en", "org_jurisdiction" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_de",
+      "name_en",
+      "party",
+      "party_name_de",
+      "party_name_en",
+      "district",
+      "district_name_de",
+      "district_name_en",
+      "role",
+      "role_de",
+      "role_en",
+      "start",
+      "end",
+      "facebook",
+      "role_superclass",
+      "role_superclass_de",
+      "role_superclass_en",
+      "org",
+      "org_de",
+      "org_en",
+      "org_jurisdiction"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q49768"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Social Democratic Party of Germany"
-      },
-      "party_name_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Sozialdemokratische Partei Deutschlands"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q84581"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1200"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Rhineland-Palatinate"
-      },
-      "district_name_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Rheinland-Pfalz"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15720142"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15720142"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Minister-President of  Rhineland-Palatinate"
-      },
-      "role_superclass_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Ministerpräsident von Rheinland-Pfalz"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Minister-President of  Rhineland-Palatinate"
-      },
-      "role_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Ministerpräsident von Rheinland-Pfalz"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Malu Dreyer"
-      },
-      "name_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Malu Dreyer"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1122028"
-      },
-      "org_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Landesregierung von Rheinland-Pfalz"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q84581-30ee28df-4b65-24cf-011f-bb9ae5a0a60f"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1200"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2013-01-16T00:00:00Z"
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q84581-30ee28df-4b65-24cf-011f-bb9ae5a0a60f"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q84581"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Malu Dreyer"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Malu Dreyer"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49768"
+        },
+        "party_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Sozialdemokratische Partei Deutschlands"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Social Democratic Party of Germany"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1200"
+        },
+        "district_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Rheinland-Pfalz"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rhineland-Palatinate"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15720142"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident von Rheinland-Pfalz"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President of  Rhineland-Palatinate"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2013-01-16T00:00:00Z"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23833126"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1122028"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Landesregierung von Rheinland-Pfalz"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1200"
+        }
       }
-    } ]
+    ]
   }
 }

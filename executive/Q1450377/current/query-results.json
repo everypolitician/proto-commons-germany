@@ -1,101 +1,127 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_de", "name_en", "party", "party_name_de", "party_name_en", "district", "district_name_de", "district_name_en", "role", "role_de", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_de", "role_superclass_en", "org", "org_de", "org_en", "org_jurisdiction" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_de",
+      "name_en",
+      "party",
+      "party_name_de",
+      "party_name_en",
+      "district",
+      "district_name_de",
+      "district_name_en",
+      "role",
+      "role_de",
+      "role_en",
+      "start",
+      "end",
+      "facebook",
+      "role_superclass",
+      "role_superclass_de",
+      "role_superclass_en",
+      "org",
+      "org_de",
+      "org_en",
+      "org_jurisdiction"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q49762"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Christian Democratic Union"
-      },
-      "party_name_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Christlich Demokratische Union Deutschlands"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q69355"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1206"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Saxony-Anhalt"
-      },
-      "district_name_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Sachsen-Anhalt"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30968305"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30968305"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Minister-President of Saxony-Anhalt"
-      },
-      "role_superclass_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Ministerpräsident Sachsen-Anhalts"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Minister-President of Saxony-Anhalt"
-      },
-      "role_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Ministerpräsident Sachsen-Anhalts"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Reiner Haseloff"
-      },
-      "name_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Reiner Haseloff"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1450377"
-      },
-      "org_de" : {
-        "xml:lang" : "de",
-        "type" : "literal",
-        "value" : "Landesregierung von Sachsen-Anhalt"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q69355-4bb6de25-46df-ce22-5799-69401018eca7"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1206"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2011-04-19T00:00:00Z"
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q69355-4bb6de25-46df-ce22-5799-69401018eca7"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q69355"
+        },
+        "name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Reiner Haseloff"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Reiner Haseloff"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49762"
+        },
+        "party_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Christlich Demokratische Union Deutschlands"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Christian Democratic Union"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1206"
+        },
+        "district_name_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Sachsen-Anhalt"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Saxony-Anhalt"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30968305"
+        },
+        "role_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident Sachsen-Anhalts"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President of Saxony-Anhalt"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-04-19T00:00:00Z"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23833126"
+        },
+        "role_superclass_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Ministerpräsident"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minister-President"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1450377"
+        },
+        "org_de": {
+          "xml:lang": "de",
+          "type": "literal",
+          "value": "Landesregierung von Sachsen-Anhalt"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1206"
+        }
       }
-    } ]
+    ]
   }
 }
