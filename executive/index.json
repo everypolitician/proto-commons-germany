@@ -1,16 +1,7 @@
 [
   {
-    "comment": "Cabinet of the Federal Republic of Germany",
-    "executive_item_id": "Q313827",
-    "positions": [
-      {
-        "comment": "Federal Chancellor of Germany",
-        "position_item_id": "Q4970706"
-      }
-    ]
-  },
-  {
     "comment": "Landesregierung von Rheinland-Pfalz",
+    "area_id": "Q1200",
     "executive_item_id": "Q1122028",
     "positions": [
       {
@@ -21,6 +12,7 @@
   },
   {
     "comment": "Landesregierung von Sachsen-Anhalt",
+    "area_id": "Q1206",
     "executive_item_id": "Q1450377",
     "positions": [
       {
@@ -31,6 +23,7 @@
   },
   {
     "comment": "Saarländische Landesregierung",
+    "area_id": "Q1201",
     "executive_item_id": "Q1527462",
     "positions": [
       {
@@ -41,6 +34,7 @@
   },
   {
     "comment": "Landesregierung von Mecklenburg-Vorpommern",
+    "area_id": "Q1196",
     "executive_item_id": "Q15825135",
     "positions": [
       {
@@ -51,6 +45,7 @@
   },
   {
     "comment": "Thüringer Landesregierung",
+    "area_id": "Q1205",
     "executive_item_id": "Q15850888",
     "positions": [
       {
@@ -61,6 +56,7 @@
   },
   {
     "comment": "Hessische Landesregierung",
+    "area_id": "Q1199",
     "executive_item_id": "Q1615892",
     "positions": [
       {
@@ -71,6 +67,7 @@
   },
   {
     "comment": "niedersächsische Landesregierung",
+    "area_id": "Q1197",
     "executive_item_id": "Q1668823",
     "positions": [
       {
@@ -81,6 +78,7 @@
   },
   {
     "comment": "Landesregierung von Schleswig-Holstein",
+    "area_id": "Q1194",
     "executive_item_id": "Q1687183",
     "positions": [
       {
@@ -91,6 +89,7 @@
   },
   {
     "comment": "Landesregierung von Nordrhein-Westfalen",
+    "area_id": "Q1198",
     "executive_item_id": "Q1761666",
     "positions": [
       {
@@ -101,6 +100,7 @@
   },
   {
     "comment": "Sächsische Staatsregierung",
+    "area_id": "Q1202",
     "executive_item_id": "Q2378571",
     "positions": [
       {
@@ -110,7 +110,19 @@
     ]
   },
   {
+    "comment": "Cabinet of the Federal Republic of Germany",
+    "area_id": "Q183",
+    "executive_item_id": "Q313827",
+    "positions": [
+      {
+        "comment": "Federal Chancellor of Germany",
+        "position_item_id": "Q4970706"
+      }
+    ]
+  },
+  {
     "comment": "Senate of Bremen",
+    "area_id": "Q1209",
     "executive_item_id": "Q468437",
     "positions": [
       {
@@ -121,6 +133,7 @@
   },
   {
     "comment": "Senate of Berlin",
+    "area_id": "Q64",
     "executive_item_id": "Q540130",
     "positions": [
       {
@@ -131,6 +144,7 @@
   },
   {
     "comment": "Cabinet of Bavaria",
+    "area_id": "Q980",
     "executive_item_id": "Q812290",
     "positions": [
       {
@@ -141,6 +155,7 @@
   },
   {
     "comment": "Government of Baden-Württemberg",
+    "area_id": "Q985",
     "executive_item_id": "Q896892",
     "positions": [
       {
@@ -151,6 +166,7 @@
   },
   {
     "comment": "Brandenburgische Landesregierung",
+    "area_id": "Q1208",
     "executive_item_id": "Q897924",
     "positions": [
       {
