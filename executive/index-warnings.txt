@@ -1,6 +1,6 @@
 WARNING: no executive for Bundespräsident (Q25223) in Deutschland (Q183)
 WARNING: no executive for Kanzler (Q56022) in Deutschland (Q183)
-WARNING: no head of government position for Herrschaft Gemen (Q477038)
+WARNING: no head of government position for Stift Corvey (Q15130492)
 WARNING: no executive for Erster Bürgermeister (Q1362118) in Hamburg (Q1055)
 WARNING: no head of government position for Bonn (Q586)
 WARNING: no head of government position for Stuttgart (Q1022)
