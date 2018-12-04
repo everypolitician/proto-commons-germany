@@ -22,7 +22,7 @@ WHERE {
     (wd:Q882738 wd:Q18327349)
     (wd:Q884824 wd:Q17334379)
     (wd:Q884829 wd:Q18559580)
-    (wd:Q896075 rdf:nil)
+    (wd:Q896075 wd:Q17344251)
     (wd:Q17484711 rdf:nil)
     (wd:Q5123134 rdf:nil)
   }
