@@ -18,14 +18,14 @@
     },
     {
       "name": {
-        "lang:de": "Alfons Goppel",
-        "lang:en": "Alfons Goppel"
+        "lang:de": "Markus Söder",
+        "lang:en": "Markus Söder"
       },
-      "id": "Q481434",
+      "id": "Q50664",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q481434"
+          "identifier": "Q50664"
         }
       ],
       "links": [
@@ -92,20 +92,6 @@
           "identifier": "Q49763"
         }
       ]
-    },
-    {
-      "name": {
-        "lang:de": "Nationalsozialistische Deutsche Arbeiterpartei",
-        "lang:en": "NSDAP"
-      },
-      "id": "Q7320",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q7320"
-        }
-      ]
     }
   ],
   "areas": [
@@ -130,45 +116,12 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q481434-831A8A9E-E04D-4254-9AF3-DACC394424EE",
-      "person_id": "Q481434",
-      "on_behalf_of_id": "Q302884",
-      "organization_id": "Q812290",
-      "area_id": "Q980",
-      "role_superclass_code": "Q15303555",
-      "role_superclass": {
-        "lang:de": "Ministerpräsident Bayerns",
-        "lang:en": "Minister-President of Bavaria"
-      },
-      "role_code": "Q15303555",
-      "role": {
-        "lang:de": "Ministerpräsident Bayerns",
-        "lang:en": "Minister-President of Bavaria"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q481434-831A8A9E-E04D-4254-9AF3-DACC394424EE",
-      "person_id": "Q481434",
+      "id": "http://www.wikidata.org/entity/statement/Q50664-b5705507-4dfd-f153-437e-5fed914b4e92",
+      "person_id": "Q50664",
       "on_behalf_of_id": "Q49763",
       "organization_id": "Q812290",
       "area_id": "Q980",
-      "role_superclass_code": "Q15303555",
-      "role_superclass": {
-        "lang:de": "Ministerpräsident Bayerns",
-        "lang:en": "Minister-President of Bavaria"
-      },
-      "role_code": "Q15303555",
-      "role": {
-        "lang:de": "Ministerpräsident Bayerns",
-        "lang:en": "Minister-President of Bavaria"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q481434-831A8A9E-E04D-4254-9AF3-DACC394424EE",
-      "person_id": "Q481434",
-      "on_behalf_of_id": "Q7320",
-      "organization_id": "Q812290",
-      "area_id": "Q980",
+      "start_date": "2018-03-21",
       "role_superclass_code": "Q15303555",
       "role_superclass": {
         "lang:de": "Ministerpräsident Bayerns",
@@ -186,6 +139,25 @@
       "on_behalf_of_id": "Q302884",
       "organization_id": "Q812290",
       "area_id": "Q980",
+      "start_date": "1960-01-26",
+      "role_superclass_code": "Q15303555",
+      "role_superclass": {
+        "lang:de": "Ministerpräsident Bayerns",
+        "lang:en": "Minister-President of Bavaria"
+      },
+      "role_code": "Q15303555",
+      "role": {
+        "lang:de": "Ministerpräsident Bayerns",
+        "lang:en": "Minister-President of Bavaria"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q67597-bc29ffc8-4a51-ffd6-c7e5-f9f1cf3877b9",
+      "person_id": "Q67597",
+      "on_behalf_of_id": "Q302884",
+      "organization_id": "Q812290",
+      "area_id": "Q980",
+      "start_date": "1962-12-11",
       "role_superclass_code": "Q15303555",
       "role_superclass": {
         "lang:de": "Ministerpräsident Bayerns",
@@ -203,6 +175,25 @@
       "on_behalf_of_id": "Q49763",
       "organization_id": "Q812290",
       "area_id": "Q980",
+      "start_date": "1960-01-26",
+      "role_superclass_code": "Q15303555",
+      "role_superclass": {
+        "lang:de": "Ministerpräsident Bayerns",
+        "lang:en": "Minister-President of Bavaria"
+      },
+      "role_code": "Q15303555",
+      "role": {
+        "lang:de": "Ministerpräsident Bayerns",
+        "lang:en": "Minister-President of Bavaria"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q67597-bc29ffc8-4a51-ffd6-c7e5-f9f1cf3877b9",
+      "person_id": "Q67597",
+      "on_behalf_of_id": "Q49763",
+      "organization_id": "Q812290",
+      "area_id": "Q980",
+      "start_date": "1962-12-11",
       "role_superclass_code": "Q15303555",
       "role_superclass": {
         "lang:de": "Ministerpräsident Bayerns",

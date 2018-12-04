@@ -1,14 +1,77 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:de": "Simone Lange",
+        "lang:en": "Simone Lange"
+      },
+      "id": "Q2288115",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2288115"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:de": "Schleswig-Holsteinischer Landtag",
+        "lang:en": "Landtag of Schleswig-Holstein"
+      },
+      "id": "Q449304",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q449304"
+        }
+      ],
+      "area_id": "Q1194",
+      "seat_counts": {
+        "Q18130496": "73"
+      }
+    },
+    {
+      "name": {
+        "lang:de": "SPD-Fraktion der 18. Wahlperiode des Landtags Schleswig-Holstein"
+      },
+      "id": "Q27950773",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27950773"
+        }
+      ]
+    }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2288115-CB6A10CC-B92D-455E-B25D-960F2169ECDA",
+      "person_id": "Q2288115",
+      "on_behalf_of_id": "Q27950773",
+      "organization_id": "Q449304",
+      "area_id": "Q1030010",
+      "start_date": "2012-06-05",
+      "end_date": "t1228068282",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18130496",
+      "role": {
+        "lang:de": "Mitglied des Schleswig-Holsteinischen Landtages",
+        "lang:en": "Member of the Landtag of Schleswig-Holstein"
+      }
+    }
   ]
 }

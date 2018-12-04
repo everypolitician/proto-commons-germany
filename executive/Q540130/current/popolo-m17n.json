@@ -31,22 +31,6 @@
       "links": [
 
       ]
-    },
-    {
-      "name": {
-        "lang:de": "Otto Suhr",
-        "lang:en": "Otto Suhr"
-      },
-      "id": "Q650878",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q650878"
-        }
-      ],
-      "links": [
-
-      ]
     }
   ],
   "organizations": [
@@ -105,23 +89,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q104581-CAC0306C-6970-4BAE-82A2-63C6095D4FE4",
       "person_id": "Q104581",
-      "on_behalf_of_id": "Q49768",
-      "organization_id": "Q540130",
-      "area_id": "Q64",
-      "role_superclass_code": "Q641159",
-      "role_superclass": {
-        "lang:de": "Regierender Bürgermeister von Berlin",
-        "lang:en": "Governing Mayor of Berlin"
-      },
-      "role_code": "Q641159",
-      "role": {
-        "lang:de": "Regierender Bürgermeister von Berlin",
-        "lang:en": "Governing Mayor of Berlin"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q650878-81FF6AB1-D4B9-4392-BB46-163F2A032946",
-      "person_id": "Q650878",
       "on_behalf_of_id": "Q49768",
       "organization_id": "Q540130",
       "area_id": "Q64",
