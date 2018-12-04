@@ -1,14 +1,2694 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:de": "Ingelore Rosenkötter",
+        "lang:en": "Ingelore Rosenkötter"
+      },
+      "id": "Q101101",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q101101"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Christian Weber",
+        "lang:en": "Christian Weber"
+      },
+      "id": "Q1082234",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1082234"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Cindi Tuncel",
+        "lang:en": "Cindi Tuncel"
+      },
+      "id": "Q1092291",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1092291"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Claas Rohmeyer",
+        "lang:en": "Claas Rohmeyer"
+      },
+      "id": "Q1094590",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1094590"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Claudia Bernhard",
+        "lang:en": "Claudia Bernhard"
+      },
+      "id": "Q1097340",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1097340"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Dieter Reinken",
+        "lang:en": "Dieter Reinken"
+      },
+      "id": "Q1222672",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1222672"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Thomas Röwekamp",
+        "lang:en": "Thomas Röwekamp"
+      },
+      "id": "Q1263794",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1263794"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Sigrid Grönert",
+        "lang:en": "Sigrid Grönert"
+      },
+      "id": "Q1283515",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1283515"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Jens Eckhoff",
+        "lang:en": "Jens Eckhoff"
+      },
+      "id": "Q1302894",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1302894"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Elombo Bolayela",
+        "lang:en": "Elombo Bolayela"
+      },
+      "id": "Q1307335",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1307335"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Elias Tsartilidis",
+        "lang:en": "Elias Tsartilidis"
+      },
+      "id": "Q1329157",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1329157"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Emin Sükrü Senkal",
+        "lang:en": "Emin Sükrü Senkal"
+      },
+      "id": "Q1337672",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1337672"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Rainer Bensch",
+        "lang:en": "Rainer Bensch"
+      },
+      "id": "Q1406076",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1406076"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Rainer Hamann",
+        "lang:en": "Rainer Hamann"
+      },
+      "id": "Q1411788",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1411788"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Petra Krümpfer",
+        "lang:en": "Petra Krümpfer"
+      },
+      "id": "Q1419740",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1419740"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Thomas vom Bruch",
+        "lang:en": "Thomas vom Bruch"
+      },
+      "id": "Q1433489",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1433489"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Frank Imhoff",
+        "lang:en": "Frank Imhoff"
+      },
+      "id": "Q1443481",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1443481"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Silvia Neumeyer",
+        "lang:en": "Silvia Neumeyer"
+      },
+      "id": "Q1445296",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1445296"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Sülmez Dogan",
+        "lang:en": "Sülmez Dogan"
+      },
+      "id": "Q1464323",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1464323"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Jan Timke",
+        "lang:en": "Jan Timke"
+      },
+      "id": "Q1515873",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1515873"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Oğuzhan Yazıcı",
+        "lang:en": "Oğuzhan Yazıcı"
+      },
+      "id": "Q15431533",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15431533"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Hauke Hilz",
+        "lang:en": "Hauke Hilz"
+      },
+      "id": "Q1589292",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1589292"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/hhilz"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Heiko Strohmann",
+        "lang:en": "Heiko Strohmann"
+      },
+      "id": "Q1594723",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1594723"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Wilko Zicht",
+        "lang:en": "Wilko Zicht"
+      },
+      "id": "Q15972042",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15972042"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Helmut Weigelt",
+        "lang:en": "Helmut Weigelt"
+      },
+      "id": "Q1604304",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1604304"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Henrike Müller",
+        "lang:en": "Henrike Müller"
+      },
+      "id": "Q1606347",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1606347"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Wilhelm Hinners",
+        "lang:en": "Wilhelm Hinners"
+      },
+      "id": "Q1650784",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1650784"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Insa Peters-Rehwinkel",
+        "lang:en": "Insa Peters-Rehwinkel"
+      },
+      "id": "Q1664355",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1664355"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Jan Saffe",
+        "lang:en": "Jan Saffe"
+      },
+      "id": "Q1682184",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1682184"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Jens Crueger",
+        "lang:en": "Jens Crueger"
+      },
+      "id": "Q1687146",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1687146"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Jörg Kastendiek",
+        "lang:en": "Jörg Kastendiek"
+      },
+      "id": "Q1715392",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1715392"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Jürgen Pohlmann",
+        "lang:en": "Jürgen Pohlmann"
+      },
+      "id": "Q1717559",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1717559"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Peter Erlanson",
+        "lang:en": "Peter Erlanson"
+      },
+      "id": "Q1734201",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1734201"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Kirsten Kappert-Gonther",
+        "lang:en": "Kirsten Kappert-Gonther"
+      },
+      "id": "Q1743637",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1743637"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Klaus-Rainer Rupp",
+        "lang:en": "Klaus-Rainer Rupp"
+      },
+      "id": "Q1744836",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1744836"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Klaus Möhle",
+        "lang:en": "Klaus Möhle"
+      },
+      "id": "Q1745479",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1745479"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Mehmet Ali Seyrek",
+        "lang:en": "Mehmet Ali Seyrek"
+      },
+      "id": "Q1747830",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1747830"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Lencke Steiner",
+        "lang:en": "Lencke Steiner"
+      },
+      "id": "Q17577309",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17577309"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/lencke.steiner"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Ralph Saxe",
+        "lang:en": "Ralph Saxe"
+      },
+      "id": "Q1779123",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1779123"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Kristina Vogt",
+        "lang:en": "Kristina Vogt"
+      },
+      "id": "Q1781231",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1781231"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Matthias Güldner",
+        "lang:en": "Matthias Güldner"
+      },
+      "id": "Q1794379",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1794379"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Magnus Buhlert",
+        "lang:en": "Magnus Buhlert"
+      },
+      "id": "Q1884523",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1884523"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Manuela Mahnke",
+        "lang:en": "Manuela Mahnke"
+      },
+      "id": "Q1891820",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1891820"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Max Liess",
+        "lang:en": "Max Liess"
+      },
+      "id": "Q1912960",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1912960"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Mustafa Güngör",
+        "lang:en": "Mustafa Güngör"
+      },
+      "id": "Q1955530",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1955530"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Mustafa Öztürk",
+        "lang:en": "Mustafa Öztürk"
+      },
+      "id": "Q1955581",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1955581"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Christian Schäfer",
+        "lang:en": "Christian Schäfer"
+      },
+      "id": "Q19868520",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19868520"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Rainer Buchholz",
+        "lang:en": "Rainer Buchholz"
+      },
+      "id": "Q19959091",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19959091"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Robert Bücking",
+        "lang:en": "Robert Bücking"
+      },
+      "id": "Q19959096",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19959096"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Nelson Janßen",
+        "lang:en": "Nelson Janßen"
+      },
+      "id": "Q19959965",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19959965"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Piet Leidreiter",
+        "lang:en": "Piet Leidreiter"
+      },
+      "id": "Q19960291",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19960291"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Julie Kohlrausch",
+        "lang:en": "Julie Kohlrausch"
+      },
+      "id": "Q19960321",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19960321"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Miriam Strunge",
+        "lang:en": "Miriam Strunge"
+      },
+      "id": "Q19963978",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19963978"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Alexander Tassis",
+        "lang:en": "Alexander Tassis"
+      },
+      "id": "Q19963983",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19963983"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/alexander.tassis"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Peter Zenner",
+        "lang:en": "Peter Zenner"
+      },
+      "id": "Q19964022",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19964022"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Klaus Remkes",
+        "lang:en": "Klaus Remkes"
+      },
+      "id": "Q19969723",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19969723"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Marco Lübke",
+        "lang:en": "Marco Lübke"
+      },
+      "id": "Q19972785",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19972785"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Mehmet Sirri Acar",
+        "lang:en": "Mehmet Sirri Acar"
+      },
+      "id": "Q20170922",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20170922"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Birgit Bergmann",
+        "lang:en": "Birgit Bergmann"
+      },
+      "id": "Q20171176",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20171176"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Sophia Leonidakis",
+        "lang:en": "Sophia Leonidakis"
+      },
+      "id": "Q20184539",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20184539"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Turhal Özdal",
+        "lang:en": "Turhal Özdal"
+      },
+      "id": "Q20242856",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20242856"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Uwe Schmidt",
+        "lang:en": "Uwe Schmidt"
+      },
+      "id": "Q20243187",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20243187"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Christine Schnittker",
+        "lang:en": "Christine Schnittker"
+      },
+      "id": "Q20243206",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20243206"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Heike Sprehe",
+        "lang:en": "Heike Sprehe"
+      },
+      "id": "Q20243276",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20243276"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Holger Welt",
+        "lang:en": "Holger Welt"
+      },
+      "id": "Q20243372",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20243372"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Patrick Öztürk",
+        "lang:en": "Patrick Öztürk"
+      },
+      "id": "Q2058072",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2058072"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Paul Bödeker",
+        "lang:en": "Paul Bödeker"
+      },
+      "id": "Q2059070",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2059070"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Stephanie Dehne",
+        "lang:en": "Stephanie Dehne"
+      },
+      "id": "Q20638665",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20638665"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Sascha Lucht",
+        "lang:en": "Sascha Lucht"
+      },
+      "id": "Q20653338",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20653338"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Sascha Karolin Aulepp",
+        "lang:en": "Sascha Karolin Aulepp"
+      },
+      "id": "Q20724990",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20724990"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Petra Jäschke",
+        "lang:en": "Petra Jäschke"
+      },
+      "id": "Q21013348",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21013348"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Sandra Ahrens",
+        "lang:en": "Sandra Ahrens"
+      },
+      "id": "Q2220948",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2220948"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Susanne Grobien",
+        "lang:en": "Susanne Grobien"
+      },
+      "id": "Q2369231",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2369231"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Susanne Wendland",
+        "lang:en": "Susanne Wendland"
+      },
+      "id": "Q2369570",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2369570"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Sybille Böschen",
+        "lang:en": "Sybille Böschen"
+      },
+      "id": "Q2373529",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2373529"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Valentina Tuchel",
+        "lang:en": "Valentina Tuchel"
+      },
+      "id": "Q2508605",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2508605"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Andreas Kottisch",
+        "lang:en": "Andreas Kottisch"
+      },
+      "id": "Q498955",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q498955"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Anne Schierenbeck",
+        "lang:en": "Anne Schierenbeck"
+      },
+      "id": "Q565766",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q565766"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Antje Grotheer",
+        "lang:en": "Antje Grotheer"
+      },
+      "id": "Q584698",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q584698"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Arno Gottschalk",
+        "lang:en": "Arno Gottschalk"
+      },
+      "id": "Q694279",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q694279"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Bernd Ravens",
+        "lang:en": "Bernd Ravens"
+      },
+      "id": "Q824027",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q824027"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Björn Fecker",
+        "lang:en": "Björn Fecker"
+      },
+      "id": "Q879599",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q879599"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Björn Tschöpe",
+        "lang:en": "Björn Tschöpe"
+      },
+      "id": "Q879744",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q879744"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:de": "Bremische Bürgerschaft",
+        "lang:en": "Bürgerschaft of Bremen"
+      },
+      "id": "Q317147",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q317147"
+        }
+      ],
+      "area_id": "Q1209",
+      "seat_counts": {
+        "Q17441472": "83"
+      }
+    }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q101101-B468B115-3E23-4625-9215-786618D6A4D3",
+      "person_id": "Q101101",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1082234-208825a8-43e1-2f6a-3bf2-bb5b25154ce8",
+      "person_id": "Q1082234",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1092291-3709c322-480d-9d64-32eb-3f973d1f06f8",
+      "person_id": "Q1092291",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1094590-F0009E17-7199-4551-BD6A-E8068C167D02",
+      "person_id": "Q1094590",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1097340-8b31f36c-4a64-bc7c-d5ab-062162f0af7f",
+      "person_id": "Q1097340",
+      "organization_id": "Q317147",
+      "start_date": "2011-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1222672-DF863AD3-32B3-4A2E-BC06-8206F7D947FE",
+      "person_id": "Q1222672",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1263794-3AE5E1EC-E883-4912-946F-F9F4053A64CF",
+      "person_id": "Q1263794",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1283515-7E007667-05A0-476E-9459-1B90FA6A505D",
+      "person_id": "Q1283515",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1302894-1C25DB92-8823-4D72-B610-68EC2A37A3EC",
+      "person_id": "Q1302894",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1307335-52f2ca75-4fa7-2bce-7978-a260bdbe7d4e",
+      "person_id": "Q1307335",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1329157-E02EDEC0-A745-4EE5-98E0-6B40C1FBBD67",
+      "person_id": "Q1329157",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1337672-2D50D195-9867-4BB4-B13D-E6C6EB132AE9",
+      "person_id": "Q1337672",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1406076-D24D2809-4C56-4E47-AA98-2063533ABD29",
+      "person_id": "Q1406076",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1411788-C6C2F47B-C33F-459E-8F12-F3661508AC5D",
+      "person_id": "Q1411788",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1419740-C20AEDAD-2803-4522-9034-CB74386A9D5C",
+      "person_id": "Q1419740",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1433489-E31DA045-D2F2-4350-9B0B-5A52A3465B00",
+      "person_id": "Q1433489",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1443481-68061369-524C-428B-994F-6012B77E3301",
+      "person_id": "Q1443481",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1445296-FA592A76-BA5D-4FF3-8A11-2C3D85633129",
+      "person_id": "Q1445296",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1464323-FABBF3B1-CA29-49FC-8FC1-B5710FC13FDD",
+      "person_id": "Q1464323",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1515873-89417F1B-0A1B-4FFE-9515-E4D64CBEA4CC",
+      "person_id": "Q1515873",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15431533-49B5A04F-1DF6-460D-83BE-6A7CE21662A4",
+      "person_id": "Q15431533",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1589292-9C4CC173-ED2B-401F-87E8-9C33554925FE",
+      "person_id": "Q1589292",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1594723-7CFB17F0-4EB0-4163-B1C6-C2292E37F0D1",
+      "person_id": "Q1594723",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15972042-D0E9F9BA-4520-492C-B41E-F31A5C13E358",
+      "person_id": "Q15972042",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1604304-63ECDD19-FA0A-4C1F-B74F-F896F1A5865D",
+      "person_id": "Q1604304",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1606347-D7199376-8CFD-4F34-9A91-C3BC0BEC495A",
+      "person_id": "Q1606347",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1650784-446F782D-6EEF-4D35-80CC-324B1AC23BBA",
+      "person_id": "Q1650784",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1664355-714C1A6B-C33D-4058-AC8E-F7F0A7965BC2",
+      "person_id": "Q1664355",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1682184-88AE779D-31EB-49BB-9BAC-3A7165D15E8D",
+      "person_id": "Q1682184",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1687146-9AE206A6-F770-4C80-B4F3-CA44A4035FF7",
+      "person_id": "Q1687146",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1715392-64AB8177-A942-474C-8FEB-AF5464A4DDBC",
+      "person_id": "Q1715392",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1717559-F69C26D9-0F5D-4D49-B675-22F47564B497",
+      "person_id": "Q1717559",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1734201-AE764F41-2422-4D3E-8FFD-E5E9E880AC12",
+      "person_id": "Q1734201",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1743637-dc3fbe03-42fd-0b23-196a-de202c9adf8c",
+      "person_id": "Q1743637",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1744836-B9ED3AF5-AB28-443B-95D6-864F00D509D7",
+      "person_id": "Q1744836",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1745479-114C30E4-94CF-4BDA-BBFA-788506F412E6",
+      "person_id": "Q1745479",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1747830-208BE3B3-F643-4AFF-AAE3-DD805808354C",
+      "person_id": "Q1747830",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17577309-0CD89436-315A-4B32-A68E-D17ACFEF1D8B",
+      "person_id": "Q17577309",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1779123-5e5b7d9f-4ea3-d838-afb9-fbeb201c2f1e",
+      "person_id": "Q1779123",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1781231-94EF09CD-8275-41A8-B372-D8EBF6A2D6EF",
+      "person_id": "Q1781231",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1794379-A54EC322-7C9C-4AEB-AC38-75D59BDB81D1",
+      "person_id": "Q1794379",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1884523-DDE43491-DA52-41F9-91CE-C6D109EF4A2A",
+      "person_id": "Q1884523",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1891820-FAA1F6D3-6301-4AAC-BC4A-DA9D6D7FD362",
+      "person_id": "Q1891820",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1912960-3024DEAA-B3D5-4F2C-9592-0E22BE4C167F",
+      "person_id": "Q1912960",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1955530-A5206A25-31B9-4008-A067-E821C88ABBA2",
+      "person_id": "Q1955530",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1955581-E06270F8-AAC8-4D1B-AFE8-0D80C9475F00",
+      "person_id": "Q1955581",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19868520-1B215ABF-D895-44E7-B715-0ED7A1AAB9A4",
+      "person_id": "Q19868520",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19959091-A5EA882C-0BC8-47A8-9005-B7DA2AABB88D",
+      "person_id": "Q19959091",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19959096-9C87641B-AA12-4795-965B-28DEDEC796DE",
+      "person_id": "Q19959096",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19959965-38E0B3F9-F8ED-4490-9773-5C5507A24143",
+      "person_id": "Q19959965",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19960291-3AD873B4-2871-4949-AC4D-C8A2B75CAECD",
+      "person_id": "Q19960291",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19960321-1A3216BD-7976-430C-9C60-FA857989BF7C",
+      "person_id": "Q19960321",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19963978-384AEBCF-DD69-4C42-85A7-60C1C2E05E4C",
+      "person_id": "Q19963978",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19963983-12673099-6F94-49DA-9C73-CE97BE6E284B",
+      "person_id": "Q19963983",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19964022-C1A5BAE9-70C6-4D51-BB72-DE6CA95F03BF",
+      "person_id": "Q19964022",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19969723-D0CE0BD8-BDCE-4EE8-A030-1BCFA486718C",
+      "person_id": "Q19969723",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19972785-A0AA9D6C-E011-467C-84AA-2BD329FEC669",
+      "person_id": "Q19972785",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20170922-ABFED71C-A063-42C1-AFAA-CB1B1C4D1A19",
+      "person_id": "Q20170922",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20171176-AFA194AA-887A-4440-A3F6-29986DD0A440",
+      "person_id": "Q20171176",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20184539-0547668D-5849-4F64-A2DA-2963E167919A",
+      "person_id": "Q20184539",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20242856-C867AF9C-AA13-4E34-A157-A616B95C17F5",
+      "person_id": "Q20242856",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20243187-B4B91F00-F0B3-4BF9-B905-25891A43E7C5",
+      "person_id": "Q20243187",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20243206-DA04A2FE-D3B8-4278-883A-AB0F79A6BB92",
+      "person_id": "Q20243206",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20243276-B223B627-3753-4F99-84A2-9493978644A2",
+      "person_id": "Q20243276",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20243372-C910DBBB-65B3-4A4D-BB9B-E0D87299276F",
+      "person_id": "Q20243372",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2058072-ABCF6E2E-3F94-4609-BE55-D2AEEE550BD4",
+      "person_id": "Q2058072",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2059070-8A6BB896-F3E7-4C34-9D7B-BA1E262F2055",
+      "person_id": "Q2059070",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20638665-E9D4CEBB-4972-4C15-90EE-17B03A4CF453",
+      "person_id": "Q20638665",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20653338-70330B03-440B-4B65-9DA8-3F8548AB6006",
+      "person_id": "Q20653338",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20724990-2C83FE2C-22DC-406E-94B6-FAD15601DE5F",
+      "person_id": "Q20724990",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21013348-9A1AC7FC-4059-4308-93A5-D130C1913FB7",
+      "person_id": "Q21013348",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2220948-B50257C5-22BD-42EC-B25A-AF7C09E00F9A",
+      "person_id": "Q2220948",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2369231-D61E27B5-F410-47F2-8410-1861AA2FD2B4",
+      "person_id": "Q2369231",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2369570-13B33859-436B-432E-837F-3EB20B57D46E",
+      "person_id": "Q2369570",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2373529-CAD1E1CE-C1AF-4483-BC14-C5642402DBAB",
+      "person_id": "Q2373529",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2508605-3EFF461D-81B0-47DC-82EB-9B3F21DA7A2A",
+      "person_id": "Q2508605",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q498955-ce5aa439-4f45-208c-73b7-2a6ed448fd06",
+      "person_id": "Q498955",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q565766-7648cc7a-4b47-fb44-139c-b42facaf84da",
+      "person_id": "Q565766",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q584698-abf1fa04-4055-c69f-affe-0c87d4dc36f1",
+      "person_id": "Q584698",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q694279-12095d02-449f-04ef-31c6-6b14e7b32dfa",
+      "person_id": "Q694279",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q824027-336a7259-4a20-ad0e-f687-ac53b4ccdb6c",
+      "person_id": "Q824027",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q879599-faf33e65-4191-f63f-b45a-7813b0c33f68",
+      "person_id": "Q879599",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q879744-cd327e0f-4406-2e0f-2845-6d321c1bf833",
+      "person_id": "Q879744",
+      "organization_id": "Q317147",
+      "start_date": "2015-06-08",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17441472",
+      "role": {
+        "lang:de": "Mitglied der Bremischen Bürgerschaft",
+        "lang:en": "Member of the Bürgerschaft of Bremen"
+      }
+    }
   ]
 }

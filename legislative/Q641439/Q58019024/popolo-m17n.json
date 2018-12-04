@@ -66,6 +66,22 @@
     },
     {
       "name": {
+        "lang:de": "Ernst Lechner",
+        "lang:en": "Ernst Lechner"
+      },
+      "id": "Q1090763",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1090763"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Markus Blume",
         "lang:en": "Markus Blume"
       },
@@ -181,6 +197,22 @@
     },
     {
       "name": {
+        "lang:de": "Hans Zehetmair",
+        "lang:en": "Hans Zehetmair"
+      },
+      "id": "Q1302438",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1302438"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Harald Güller",
         "lang:en": "Harald Güller"
       },
@@ -205,6 +237,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q1326729"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Erich Kiesl",
+        "lang:en": "Erich Kiesl"
+      },
+      "id": "Q1352561",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1352561"
         }
       ],
       "links": [
@@ -301,6 +349,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q1429720"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Florian Ritter",
+        "lang:en": "Florian Ritter"
+      },
+      "id": "Q1429879",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1429879"
         }
       ],
       "links": [
@@ -925,6 +989,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q1525807"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Ilse Aigner",
+        "lang:en": "Ilse Aigner"
+      },
+      "id": "Q153460",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q153460"
         }
       ],
       "links": [
@@ -1931,6 +2011,22 @@
     },
     {
       "name": {
+        "lang:de": "Barbara Stamm",
+        "lang:en": "Barbara Stamm"
+      },
+      "id": "Q538376",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q538376"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:de": "Gülseren Demirel",
         "lang:en": "Gülseren Demirel"
       },
@@ -2419,6 +2515,22 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q1090763-31524D4C-6CBB-4785-B189-18B700034C83",
+      "person_id": "Q1090763",
+      "organization_id": "Q641439",
+      "start_date": "1962-01-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17586301",
+      "role": {
+        "lang:de": "Mitglied des Bayerischen Landtags",
+        "lang:en": "Member of the Landtag of Bavaria"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q110864-DEF56F15-3593-4167-A332-4D1D715752ED",
       "person_id": "Q110864",
       "organization_id": "Q641439",
@@ -2532,6 +2644,23 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q1302438-9599A6EF-2EF5-4139-8FA9-9FD158EC6A32",
+      "person_id": "Q1302438",
+      "organization_id": "Q641439",
+      "area_id": "Q1702535",
+      "start_date": "1974-01-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17586301",
+      "role": {
+        "lang:de": "Mitglied des Bayerischen Landtags",
+        "lang:en": "Member of the Landtag of Bavaria"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q1307950-2C0B2773-2259-4052-9C6B-4D8F795B0A75",
       "person_id": "Q1307950",
       "organization_id": "Q641439",
@@ -2552,6 +2681,22 @@
       "person_id": "Q1326729",
       "organization_id": "Q641439",
       "start_date": "2018-11-05",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17586301",
+      "role": {
+        "lang:de": "Mitglied des Bayerischen Landtags",
+        "lang:en": "Member of the Landtag of Bavaria"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1352561-3A426B8B-C419-4CFB-A1D1-D27076C46A6C",
+      "person_id": "Q1352561",
+      "organization_id": "Q641439",
+      "start_date": "1966-01-01",
       "role_superclass_code": "Q1939559",
       "role_superclass": {
         "lang:de": "Mitglied des Landtages",
@@ -2648,6 +2793,22 @@
       "person_id": "Q1429720",
       "organization_id": "Q641439",
       "start_date": "2018-11-05",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17586301",
+      "role": {
+        "lang:de": "Mitglied des Bayerischen Landtags",
+        "lang:en": "Member of the Landtag of Bavaria"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1429879-BCB50D93-D78E-4E12-9A78-DB6C7C4DECA5",
+      "person_id": "Q1429879",
+      "organization_id": "Q641439",
+      "start_date": "2003-01-01",
       "role_superclass_code": "Q1939559",
       "role_superclass": {
         "lang:de": "Mitglied des Landtages",
@@ -3273,6 +3434,22 @@
       "person_id": "Q1525807",
       "organization_id": "Q641439",
       "start_date": "2018-11-05",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17586301",
+      "role": {
+        "lang:de": "Mitglied des Bayerischen Landtags",
+        "lang:en": "Member of the Landtag of Bavaria"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q153460-9cbe564a-406e-47d4-caad-313406a93478",
+      "person_id": "Q153460",
+      "organization_id": "Q641439",
+      "start_date": "2013-10-07",
       "role_superclass_code": "Q1939559",
       "role_superclass": {
         "lang:de": "Mitglied des Landtages",
@@ -4267,6 +4444,22 @@
       "person_id": "Q534581",
       "organization_id": "Q641439",
       "start_date": "2018-11-05",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17586301",
+      "role": {
+        "lang:de": "Mitglied des Bayerischen Landtags",
+        "lang:en": "Member of the Landtag of Bavaria"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q538376-d6ae3e2d-45b5-c813-b044-b9376dbecc75",
+      "person_id": "Q538376",
+      "organization_id": "Q641439",
+      "start_date": "2008-10-20",
       "role_superclass_code": "Q1939559",
       "role_superclass": {
         "lang:de": "Mitglied des Landtages",

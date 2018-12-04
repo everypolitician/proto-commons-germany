@@ -104,10 +104,10 @@
       "on_behalf_of_id": "Q49763",
       "organization_id": "Q812290",
       "area_id": "Q980",
-      "role_superclass_code": "Q15303555",
+      "role_superclass_code": "Q23833126",
       "role_superclass": {
-        "lang:de": "Ministerpräsident Bayerns",
-        "lang:en": "Minister-President of Bavaria"
+        "lang:de": "Ministerpräsident",
+        "lang:en": "Minister-President"
       },
       "role_code": "Q15303555",
       "role": {
@@ -122,10 +122,10 @@
       "organization_id": "Q812290",
       "area_id": "Q980",
       "start_date": "2018-03-21",
-      "role_superclass_code": "Q15303555",
+      "role_superclass_code": "Q23833126",
       "role_superclass": {
-        "lang:de": "Ministerpräsident Bayerns",
-        "lang:en": "Minister-President of Bavaria"
+        "lang:de": "Ministerpräsident",
+        "lang:en": "Minister-President"
       },
       "role_code": "Q15303555",
       "role": {
@@ -140,10 +140,10 @@
       "organization_id": "Q812290",
       "area_id": "Q980",
       "start_date": "1960-01-26",
-      "role_superclass_code": "Q15303555",
+      "role_superclass_code": "Q23833126",
       "role_superclass": {
-        "lang:de": "Ministerpräsident Bayerns",
-        "lang:en": "Minister-President of Bavaria"
+        "lang:de": "Ministerpräsident",
+        "lang:en": "Minister-President"
       },
       "role_code": "Q15303555",
       "role": {
@@ -158,10 +158,10 @@
       "organization_id": "Q812290",
       "area_id": "Q980",
       "start_date": "1962-12-11",
-      "role_superclass_code": "Q15303555",
+      "role_superclass_code": "Q23833126",
       "role_superclass": {
-        "lang:de": "Ministerpräsident Bayerns",
-        "lang:en": "Minister-President of Bavaria"
+        "lang:de": "Ministerpräsident",
+        "lang:en": "Minister-President"
       },
       "role_code": "Q15303555",
       "role": {
@@ -176,10 +176,10 @@
       "organization_id": "Q812290",
       "area_id": "Q980",
       "start_date": "1960-01-26",
-      "role_superclass_code": "Q15303555",
+      "role_superclass_code": "Q23833126",
       "role_superclass": {
-        "lang:de": "Ministerpräsident Bayerns",
-        "lang:en": "Minister-President of Bavaria"
+        "lang:de": "Ministerpräsident",
+        "lang:en": "Minister-President"
       },
       "role_code": "Q15303555",
       "role": {
@@ -194,10 +194,10 @@
       "organization_id": "Q812290",
       "area_id": "Q980",
       "start_date": "1962-12-11",
-      "role_superclass_code": "Q15303555",
+      "role_superclass_code": "Q23833126",
       "role_superclass": {
-        "lang:de": "Ministerpräsident Bayerns",
-        "lang:en": "Minister-President of Bavaria"
+        "lang:de": "Ministerpräsident",
+        "lang:en": "Minister-President"
       },
       "role_code": "Q15303555",
       "role": {

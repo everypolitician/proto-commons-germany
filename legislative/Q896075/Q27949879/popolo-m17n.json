@@ -1520,6 +1520,23 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q104678-bfc7d90b-4362-1797-6ec6-8b847f65dac6",
+      "person_id": "Q104678",
+      "organization_id": "Q896075",
+      "start_date": "2009-01-01",
+      "end_date": "2015-03-31",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q17344251",
+      "role": {
+        "lang:de": "Mitglied des Thüringer Landtags",
+        "lang:en": "Member of the Landtag of Thuringia"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q1083300-E7C35359-40E8-484B-B44C-1225C1592559",
       "person_id": "Q1083300",
       "organization_id": "Q896075",

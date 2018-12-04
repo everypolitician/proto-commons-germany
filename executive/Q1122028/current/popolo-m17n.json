@@ -58,10 +58,10 @@
       "organization_id": "Q1122028",
       "area_id": "Q1200",
       "start_date": "2013-01-16",
-      "role_superclass_code": "Q15720142",
+      "role_superclass_code": "Q23833126",
       "role_superclass": {
-        "lang:de": "Ministerpräsident von Rheinland-Pfalz",
-        "lang:en": "Minister-President of  Rhineland-Palatinate"
+        "lang:de": "Ministerpräsident",
+        "lang:en": "Minister-President"
       },
       "role_code": "Q15720142",
       "role": {

@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:de": "Niedersächsischer Landtag",
+        "lang:en": "Landtag of Lower Saxony"
+      },
+      "id": "Q319994",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q319994"
+        }
+      ],
+      "area_id": "Q1197",
+      "seat_counts": {
+        "Q17521638": "137"
+      }
+    }
   ],
   "areas": [
 

@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:de": "Deutscher Bundestag",
+        "lang:en": "Bundestag of Germany"
+      },
+      "id": "Q154797",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q154797"
+        }
+      ],
+      "area_id": "Q183",
+      "seat_counts": {
+        "Q1939555": "709"
+      }
+    }
   ],
   "areas": [
 

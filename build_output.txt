@@ -14,22 +14,27 @@ WARNING: the district Landtagswahlkreis Spree-Neiße II (Q1804633) wasn't found 
 WARNING: Position Mitglied des Landtag Nordrhein-Westfalen (Q17781726) not in boundary associated_wikidata_positions
 WARNING: Position Mitglied des Landtag Nordrhein-Westfalen (Q17781726) not in boundary associated_wikidata_positions
 WARNING: Position Mitglied des Abgeordnetenhaus von Berlin (Q18327335) not in boundary associated_wikidata_positions
+WARNING: the district Wahlkreis Pankow 1 (Q1312520) wasn't found in the boundary data for position Mitglied des Abgeordnetenhaus von Berlin (Q18327335)
+WARNING: the district Landesliste (Q1802367) wasn't found in the boundary data for position Mitglied des Abgeordnetenhaus von Berlin (Q18327335)
+WARNING: the district Landesliste (Q1802367) wasn't found in the boundary data for position Mitglied des Abgeordnetenhaus von Berlin (Q18327335)
 WARNING: Position Mitglied des Bayerischen Landtags (Q17586301) not in boundary associated_wikidata_positions
 WARNING: the district Wahlkreis Oberbayern (Q1324071) wasn't found in the boundary data for position Mitglied des Bayerischen Landtags (Q17586301)
+WARNING: the district Stimmkreis Erding (Q1702535) wasn't found in the boundary data for position Mitglied des Bayerischen Landtags (Q17586301)
 WARNING: the district Stimmkreis München-Milbertshofen (Q1518282) wasn't found in the boundary data for position Mitglied des Bayerischen Landtags (Q17586301)
 WARNING: the district Stimmkreis Landshut (Q2349979) wasn't found in the boundary data for position Mitglied des Bayerischen Landtags (Q17586301)
 WARNING: the district Stimmkreis Ingolstadt (Q1446858) wasn't found in the boundary data for position Mitglied des Bayerischen Landtags (Q17586301)
 WARNING: the district Stimmkreis Nürnberg-West (Q1627491) wasn't found in the boundary data for position Mitglied des Bayerischen Landtags (Q17586301)
 WARNING: Position Mitglied des Landtag Mecklenburg-Vorpommern (Q18327349) not in boundary associated_wikidata_positions
+WARNING: the district Landtagswahlkreis Landkreis Rostock I (Q1628959) wasn't found in the boundary data for position Mitglied des Landtag Mecklenburg-Vorpommern (Q18327349)
+WARNING: the district Landtagswahlkreis Landkreis Rostock I (Q1628959) wasn't found in the boundary data for position Mitglied des Landtag Mecklenburg-Vorpommern (Q18327349)
 WARNING: Position Mitglied des Landtag Mecklenburg-Vorpommern (Q18327349) not in boundary associated_wikidata_positions
+WARNING: the district Landtagswahlkreis Landkreis Rostock I (Q1628959) wasn't found in the boundary data for position Mitglied des Landtag Mecklenburg-Vorpommern (Q18327349)
 WARNING: Position Mitglied des Landtag Mecklenburg-Vorpommern (Q18327349) not in boundary associated_wikidata_positions
+WARNING: the district Landtagswahlkreis Landkreis Rostock I (Q1628959) wasn't found in the boundary data for position Mitglied des Landtag Mecklenburg-Vorpommern (Q18327349)
+WARNING: the district Landtagswahlkreis Landkreis Rostock I (Q1628959) wasn't found in the boundary data for position Mitglied des Landtag Mecklenburg-Vorpommern (Q18327349)
 WARNING: Position Mitglied des Sächsischen Landtages (Q17334379) not in boundary associated_wikidata_positions
 WARNING: Position Mitglied des Landtag Sachsen-Anhalt (Q18559580) not in boundary associated_wikidata_positions
 WARNING: Position Mitglied des Thüringer Landtags (Q17344251) not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position [no item] not in boundary associated_wikidata_positions
-WARNING: Position Bundeskanzler (Q4970706) not in boundary associated_wikidata_positions
-WARNING: the district Deutschland (Q183) wasn't found in the boundary data for position Bundeskanzler (Q4970706)
 WARNING: Position Ministerpräsident von Rheinland-Pfalz (Q15720142) not in boundary associated_wikidata_positions
 WARNING: the district Rheinland-Pfalz (Q1200) wasn't found in the boundary data for position Ministerpräsident von Rheinland-Pfalz (Q15720142)
 WARNING: Position Ministerpräsident Sachsen-Anhalts (Q30968305) not in boundary associated_wikidata_positions
@@ -53,9 +58,17 @@ WARNING: the district Nordrhein-Westfalen (Q1198) wasn't found in the boundary d
 WARNING: Position Ministerpräsident Sachsens (Q30569887) not in boundary associated_wikidata_positions
 WARNING: the district Sachsen (Q1202) wasn't found in the boundary data for position Ministerpräsident Sachsens (Q30569887)
 WARNING: the district Sachsen (Q1202) wasn't found in the boundary data for position Ministerpräsident Sachsens (Q30569887)
+WARNING: Position Bundeskanzler (Q4970706) not in boundary associated_wikidata_positions
+WARNING: the district Deutschland (Q183) wasn't found in the boundary data for position Bundeskanzler (Q4970706)
+WARNING: the district Deutschland (Q183) wasn't found in the boundary data for position Bundeskanzler (Q4970706)
 WARNING: Position Bremer Bürgermeister (Q31388880) not in boundary associated_wikidata_positions
 WARNING: the district Freie Hansestadt Bremen (Q1209) wasn't found in the boundary data for position Bremer Bürgermeister (Q31388880)
+WARNING: the district Freie Hansestadt Bremen (Q1209) wasn't found in the boundary data for position Bremer Bürgermeister (Q31388880)
 WARNING: Position Regierender Bürgermeister von Berlin (Q641159) not in boundary associated_wikidata_positions
+WARNING: the district Berlin (Q64) wasn't found in the boundary data for position Regierender Bürgermeister von Berlin (Q641159)
+WARNING: the district Berlin (Q64) wasn't found in the boundary data for position Regierender Bürgermeister von Berlin (Q641159)
+WARNING: the district Berlin (Q64) wasn't found in the boundary data for position Regierender Bürgermeister von Berlin (Q641159)
+WARNING: the district Berlin (Q64) wasn't found in the boundary data for position Regierender Bürgermeister von Berlin (Q641159)
 WARNING: the district Berlin (Q64) wasn't found in the boundary data for position Regierender Bürgermeister von Berlin (Q641159)
 WARNING: the district Berlin (Q64) wasn't found in the boundary data for position Regierender Bürgermeister von Berlin (Q641159)
 WARNING: Position Ministerpräsident Bayerns (Q15303555) not in boundary associated_wikidata_positions

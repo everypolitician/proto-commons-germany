@@ -1,14 +1,483 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:de": "Michael Müller",
+        "lang:en": "Michael Müller"
+      },
+      "id": "Q102844",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q102844"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Sebastian Czaja",
+        "lang:en": "Sebastian Czaja"
+      },
+      "id": "Q1294719",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1294719"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Fabio Reinhardt",
+        "lang:en": "Fabio Reinhardt"
+      },
+      "id": "Q1390579",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1390579"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Ralf Wieland",
+        "lang:en": "Ralf Wieland"
+      },
+      "id": "Q1727514",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1727514"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Sven Kohlmeier",
+        "lang:en": "Sven Kohlmeier"
+      },
+      "id": "Q2371194",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2371194"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Turgut Altuğ",
+        "lang:en": "Turgut Altuğ"
+      },
+      "id": "Q2460649",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2460649"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Wolfgang Albers",
+        "lang:en": "Wolfgang Albers"
+      },
+      "id": "Q2589082",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2589082"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Jessica Bießmann",
+        "lang:en": "Jessica Biessman"
+      },
+      "id": "Q27067602",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27067602"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/Jessica-Bießmann-189249388173108"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Christian Buchholz",
+        "lang:en": "Christian Buchholz"
+      },
+      "id": "Q27921853",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27921853"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Kristin Brinker",
+        "lang:en": "Kristin Brinker"
+      },
+      "id": "Q27991386",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27991386"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Herbert Mohr",
+        "lang:en": "Herbert Mohr"
+      },
+      "id": "Q28005184",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28005184"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Frank Scheermesser",
+        "lang:en": "Frank Scheermesser"
+      },
+      "id": "Q28005311",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28005311"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Frank Henkel",
+        "lang:en": "Frank Henkel"
+      },
+      "id": "Q95898",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q95898"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:de": "Anne Helm",
+        "lang:en": "Anne Helm"
+      },
+      "id": "Q99906",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q99906"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:de": "Abgeordnetenhaus von Berlin",
+        "lang:en": "Abgeordnetenhaus of Berlin"
+      },
+      "id": "Q640859",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q640859"
+        }
+      ],
+      "area_id": "Q64",
+      "seat_counts": {
+        "Q18327335": "149"
+      }
+    }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q102844-7e44f388-476b-222f-e4dd-66e46473ace2",
+      "person_id": "Q102844",
+      "organization_id": "Q640859",
+      "start_date": "1996-01-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18327335",
+      "role": {
+        "lang:de": "Mitglied des Abgeordnetenhaus von Berlin",
+        "lang:en": "Member of the Abgeordnetenhaus of Berlin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1294719-8aabe280-48d3-8075-608e-b42da031d874",
+      "person_id": "Q1294719",
+      "organization_id": "Q640859",
+      "start_date": "2016-09-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18327335",
+      "role": {
+        "lang:de": "Mitglied des Abgeordnetenhaus von Berlin",
+        "lang:en": "Member of the Abgeordnetenhaus of Berlin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1390579-3BBA1BBC-3680-4246-99FC-D15B5BA953E3",
+      "person_id": "Q1390579",
+      "organization_id": "Q640859",
+      "start_date": "2011-01-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18327335",
+      "role": {
+        "lang:de": "Mitglied des Abgeordnetenhaus von Berlin",
+        "lang:en": "Member of the Abgeordnetenhaus of Berlin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1727514-f2242b0a-460f-d50f-e430-dc49b0bcca22",
+      "person_id": "Q1727514",
+      "organization_id": "Q640859",
+      "start_date": "2011-01-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18327335",
+      "role": {
+        "lang:de": "Mitglied des Abgeordnetenhaus von Berlin",
+        "lang:en": "Member of the Abgeordnetenhaus of Berlin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2371194-9C96C6A8-584E-4409-9A1A-886115AAB10A",
+      "person_id": "Q2371194",
+      "organization_id": "Q640859",
+      "start_date": "2011-01-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18327335",
+      "role": {
+        "lang:de": "Mitglied des Abgeordnetenhaus von Berlin",
+        "lang:en": "Member of the Abgeordnetenhaus of Berlin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2460649-A720ACFD-A5A4-41B8-8CDF-D40B3CC6E289",
+      "person_id": "Q2460649",
+      "organization_id": "Q640859",
+      "start_date": "2011-01-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18327335",
+      "role": {
+        "lang:de": "Mitglied des Abgeordnetenhaus von Berlin",
+        "lang:en": "Member of the Abgeordnetenhaus of Berlin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2589082-2E216CC2-8F94-4477-8134-0EE1817F263E",
+      "person_id": "Q2589082",
+      "organization_id": "Q640859",
+      "start_date": "2006-09-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18327335",
+      "role": {
+        "lang:de": "Mitglied des Abgeordnetenhaus von Berlin",
+        "lang:en": "Member of the Abgeordnetenhaus of Berlin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27067602-37d26686-47e7-dfb4-350e-3990b674983b",
+      "person_id": "Q27067602",
+      "organization_id": "Q640859",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18327335",
+      "role": {
+        "lang:de": "Mitglied des Abgeordnetenhaus von Berlin",
+        "lang:en": "Member of the Abgeordnetenhaus of Berlin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27921853-6beb8f4e-4b16-3ae8-9363-0da786538296",
+      "person_id": "Q27921853",
+      "organization_id": "Q640859",
+      "area_id": "Q1312520",
+      "start_date": "2016-10-27",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18327335",
+      "role": {
+        "lang:de": "Mitglied des Abgeordnetenhaus von Berlin",
+        "lang:en": "Member of the Abgeordnetenhaus of Berlin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27991386-edd2b160-43bf-0f10-4cbd-002204afd30d",
+      "person_id": "Q27991386",
+      "organization_id": "Q640859",
+      "start_date": "2016-10-27",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18327335",
+      "role": {
+        "lang:de": "Mitglied des Abgeordnetenhaus von Berlin",
+        "lang:en": "Member of the Abgeordnetenhaus of Berlin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28005184-8aa2995d-4fdf-e08f-ca9c-743631c75ad2",
+      "person_id": "Q28005184",
+      "organization_id": "Q640859",
+      "area_id": "Q1802367",
+      "start_date": "2016-10-27",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18327335",
+      "role": {
+        "lang:de": "Mitglied des Abgeordnetenhaus von Berlin",
+        "lang:en": "Member of the Abgeordnetenhaus of Berlin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28005311-b2be19b0-4176-0b4c-fd66-c171f194503c",
+      "person_id": "Q28005311",
+      "organization_id": "Q640859",
+      "area_id": "Q1802367",
+      "start_date": "2016-10-27",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18327335",
+      "role": {
+        "lang:de": "Mitglied des Abgeordnetenhaus von Berlin",
+        "lang:en": "Member of the Abgeordnetenhaus of Berlin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q95898-95A0150B-FD09-4024-B614-0EB12005AA8F",
+      "person_id": "Q95898",
+      "organization_id": "Q640859",
+      "start_date": "2001-01-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18327335",
+      "role": {
+        "lang:de": "Mitglied des Abgeordnetenhaus von Berlin",
+        "lang:en": "Member of the Abgeordnetenhaus of Berlin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q99906-5e5724e3-47d1-d2df-1823-51a9bb861e2c",
+      "person_id": "Q99906",
+      "organization_id": "Q640859",
+      "start_date": "2016-09-01",
+      "role_superclass_code": "Q1939559",
+      "role_superclass": {
+        "lang:de": "Mitglied des Landtages",
+        "lang:en": "Member of Landtag"
+      },
+      "role_code": "Q18327335",
+      "role": {
+        "lang:de": "Mitglied des Abgeordnetenhaus von Berlin",
+        "lang:en": "Member of the Abgeordnetenhaus of Berlin"
+      }
+    }
   ]
 }
